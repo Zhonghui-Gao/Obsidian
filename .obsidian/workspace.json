@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "318afee126282d01",
+        "id": "f81de7033512bb85",
         "type": "tabs",
         "children": [
           {
-            "id": "466c129e4750c636",
+            "id": "15c16530b9ff8a79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Expertise/01 Verilog HDL/笔记/门级建模.md",
+                "file": "03 Expertise/02 armbian/笔记.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Expertise/01 Verilog HDL/笔记/门级建模.md",
+                "file": "03 Expertise/02 armbian/笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Expertise/01 Verilog HDL/笔记/门级建模.md",
+                "file": "03 Expertise/02 armbian/笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Expertise/01 Verilog HDL/笔记/门级建模.md"
+                "file": "03 Expertise/02 armbian/笔记.md"
               }
             }
           }
@@ -157,16 +157,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "466c129e4750c636",
+  "active": "15c16530b9ff8a79",
   "lastOpenFiles": [
-    "04 Image/circuit/门电路/非门.excalidraw.md",
-    "04 Image/circuit/模块/缓冲器.excalidraw.md",
-    "03 Expertise/01 Verilog HDL/笔记/门级建模.md",
+    "04 Image/bios/Pasted image 20230716123151.png",
+    "04 Image/bios",
+    "03 Expertise/02 armbian/笔记.md",
+    "05 Template/Markdown语法.md",
+    "README.md",
     "03 Expertise/01 Verilog HDL/笔记/Verilog 语法.md",
-    "03 Expertise/01 Verilog HDL/笔记/模块和端口.md",
-    "04 Image/circuit/门电路/与门.md",
     "01 Homepage/homepage.md",
     "01 Homepage/Records Library.md",
+    "03 Expertise/03 language/Python",
+    "03 Expertise/03 language/C",
+    "03 Expertise/03 language",
+    "03 Expertise/01 Verilog HDL/笔记/门级建模.md",
+    "03 Expertise/02 armbian",
+    "04 Image/circuit/门电路/非门.excalidraw.md",
+    "04 Image/circuit/模块/缓冲器.excalidraw.md",
+    "03 Expertise/01 Verilog HDL/笔记/模块和端口.md",
+    "04 Image/circuit/门电路/与门.md",
     "与门.excalidraw 1]   ]![[同或门.excalidraw.md",
     "04 Image/circuit/门电路/与非门.excalidraw.md",
     "04 Image/circuit/门电路/或门.excalidraw.md",
@@ -186,23 +195,14 @@
     "04 Image/circuit/模块/模块.excalidraw.md",
     "04 Image/circuit/模块/DFF.excalidraw.md",
     "04 Image/circuit",
-    "05 Template/Markdown语法.md",
     "05 Template/数学公式参考补充ing.md",
     "04 Image/circuit/模块/fulladd4.excalidraw.md",
     "03 Expertise/01 Verilog HDL/笔记/fulladd4.md",
-    "04 Image/circuit/模块/SR锁存器.excalidraw.md",
-    "Excalidraw/Scripts/Downloaded/Copy Selected Element Styles to Global.md",
     "Excalidraw/Scripts/Downloaded/Copy Selected Element Styles to Global.svg",
     "1687438488858.png",
     "1687438488858 1.png",
     "1687437406106.png",
     "1687438488858 2.png",
-    "02 Research/03 Leetcode Algorithm/每日一题②.md",
-    "Excalidraw/electrical-engineering.excalidrawlib",
-    "Excalidraw/circuit-components.excalidrawlib",
-    "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts",
-    "03 Expertise/01 Verilog HDL/附录",
     "01个人主页/未命名.canvas",
     "专业知识/未命名.canvas"
   ]
