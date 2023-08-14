@@ -9,7 +9,6 @@
   "blue-topaz-theme@@font-family-h4": "华康手札体W5P",
   "blue-topaz-theme@@font-family-h5": "华康手札体W5P,Bookerly, 'LXGW WenKai', var(--font-default)",
   "blue-topaz-theme@@font-family-h6": "华康手札体W5P,Bookerly, 'LXGW WenKai', var(--font-default)",
-  "blue-topaz-theme@@transparent-setting-panel": false,
   "blue-topaz-theme@@background-image-settings-switch": false,
   "blue-topaz-theme@@toggle-nonoverlapping-bg": false,
   "blue-topaz-theme@@background-image-settings-command-palette-switch": false,

@@ -27,6 +27,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "03 Expertise/02 armbian/上手/国产芯片hm3568.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5d18cf20fc26fd1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md",
                 "mode": "source",
                 "source": false
@@ -34,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -182,9 +194,11 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "fc46dac20ae50e96",
+  "active": "5d18cf20fc26fd1d",
   "lastOpenFiles": [
     "01 Homepage/homepage.md",
+    "03 Expertise/02 armbian/上手/国产芯片hm3568.md",
+    "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md",
     "01 Homepage/Records Library.md",
     "01 Homepage/linux.md",
     "03 Expertise/02 armbian/操作/编译问题.md",
@@ -197,9 +211,7 @@
     "03 Expertise/02 armbian/操作/buildroot.md",
     "03 Expertise/02 armbian/上手/uboot + kernel 启动动画.md",
     "03 Expertise/02 armbian/上手/Qt Gstreamer.md",
-    "03 Expertise/02 armbian/上手/国产芯片hm3568.md",
     "03 Expertise/02 armbian/上手/rk3568/设备树/LED.md",
-    "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md",
     "04 Image/编译/网络分布.md",
     "04 Image/编译/error.png",
     "04 Image/编译/网络分布.png",
