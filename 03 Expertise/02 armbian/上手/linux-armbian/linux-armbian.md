@@ -9,6 +9,8 @@ dg-home: true
 然后在fork一份liunx内核源码 
 再根据armbian拿到的内核源码 编译 后生成 
 git add 到仓库 git commit 
+内核源码太大，修改git add 容量：
+`git config http.postBuffer **524288000**
 
 
 git diff 比较 aimbian 究竟做了什么捏

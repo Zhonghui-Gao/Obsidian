@@ -27,8 +27,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Homepage/homepage.md",
-                "mode": "preview",
+                "file": "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Homepage/homepage.md",
+                "file": "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Homepage/homepage.md",
+                "file": "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Homepage/homepage.md"
+                "file": "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md"
               }
             }
           },
@@ -184,9 +184,9 @@
   },
   "active": "fc46dac20ae50e96",
   "lastOpenFiles": [
+    "01 Homepage/homepage.md",
     "01 Homepage/Records Library.md",
     "01 Homepage/linux.md",
-    "01 Homepage/homepage.md",
     "03 Expertise/02 armbian/操作/编译问题.md",
     "05 Template/实验记录模板.md",
     "03 Expertise/02 armbian/未命名.md",
