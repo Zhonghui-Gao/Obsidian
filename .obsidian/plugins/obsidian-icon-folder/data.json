@@ -19,7 +19,8 @@
       "right": 4,
       "bottom": 0,
       "left": 0
-    }
+    },
+    "iconInTabsEnabled": false
   },
   "03 Expertise": "FasGraduationCap",
   "04 Image": "LiImage",

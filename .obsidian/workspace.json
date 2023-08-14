@@ -4,22 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "f81de7033512bb85",
+        "id": "c44f8332c7e978e2",
         "type": "tabs",
         "children": [
           {
-            "id": "15c16530b9ff8a79",
+            "id": "2d4e124cbaa41050",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Homepage/homepage.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "fc46dac20ae50e96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Expertise/02 armbian/笔记.md",
-                "mode": "source",
+                "file": "01 Homepage/homepage.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Expertise/02 armbian/笔记.md",
+                "file": "01 Homepage/homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Expertise/02 armbian/笔记.md",
+                "file": "01 Homepage/homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,15 +148,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Expertise/02 armbian/笔记.md"
+                "file": "01 Homepage/homepage.md"
               }
             }
+          },
+          {
+            "id": "7cf484dd0bbaee68",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -153,56 +177,59 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
-      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "digitalgarden:Digital Garden Publication Center": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "15c16530b9ff8a79",
+  "active": "fc46dac20ae50e96",
   "lastOpenFiles": [
-    "04 Image/bios/Pasted image 20230716123151.png",
-    "04 Image/bios",
-    "03 Expertise/02 armbian/笔记.md",
-    "05 Template/Markdown语法.md",
-    "README.md",
-    "03 Expertise/01 Verilog HDL/笔记/Verilog 语法.md",
-    "01 Homepage/homepage.md",
     "01 Homepage/Records Library.md",
-    "03 Expertise/03 language/Python",
-    "03 Expertise/03 language/C",
-    "03 Expertise/03 language",
-    "03 Expertise/01 Verilog HDL/笔记/门级建模.md",
-    "03 Expertise/02 armbian",
-    "04 Image/circuit/门电路/非门.excalidraw.md",
-    "04 Image/circuit/模块/缓冲器.excalidraw.md",
-    "03 Expertise/01 Verilog HDL/笔记/模块和端口.md",
-    "04 Image/circuit/门电路/与门.md",
-    "与门.excalidraw 1]   ]![[同或门.excalidraw.md",
-    "04 Image/circuit/门电路/与非门.excalidraw.md",
-    "04 Image/circuit/门电路/或门.excalidraw.md",
-    "04 Image/circuit/门电路/同或门.excalidraw.md",
-    "04 Image/circuit/门电路/异或门.excalidraw.md",
-    "04 Image/circuit/门电路/与门.excalidraw.md",
-    "04 Image/circuit/门电路/或非门.excalidraw.md",
-    "04 Image/circuit/模块/端口连接规则.excalidraw.md",
-    "04 Image/circuit/模块",
-    "04 Image/circuit/门电路",
-    "Excalidraw/Drawing 2023-06-23 11.05.16.excalidraw.md",
+    "01 Homepage/homepage.md",
+    "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md",
+    "[linux-armbian.md",
+    "03 Expertise/02 armbian/操作/rk3568 环境设置.md",
+    "03 Expertise/02 armbian/操作/buildroot.md",
+    "03 Expertise/02 armbian/操作/烧录+linux环境.md",
+    "Pasted image 20230811162723.png.md",
+    "03 Expertise/02 armbian/任务/05 交叉编译文件系统及docker.md",
+    "03 Expertise/02 armbian/任务/03 自定义uboot及内核的流程.md",
+    "03 Expertise/02 armbian/任务/01 系统启动.md",
+    "README.md",
+    "Pasted image 20230811162723.png",
+    "03 Expertise/02 armbian/上手/uboot + kernel 启动动画.md",
+    "04 Image/编译/网络分布.md",
+    "Excalidraw/Drawing 2023-08-11 17.35.52.excalidraw.md",
     "Excalidraw",
-    "04 Image/background/Pasted image 20230410121244.png",
-    "04 Image/background",
-    "04 Image/background/wallhaven-we1lrq.jpg",
-    "04 Image/background/wallhaven-2yz3m9.jpg",
-    "04 Image/circuit/模块/模块.excalidraw.md",
-    "04 Image/circuit/模块/DFF.excalidraw.md",
-    "04 Image/circuit",
-    "05 Template/数学公式参考补充ing.md",
-    "04 Image/circuit/模块/fulladd4.excalidraw.md",
-    "03 Expertise/01 Verilog HDL/笔记/fulladd4.md",
-    "Excalidraw/Scripts/Downloaded/Copy Selected Element Styles to Global.svg",
-    "1687438488858.png",
-    "1687438488858 1.png",
-    "1687437406106.png",
-    "1687438488858 2.png",
+    "03 Expertise/02 armbian/操作/linux阅读源码.md",
+    "03 Expertise/02 armbian/上手/国产芯片hm3568.md",
+    "03 Expertise/02 armbian/上手/Qt Gstreamer.md",
+    "03 Expertise/02 armbian/上手/rk3568/设备树/LED.md",
+    "03 Expertise/02 armbian/上手/linux-armbian",
+    "Pasted image 20230807171924.png",
+    "03 Expertise/02 armbian/上手/rk3568/设备树",
+    "03 Expertise/02 armbian/上手/rk3568",
+    "04 Image/环境",
+    "04 Image/环境/Pasted image 20230806170301.png",
+    "04 Image/环境/Pasted image 20230806165943.png",
+    "04 Image/环境/Pasted image 20230806165738.png",
+    "04 Image/环境/Pasted image 20230806165626.png",
+    "03 Expertise/02 armbian/操作/编译问题.md",
+    "04 Image/编译/Pasted image 20230805160032.png",
+    "Pasted image 20230805160127.png",
+    "04 Image/编译/Pasted image 20230805175640.png",
+    "04 Image/编译/Pasted image 20230805153327.png",
+    "03 Expertise/02 armbian/任务/04 了解uefi和grub这些启动器的工作原理.md",
+    "03 Expertise/02 armbian/任务/02 uboot与内核之间的关系.md",
+    "04 Image/编译",
+    "03 Expertise/02 armbian/操作",
+    "未命名",
+    "03 Expertise/02 armbian/上手",
+    "04 Image/bios",
+    "05 Template/Markdown语法.md",
+    "03 Expertise/01 Verilog HDL/笔记/Verilog 语法.md",
+    "03 Expertise/01 Verilog HDL/笔记/门级建模.md",
+    "04 Image/circuit/门电路/非门.excalidraw.md",
     "01个人主页/未命名.canvas",
     "专业知识/未命名.canvas"
   ]

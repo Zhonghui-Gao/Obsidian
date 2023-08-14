@@ -1,4 +1,3 @@
-
 ---
 banner: "![[wallhaven-we1lrq.jpg]]"
 banner_y: 0.5
@@ -26,10 +25,9 @@ border: off
 
 --- column-end ---
 # 🎓Project
-
+[[linux-armbian]]
 
 === end-multi-column
-
 ```start-multi-column
 ID: ID_4  
 number of columns: 3  
