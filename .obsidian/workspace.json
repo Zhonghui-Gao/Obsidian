@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md",
+                "file": "03 Expertise/02 armbian/操作/rk3568 环境设置.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md",
+                "file": "03 Expertise/02 armbian/操作/rk3568 环境设置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md",
+                "file": "03 Expertise/02 armbian/操作/rk3568 环境设置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md"
+                "file": "03 Expertise/02 armbian/操作/rk3568 环境设置.md"
               }
             }
           },
@@ -196,9 +196,10 @@
   },
   "active": "5d18cf20fc26fd1d",
   "lastOpenFiles": [
+    "03 Expertise/02 armbian/操作/烧录+linux环境.md",
+    "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md",
     "01 Homepage/homepage.md",
     "03 Expertise/02 armbian/上手/国产芯片hm3568.md",
-    "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md",
     "01 Homepage/Records Library.md",
     "01 Homepage/linux.md",
     "03 Expertise/02 armbian/操作/编译问题.md",
@@ -217,7 +218,6 @@
     "04 Image/编译/网络分布.png",
     "04 Image/编译/网络分布.png.md",
     "[linux-armbian.md",
-    "03 Expertise/02 armbian/操作/烧录+linux环境.md",
     "Pasted image 20230811162723.png.md",
     "03 Expertise/02 armbian/任务/05 交叉编译文件系统及docker.md",
     "03 Expertise/02 armbian/任务/03 自定义uboot及内核的流程.md",
