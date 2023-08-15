@@ -39,8 +39,13 @@ git push -u linux-armbian hm3568
 ```
 
 
-然后比较两个分支的区别
-git diff hm3568 main > dtb1.patch
+然后比较两个分支的所需要修改的文件的区别
+
+git diff hm3568[path name] main [path name] > dtb1.patch
+[branch1] : hm3568 
+[branch2] : main
+[patch name] : dtb1.patch 
+
 生成两个警告：
 ```
 warning: exhaustive rename detection was skipped due to too many files. 
