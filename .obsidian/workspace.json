@@ -27,26 +27,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Expertise/02 armbian/上手/国产芯片hm3568.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d18cf20fc26fd1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Expertise/02 armbian/操作/rk3568 环境设置.md",
+                "file": "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Expertise/02 armbian/操作/rk3568 环境设置.md",
+                "file": "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Expertise/02 armbian/操作/rk3568 环境设置.md",
+                "file": "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Expertise/02 armbian/操作/rk3568 环境设置.md"
+                "file": "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md"
               }
             }
           },
@@ -194,19 +182,19 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "5d18cf20fc26fd1d",
+  "active": "fc46dac20ae50e96",
   "lastOpenFiles": [
+    "03 Expertise/02 armbian/上手/国产芯片hm3568.md",
+    "03 Expertise/02 armbian/操作/rk3568 环境设置.md",
     "03 Expertise/02 armbian/操作/烧录+linux环境.md",
     "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md",
     "01 Homepage/homepage.md",
-    "03 Expertise/02 armbian/上手/国产芯片hm3568.md",
     "01 Homepage/Records Library.md",
     "01 Homepage/linux.md",
     "03 Expertise/02 armbian/操作/编译问题.md",
     "05 Template/实验记录模板.md",
     "03 Expertise/02 armbian/未命名.md",
     "02 Research/03 Leetcode Algorithm/NOIP2006 普及组 明明的随机数.md",
-    "03 Expertise/02 armbian/操作/rk3568 环境设置.md",
     "04 Image/编译/网络分布.png",
     "03 Expertise/02 armbian/操作/linux阅读源码.md",
     "03 Expertise/02 armbian/操作/buildroot.md",

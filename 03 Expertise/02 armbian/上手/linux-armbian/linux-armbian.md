@@ -6,7 +6,7 @@ dg-home: true
 
 思路：
 远程创建仓库
-然后在fork一份liunx内核源码 
+然后在fork一份liunx内核源码 v6.4.8
 再根据armbian拿到的内核源码 编译 后生成 
 git add 到仓库 git commit 
 内核源码太大，修改git add 容量：
