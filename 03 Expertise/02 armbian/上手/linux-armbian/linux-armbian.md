@@ -8,6 +8,9 @@ dg-home: true
 远程创建仓库
 然后在fork一份liunx内核源码 v6.4.8
 再根据armbian拿到的内核源码 编译 后生成 
+armbian: 
+`Welcome to Armbian 23.08.0-trunk Jammy with bleeding edge Linux 6.4.8-rockchip64`
+
 git add 到仓库 git commit 
 内核源码太大，修改git add 容量：
 `git config http.postBuffer **524288000**`
