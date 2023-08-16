@@ -19,6 +19,17 @@ leds{
 
 打补丁方式具体见：[[linux-armbian]]
 
+```BASH
+./compile.sh  
+BOARD=hm3568\ 
+BRANCH=edge \
+BUILD_DESKTOP=no \ 
+BUILD_MINIMAL=no  \
+KERNEL_CONFIGURE=no \
+RELEASE=jammy  \
+BUILD_ONLY="kernel"\
+```
+
 修改rk3568-hm-dts 文件 git diff 生成补丁 
 放入
 ./userpatch/kernel/rockchip 
