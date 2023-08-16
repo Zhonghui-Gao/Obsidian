@@ -18,7 +18,12 @@ git diff 比较 aimbian 究竟做了什么捏
 chmod -R u+x 6.4__rockchip64_arm64 让可读可写
 单独复制一份 6.4__rockchip64_arm64/
 
+配 置 文 件 位 于 内 核 源 码 arch/arm/configs/目录
+
 `cd` 
+
+`make ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- rockchip__xx__defconfig`
+    
 `make ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- -j4 `
 
 git diff  这里想法
