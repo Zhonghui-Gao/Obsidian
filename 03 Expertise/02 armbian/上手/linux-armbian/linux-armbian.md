@@ -11,6 +11,22 @@ dg-home: true
 armbian: 
 `Welcome to Armbian 23.08.0-trunk Jammy with bleeding edge Linux 6.4.8-rockchip64`
 
+![[Pasted image 20230816151838.png]]
+编译参数：
+```BASH
+./compile.sh \
+build BOARD=hm3568\
+BRANCH=edge\
+BUILD_DESKTOP=no\
+BUILD_MINIMAL=no \
+KERNEL_CONFIGURE=no\
+RELEASE=jammy
+
+./compile.sh build BOARD=hm3568 BRANCH=edge BUILD_DESKTOP=no BUILD_MINIMAL=no KERNEL_CONFIGURE=no RELEASE=jammy
+```
+
+
+
 git add 到仓库 git commit 
 内核源码太大，修改git add 容量：
 `git config http.postBuffer **524288000**`
@@ -40,7 +56,7 @@ hm3568版本：hm3568（cp 的）
 2. `git rm -rf .git`
 然后添加编译的文件
 3. 
-``` C
+``` BASH
 git add . 
 git commit -m "mes"
 git push -u linux-armbian hm3568
@@ -55,7 +71,7 @@ git diff hm3568[path name] main [path name] > dtb1.patch
 [patch name] : dtb1.patch 
 
 生成两个警告：
-```
+``` BASH
 warning: exhaustive rename detection was skipped due to too many files. 
 warning: you may want to set your diff.renamelimit variable to at least 80290 and retry the command.
 ```
