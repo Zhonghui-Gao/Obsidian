@@ -17,3 +17,10 @@ leds{
 
 看见灯闪烁
 
+打补丁方式具体见：[[linux-armbian]]
+
+修改rk3568-hm-dts 文件 git diff 生成补丁 
+放入
+./userpatch/kernel/rockchip 
+
+

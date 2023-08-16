@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Expertise/02 armbian/上手/国产芯片hm3568.md",
+                "file": "03 Expertise/02 armbian/上手/rk3568/设备树/LED.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Expertise/02 armbian/上手/国产芯片hm3568.md",
+                "file": "03 Expertise/02 armbian/上手/rk3568/设备树/LED.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Expertise/02 armbian/上手/国产芯片hm3568.md",
+                "file": "03 Expertise/02 armbian/上手/rk3568/设备树/LED.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Expertise/02 armbian/上手/国产芯片hm3568.md"
+                "file": "03 Expertise/02 armbian/上手/rk3568/设备树/LED.md"
               }
             }
           },
@@ -182,13 +182,14 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "c7416abfbba7ebc7",
+  "active": "fc46dac20ae50e96",
   "lastOpenFiles": [
-    "03 Expertise/02 armbian/上手/Qt Gstreamer.md",
     "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md",
+    "03 Expertise/02 armbian/上手/rk3568/设备树/LED.md",
+    "03 Expertise/02 armbian/上手/国产芯片hm3568.md",
+    "03 Expertise/02 armbian/上手/Qt Gstreamer.md",
     "03 Expertise/03 linux",
     "03 Expertise/02 armbian/操作/编译问题.md",
-    "03 Expertise/02 armbian/上手/国产芯片hm3568.md",
     "Pasted image 20230816151838.png",
     "03 Expertise/02 armbian/操作/linux阅读源码.md",
     "03 Expertise/02 armbian/操作/烧录+linux环境.md",
@@ -202,7 +203,6 @@
     "04 Image/编译/网络分布.png",
     "03 Expertise/02 armbian/操作/buildroot.md",
     "03 Expertise/02 armbian/上手/uboot + kernel 启动动画.md",
-    "03 Expertise/02 armbian/上手/rk3568/设备树/LED.md",
     "04 Image/编译/网络分布.md",
     "04 Image/编译/error.png",
     "04 Image/编译/网络分布.png",

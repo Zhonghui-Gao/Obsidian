@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiGameLine",
       "SiLinux",
       "SiArm",
       "FabApple",
-      "FabAmazonPay",
-      "FabAffiliatetheme"
+      "FabAmazonPay"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -29,7 +29,7 @@
   "02 Research/01 Literature Reading": "FabAtlassian",
   "03 Expertise/01 Verilog HDL": "SiValorant",
   "05 Template": "LiLayoutTemplate",
-  "04 Image/circuit": "FarHardDrive",
+  "04 Image/circuit": "RiGameLine",
   "04 Image/background": "⬛",
   "03 Expertise/01 Verilog HDL/笔记": "FarNoteSticky",
   "03 Expertise/02 armbian": "SiArm",
