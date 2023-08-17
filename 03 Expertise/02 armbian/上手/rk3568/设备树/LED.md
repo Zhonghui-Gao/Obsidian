@@ -35,3 +35,4 @@ BUILD_ONLY="kernel"\
 ./userpatch/kernel/rockchip 
 
 
+![[Pasted image 20230817122919.png]]
