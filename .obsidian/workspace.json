@@ -28,9 +28,19 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "614e87d5ac93f43c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.7"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -173,7 +183,7 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "fc46dac20ae50e96",
+  "active": "614e87d5ac93f43c",
   "lastOpenFiles": [
     "03 Expertise/02 armbian/上手/rk3568/设备树/LED.md",
     "01 Homepage/homepage.md",
