@@ -4,7 +4,7 @@
 |:-------------:| ------------ | ------------- |
 | thinkpad E450 | balenaEtcher | LUbuntu 23.04 |
 
-· balenaEtcher 用U盘烧录系统
+· balenaEtcher 用U盘烧录系统 (Fn+F1 bios)
 · 笔记本进入bios界面 笔者用的thinkpad 为F12进入菜单，在Boot Menu中选择**USB HDD**，将U盘作为启动盘。
 ![[Pasted image 20230716123151.png]]
 · 参考连接：[联想thinkpad怎么设置u盘启动 联想笔记本thinkpad怎么设置u盘启动-电脑技术吧 (tpbz008.cn)](http://www.tpbz008.cn/post/18619.html) 

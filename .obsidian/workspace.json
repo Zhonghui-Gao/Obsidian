@@ -25,8 +25,12 @@
             "id": "fc46dac20ae50e96",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "03 Expertise/02 armbian/上手/rk3568/设备树/网口WOL.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -104,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "03 Expertise/02 armbian/上手/rk3568/设备树/网口WOL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "03 Expertise/02 armbian/上手/rk3568/设备树/网口WOL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "03 Expertise/02 armbian/上手/rk3568/设备树/网口WOL.md"
+              }
             }
           },
           {
@@ -173,19 +181,28 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "fc46dac20ae50e96",
+  "active": "c7416abfbba7ebc7",
   "lastOpenFiles": [
-    "03 Expertise/02 armbian/上手/rk3568/设备树/LED.md",
-    "01 Homepage/homepage.md",
-    "Pasted image 20230817122919.png",
+    "pdf/linux/01_嵌入式Linux应用开发完全手册V5.1_IMX6ULL_Pro开发板.pdf",
+    "03 Expertise/02 armbian/上手/rk3568/设备树/网口WOL.md",
+    "pdf/linux/[嵌入式Linux应用开发完全手册].有目录.pdf",
     "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md",
+    "03 Expertise/02 armbian/操作/烧录+linux环境.md",
+    "03 Expertise/02 armbian/上手/rk3568/设备树/LED.md",
     "03 Expertise/02 armbian/上手/国产芯片hm3568.md",
+    "04 Image/编译/Pasted image 20230816151838.png",
+    "04 Image/编译/Pasted image 20230817122919.png",
+    "pdf/linux/Linux内核设计与实现3.pdf",
+    "pdf/linux/Linux设备驱动程序第三版中文版.pdf",
+    "README.md",
+    "pdf/linux/Linux设备驱动程序3.pdf",
+    "pdf/linux",
+    "pdf",
+    "01 Homepage/homepage.md",
     "03 Expertise/02 armbian/上手/Qt Gstreamer.md",
     "03 Expertise/03 linux",
     "03 Expertise/02 armbian/操作/编译问题.md",
-    "Pasted image 20230816151838.png",
     "03 Expertise/02 armbian/操作/linux阅读源码.md",
-    "03 Expertise/02 armbian/操作/烧录+linux环境.md",
     "03 Expertise/02 armbian/操作/rk3568 环境设置.md",
     "01 Homepage/Records Library.md",
     "01 Homepage/linux.md",
@@ -204,22 +221,13 @@
     "03 Expertise/02 armbian/任务/05 交叉编译文件系统及docker.md",
     "03 Expertise/02 armbian/任务/03 自定义uboot及内核的流程.md",
     "03 Expertise/02 armbian/任务/01 系统启动.md",
-    "README.md",
     "Pasted image 20230811162723.png",
-    "Excalidraw/Drawing 2023-08-11 17.35.52.excalidraw.md",
     "Excalidraw",
     "03 Expertise/02 armbian/上手/linux-armbian",
     "Pasted image 20230807171924.png",
-    "03 Expertise/02 armbian/上手/rk3568/设备树",
-    "03 Expertise/02 armbian/上手/rk3568",
-    "04 Image/环境",
     "04 Image/环境/Pasted image 20230806170301.png",
     "04 Image/环境/Pasted image 20230806165943.png",
     "04 Image/环境/Pasted image 20230806165738.png",
-    "04 Image/编译",
-    "03 Expertise/02 armbian/操作",
-    "未命名",
-    "03 Expertise/02 armbian/上手",
     "01个人主页/未命名.canvas",
     "专业知识/未命名.canvas"
   ]
