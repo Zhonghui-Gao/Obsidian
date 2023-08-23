@@ -40,8 +40,14 @@ export all_proxy=socks5:http://127.0.0.1:7890
 
 # git：使用方法
 
+
+
 `git init`
 `git clone http`
+
+`ssh-keygen -t rsa -C "404597513@qq.com"`
+`cat ~/.ssh/id_rsa.pub`
+在github配置ssh
 
 `git remote add origin git@github.com:Zhonghui-Gao/new.git`
 `git remote add new git@github.com:Zhonghui-Gao/new.git`

@@ -77,3 +77,6 @@ warning: exhaustive rename detection was skipped due to too many files.
 warning: you may want to set your diff.renamelimit variable to at least 80290 and retry the command.
 ```
 
+armbian 是源文件
+hm3568 是开发的文件
+switch armbian 再git diff
