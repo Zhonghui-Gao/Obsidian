@@ -27,14 +27,62 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "03 Expertise/02 armbian/操作/烧录+linux环境.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b06186e9af04482",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Expertise/02 armbian/操作/烧录+linux环境.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92889889aaf424bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "caccbfdfe6c35c4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "03 Expertise/02 armbian/上手/rk3568/设备树/网口WOL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "65c6b964d1ac2c27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -108,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Expertise/02 armbian/上手/rk3568/设备树/网口WOL.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Expertise/02 armbian/上手/rk3568/设备树/网口WOL.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Expertise/02 armbian/上手/rk3568/设备树/网口WOL.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -181,15 +229,19 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "c7416abfbba7ebc7",
+  "active": "65c6b964d1ac2c27",
   "lastOpenFiles": [
-    "pdf/linux/01_嵌入式Linux应用开发完全手册V5.1_IMX6ULL_Pro开发板.pdf",
     "03 Expertise/02 armbian/上手/rk3568/设备树/网口WOL.md",
-    "pdf/linux/[嵌入式Linux应用开发完全手册].有目录.pdf",
+    "conflict-files-obsidian-git.md",
+    "03 Expertise/02 armbian/操作/rk3568 环境设置.md",
     "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md",
-    "03 Expertise/02 armbian/操作/烧录+linux环境.md",
     "03 Expertise/02 armbian/上手/rk3568/设备树/LED.md",
     "03 Expertise/02 armbian/上手/国产芯片hm3568.md",
+    "03 Expertise/02 armbian/操作/烧录+linux环境.md",
+    "03 Expertise/02 armbian/操作/linux阅读源码.md",
+    "03 Expertise/02 armbian/操作/编译问题.md",
+    "pdf/linux/01_嵌入式Linux应用开发完全手册V5.1_IMX6ULL_Pro开发板.pdf",
+    "pdf/linux/[嵌入式Linux应用开发完全手册].有目录.pdf",
     "04 Image/编译/Pasted image 20230816151838.png",
     "04 Image/编译/Pasted image 20230817122919.png",
     "pdf/linux/Linux内核设计与实现3.pdf",
@@ -201,9 +253,6 @@
     "01 Homepage/homepage.md",
     "03 Expertise/02 armbian/上手/Qt Gstreamer.md",
     "03 Expertise/03 linux",
-    "03 Expertise/02 armbian/操作/编译问题.md",
-    "03 Expertise/02 armbian/操作/linux阅读源码.md",
-    "03 Expertise/02 armbian/操作/rk3568 环境设置.md",
     "01 Homepage/Records Library.md",
     "01 Homepage/linux.md",
     "05 Template/实验记录模板.md",
