@@ -1,8 +1,4 @@
 
----
-dg-publish: true
-dg-home: true
----
 
 思路：
 远程创建仓库
