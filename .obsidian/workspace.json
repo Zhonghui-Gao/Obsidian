@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Expertise/02 armbian/上手/rk3568/设备树/网口WOL.md",
+                "file": "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Expertise/02 armbian/上手/rk3568/设备树/网口WOL.md",
+                "file": "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Expertise/02 armbian/上手/rk3568/设备树/网口WOL.md",
+                "file": "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Expertise/02 armbian/上手/rk3568/设备树/网口WOL.md"
+                "file": "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md"
               }
             }
           },
@@ -218,6 +218,7 @@
   },
   "active": "caccbfdfe6c35c4b",
   "lastOpenFiles": [
+    "03 Expertise/02 armbian/上手/rk3568/设备树/网口WOL.md",
     "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md",
     "03 Expertise/02 armbian/任务/05 交叉编译文件系统及docker.md",
     "03 Expertise/02 armbian/任务/04 了解uefi和grub这些启动器的工作原理.md",
@@ -229,7 +230,6 @@
     "03 Expertise/02 armbian/操作/buildroot.md",
     "03 Expertise/02 armbian/操作/烧录+linux环境.md",
     "03 Expertise/02 armbian/操作/编译问题.md",
-    "03 Expertise/02 armbian/上手/rk3568/设备树/网口WOL.md",
     "03 Expertise/02 armbian/上手/rk3568/设备树/LED.md",
     "03 Expertise/02 armbian/上手/国产芯片hm3568.md",
     "conflict-files-obsidian-git.md",
