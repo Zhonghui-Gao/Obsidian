@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Expertise/02 armbian/操作/rk3568 环境设置.md",
+                "file": "03 Expertise/03 linux/linux 美化.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Expertise/02 armbian/操作/rk3568 环境设置.md",
+                "file": "03 Expertise/03 linux/linux 美化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Expertise/02 armbian/操作/rk3568 环境设置.md",
+                "file": "03 Expertise/03 linux/linux 美化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Expertise/02 armbian/操作/rk3568 环境设置.md"
+                "file": "03 Expertise/03 linux/linux 美化.md"
               }
             }
           },
@@ -200,7 +200,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,6 +218,12 @@
   },
   "active": "caccbfdfe6c35c4b",
   "lastOpenFiles": [
+    "03 Expertise/02 armbian/操作/rk3568 环境设置.md",
+    "03 Expertise/03 linux/linux 美化.md",
+    "03 Expertise/02 armbian/操作/linux阅读源码.md",
+    "03 Expertise/02 armbian/操作/buildroot.md",
+    "03 Expertise/02 armbian/操作/编译问题.md",
+    "03 Expertise/02 armbian/操作/烧录+linux环境.md",
     "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md",
     "03 Expertise/02 armbian/上手/rk3568/设备树/网口WOL.md",
     "03 Expertise/02 armbian/上手/rk3568/设备树/LED.md",
@@ -228,11 +235,6 @@
     "03 Expertise/02 armbian/任务/03 自定义uboot及内核的流程.md",
     "03 Expertise/02 armbian/任务/02 uboot与内核之间的关系.md",
     "03 Expertise/02 armbian/任务/01 系统启动.md",
-    "03 Expertise/02 armbian/操作/rk3568 环境设置.md",
-    "03 Expertise/02 armbian/操作/linux阅读源码.md",
-    "03 Expertise/02 armbian/操作/buildroot.md",
-    "03 Expertise/02 armbian/操作/烧录+linux环境.md",
-    "03 Expertise/02 armbian/操作/编译问题.md",
     "conflict-files-obsidian-git.md",
     "pdf/linux/01_嵌入式Linux应用开发完全手册V5.1_IMX6ULL_Pro开发板.pdf",
     "pdf/linux/[嵌入式Linux应用开发完全手册].有目录.pdf",
@@ -255,7 +257,6 @@
     "04 Image/编译/网络分布.md",
     "04 Image/编译/error.png",
     "04 Image/编译/网络分布.png",
-    "04 Image/编译/网络分布.png.md",
     "Pasted image 20230811162723.png",
     "Excalidraw",
     "03 Expertise/02 armbian/上手/linux-armbian",
