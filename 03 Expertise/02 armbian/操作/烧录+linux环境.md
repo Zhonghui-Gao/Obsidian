@@ -57,6 +57,7 @@ export all_proxy=socks5:http://127.0.0.1:7890
 `git status`
 `git commit -m`
 `git push -u 分支 仓库`
+`touch .gitignore` // 忽略大文件
 
 # armbian
 - **  
