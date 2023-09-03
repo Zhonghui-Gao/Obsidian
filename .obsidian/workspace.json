@@ -22,55 +22,19 @@
             }
           },
           {
-            "id": "fc46dac20ae50e96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Expertise/02 armbian/操作/烧录+linux环境.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b06186e9af04482",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Expertise/02 armbian/操作/烧录+linux环境.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92889889aaf424bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "caccbfdfe6c35c4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Expertise/02 armbian/任务/01 系统启动.md",
+                "file": "03 Expertise/02 armbian/任务/04 了解uefi和grub这些启动器的工作原理.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Expertise/02 armbian/任务/01 系统启动.md",
+                "file": "03 Expertise/02 armbian/任务/04 了解uefi和grub这些启动器的工作原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Expertise/02 armbian/任务/01 系统启动.md",
+                "file": "03 Expertise/02 armbian/任务/04 了解uefi和grub这些启动器的工作原理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Expertise/02 armbian/任务/01 系统启动.md"
+                "file": "03 Expertise/02 armbian/任务/04 了解uefi和grub这些启动器的工作原理.md"
               }
             }
           },
@@ -218,21 +182,22 @@
   },
   "active": "caccbfdfe6c35c4b",
   "lastOpenFiles": [
-    "03 Expertise/02 armbian/任务/02 uboot与内核之间的关系.md",
-    "03 Expertise/02 armbian/任务/03 自定义uboot及内核的流程.md",
+    "01 Homepage/homepage.md",
+    "03 Expertise/02 armbian/操作/烧录+linux环境.md",
+    "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md",
     "03 Expertise/02 armbian/任务/04 了解uefi和grub这些启动器的工作原理.md",
-    "03 Expertise/02 armbian/任务/05 交叉编译文件系统及docker.md",
+    "03 Expertise/02 armbian/任务/03 自定义uboot及内核的流程.md",
     "03 Expertise/02 armbian/任务/01 系统启动.md",
+    "03 Expertise/02 armbian/任务/02 uboot与内核之间的关系.md",
+    "03 Expertise/02 armbian/任务/05 交叉编译文件系统及docker.md",
     "03 Expertise/02 armbian/上手/Qt Gstreamer.md",
     "03 Expertise/02 armbian/上手/uboot + kernel 启动动画.md",
     "03 Expertise/02 armbian/上手/rk3568/设备树/网口WOL.md",
     "03 Expertise/02 armbian/上手/rk3568/设备树/LED.md",
-    "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md",
     "03 Expertise/02 armbian/操作/编译问题.md",
     "03 Expertise/02 armbian/操作/rk3568 环境设置.md",
     "03 Expertise/02 armbian/操作/linux阅读源码.md",
     "03 Expertise/02 armbian/操作/buildroot.md",
-    "03 Expertise/02 armbian/操作/烧录+linux环境.md",
     "03 Expertise/03 linux/linux 美化.md",
     "03 Expertise/02 armbian/上手/小学期国产芯片hm3568.md",
     "conflict-files-obsidian-git.md",
@@ -246,7 +211,6 @@
     "pdf/linux/Linux设备驱动程序3.pdf",
     "pdf/linux",
     "pdf",
-    "01 Homepage/homepage.md",
     "03 Expertise/03 linux",
     "01 Homepage/Records Library.md",
     "01 Homepage/linux.md",
