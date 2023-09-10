@@ -32,9 +32,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1234fb115b79f7f6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -180,7 +190,7 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "caccbfdfe6c35c4b",
+  "active": "1234fb115b79f7f6",
   "lastOpenFiles": [
     "01 Homepage/homepage.md",
     "03 Expertise/02 armbian/操作/烧录+linux环境.md",
