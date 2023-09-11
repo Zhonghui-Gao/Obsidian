@@ -1,16 +1,16 @@
 # 字体
-```shell-session
+```shell
 $ wget https://download.jetbrains.com/fonts/JetBrainsMono-1.0.0.zip
 $ unzip JetBrainsMono-1.0.0.zip
 ```
 
-```shell-session
+```shell
 $ sudo mv JetBrainsMono-*.ttf /usr/share/fonts/
 ```
 
 # 终端
 
-```shell-session
+```shell
 curl -fsSL https://raw.githubusercontent.com/zimfw/install/master/install.zsh | zsh
 vim ~/.zimrc
 zmodule romkatv/powerlevel10k
