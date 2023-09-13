@@ -37,9 +37,11 @@
             "id": "958231efa8638818",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.11"
+                "file": "03 Expertise/02 armbian/操作/rk3568 环境设置.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -118,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Expertise/02 armbian/任务/04 了解uefi和grub这些启动器的工作原理.md",
+                "file": "03 Expertise/02 armbian/操作/rk3568 环境设置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Expertise/02 armbian/任务/04 了解uefi和grub这些启动器的工作原理.md",
+                "file": "03 Expertise/02 armbian/操作/rk3568 环境设置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Expertise/02 armbian/任务/04 了解uefi和grub这些启动器的工作原理.md"
+                "file": "03 Expertise/02 armbian/操作/rk3568 环境设置.md"
               }
             }
           },
@@ -202,6 +204,7 @@
   },
   "active": "958231efa8638818",
   "lastOpenFiles": [
+    "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md",
     "03 Expertise/02 armbian/任务/05 交叉编译文件系统及docker.md",
     "03 Expertise/02 armbian/任务/04 了解uefi和grub这些启动器的工作原理.md",
     "03 Expertise/02 armbian/任务/03 自定义uboot及内核的流程.md",
@@ -211,7 +214,6 @@
     "03 Expertise/02 armbian/任务/01 系统启动.md",
     "03 Expertise/02 armbian/任务/02 uboot与内核之间的关系.md",
     "01 Homepage/homepage.md",
-    "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md",
     "03 Expertise/02 armbian/上手/Qt Gstreamer.md",
     "03 Expertise/02 armbian/上手/uboot + kernel 启动动画.md",
     "03 Expertise/02 armbian/上手/rk3568/设备树/网口WOL.md",
