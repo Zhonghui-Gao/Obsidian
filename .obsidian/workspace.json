@@ -32,8 +32,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8d5b50b53747a6f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Expertise/02 armbian/上手/rk3568/设备树/LED.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Homepage/homepage.md",
+                "file": "03 Expertise/02 armbian/上手/rk3568/设备树/LED.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Homepage/homepage.md",
+                "file": "03 Expertise/02 armbian/上手/rk3568/设备树/LED.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Homepage/homepage.md"
+                "file": "03 Expertise/02 armbian/上手/rk3568/设备树/LED.md"
               }
             }
           },
@@ -189,8 +202,9 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "2d4e124cbaa41050",
+  "active": "8d5b50b53747a6f7",
   "lastOpenFiles": [
+    "01 Homepage/homepage.md",
     "03 Expertise/02 armbian/任务/04 了解uefi和grub这些启动器的工作原理.md",
     "03 Expertise/02 armbian/操作/rk3568 环境设置.md",
     "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md",
@@ -201,7 +215,6 @@
     "03 Expertise/02 armbian/操作/编译问题.md",
     "03 Expertise/02 armbian/任务/01 系统启动.md",
     "03 Expertise/02 armbian/任务/02 uboot与内核之间的关系.md",
-    "01 Homepage/homepage.md",
     "03 Expertise/02 armbian/上手/Qt Gstreamer.md",
     "03 Expertise/02 armbian/上手/uboot + kernel 启动动画.md",
     "03 Expertise/02 armbian/上手/rk3568/设备树/网口WOL.md",
