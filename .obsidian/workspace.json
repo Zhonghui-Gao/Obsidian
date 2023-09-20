@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Expertise/02 armbian/操作/rk3568 环境设置.md",
+                "file": "03 Expertise/02 armbian/操作/kernel 6.4.16.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Expertise/02 armbian/操作/rk3568 环境设置.md",
+                "file": "03 Expertise/02 armbian/操作/kernel 6.4.16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Expertise/02 armbian/操作/rk3568 环境设置.md",
+                "file": "03 Expertise/02 armbian/操作/kernel 6.4.16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Expertise/02 armbian/操作/rk3568 环境设置.md"
+                "file": "03 Expertise/02 armbian/操作/kernel 6.4.16.md"
               }
             }
           },
