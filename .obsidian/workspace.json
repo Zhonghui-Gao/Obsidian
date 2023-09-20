@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Expertise/02 armbian/操作/rk3568 环境设置.md",
+                "file": "03 Expertise/02 armbian/操作/kernel 6.4.16.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Expertise/02 armbian/操作/rk3568 环境设置.md",
+                "file": "03 Expertise/02 armbian/操作/kernel 6.4.16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Expertise/02 armbian/操作/rk3568 环境设置.md",
+                "file": "03 Expertise/02 armbian/操作/kernel 6.4.16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Expertise/02 armbian/操作/rk3568 环境设置.md"
+                "file": "03 Expertise/02 armbian/操作/kernel 6.4.16.md"
               }
             }
           },
@@ -204,15 +204,16 @@
   },
   "active": "8d5b50b53747a6f7",
   "lastOpenFiles": [
-    "03 Expertise/02 armbian/操作/烧录+linux环境.md",
-    "03 Expertise/02 armbian/操作/linux阅读源码.md",
-    "03 Expertise/02 armbian/操作/buildroot.md",
     "03 Expertise/02 armbian/操作/rk3568 环境设置.md",
+    "03 Expertise/02 armbian/操作/linux阅读源码.md",
+    "03 Expertise/02 armbian/操作/kernel 6.4.16.md",
+    "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md",
+    "03 Expertise/02 armbian/操作/烧录+linux环境.md",
+    "03 Expertise/02 armbian/操作/buildroot.md",
     "03 Expertise/02 armbian/上手/rk3568/设备树/LED.md",
     "03 Expertise/02 armbian/上手/rk3568/设备树/网口WOL.md",
     "01 Homepage/homepage.md",
     "03 Expertise/02 armbian/任务/04 了解uefi和grub这些启动器的工作原理.md",
-    "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md",
     "03 Expertise/02 armbian/任务/05 交叉编译文件系统及docker.md",
     "03 Expertise/02 armbian/任务/03 自定义uboot及内核的流程.md",
     "03 Expertise/03 linux/linux 美化.md",
@@ -240,7 +241,6 @@
     "03 Expertise/02 armbian/未命名.md",
     "02 Research/03 Leetcode Algorithm/NOIP2006 普及组 明明的随机数.md",
     "04 Image/编译/网络分布.png",
-    "04 Image/编译/网络分布.md",
     "04 Image/编译/error.png",
     "04 Image/编译/网络分布.png",
     "Pasted image 20230811162723.png",
