@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Expertise/02 armbian/操作/kernel 6.4.16.md",
+                "file": "03 Expertise/02 armbian/任务/04 了解uefi和grub这些启动器的工作原理.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Expertise/02 armbian/操作/kernel 6.4.16.md",
+                "file": "03 Expertise/02 armbian/任务/04 了解uefi和grub这些启动器的工作原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Expertise/02 armbian/操作/kernel 6.4.16.md",
+                "file": "03 Expertise/02 armbian/任务/04 了解uefi和grub这些启动器的工作原理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Expertise/02 armbian/操作/kernel 6.4.16.md"
+                "file": "03 Expertise/02 armbian/任务/04 了解uefi和grub这些启动器的工作原理.md"
               }
             }
           },
@@ -204,18 +204,19 @@
   },
   "active": "8d5b50b53747a6f7",
   "lastOpenFiles": [
-    "03 Expertise/02 armbian/操作/linux阅读源码.md",
-    "03 Expertise/02 armbian/操作/rk3568 环境设置.md",
-    "03 Expertise/02 armbian/操作/kernel 6.4.16.md",
+    "RPi4_UEFI_Firmware_v1.35.zip",
+    "03 Expertise/02 armbian/任务/05 交叉编译文件系统及docker.md",
     "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md",
+    "03 Expertise/02 armbian/操作/kernel 6.4.16.md",
+    "03 Expertise/02 armbian/操作/linux阅读源码.md",
+    "03 Expertise/02 armbian/任务/03 自定义uboot及内核的流程.md",
+    "03 Expertise/02 armbian/操作/rk3568 环境设置.md",
     "03 Expertise/02 armbian/操作/烧录+linux环境.md",
     "03 Expertise/02 armbian/操作/buildroot.md",
     "03 Expertise/02 armbian/上手/rk3568/设备树/LED.md",
     "03 Expertise/02 armbian/上手/rk3568/设备树/网口WOL.md",
     "01 Homepage/homepage.md",
     "03 Expertise/02 armbian/任务/04 了解uefi和grub这些启动器的工作原理.md",
-    "03 Expertise/02 armbian/任务/05 交叉编译文件系统及docker.md",
-    "03 Expertise/02 armbian/任务/03 自定义uboot及内核的流程.md",
     "03 Expertise/03 linux/linux 美化.md",
     "03 Expertise/02 armbian/操作/编译问题.md",
     "03 Expertise/02 armbian/任务/01 系统启动.md",
@@ -239,7 +240,6 @@
     "01 Homepage/linux.md",
     "05 Template/实验记录模板.md",
     "03 Expertise/02 armbian/未命名.md",
-    "02 Research/03 Leetcode Algorithm/NOIP2006 普及组 明明的随机数.md",
     "04 Image/编译/网络分布.png",
     "04 Image/编译/error.png",
     "04 Image/编译/网络分布.png",
