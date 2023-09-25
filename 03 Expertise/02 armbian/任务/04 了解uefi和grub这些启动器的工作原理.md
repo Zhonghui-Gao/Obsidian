@@ -5,3 +5,7 @@
 5. UEFI技术难点 可行性
 6. 
 uefi image :[pftf/RPi4: Raspberry Pi 4 UEFI Firmware Images (github.com)](https://github.com/pftf/RPi4)
+
+`start*.elf, fixup*.dat and bootcode.bin are the GPU firmwares and bootloader.`
+
+
