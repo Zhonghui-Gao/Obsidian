@@ -2,8 +2,8 @@
   "accentColor": "",
   "cssTheme": "Blue Topaz",
   "theme": "obsidian",
-  "baseFontSize": 14,
-  "interfaceFontFamily": "苹方-简,华康手札体W5P",
-  "textFontFamily": "苹方-简,华康手札体W5P",
+  "baseFontSize": 15,
+  "interfaceFontFamily": "苹方-简,华康手札体W5P,JetBrains Mono",
+  "textFontFamily": "苹方-简,华康手札体W5P,JetBrains Mono",
   "monospaceFontFamily": "苹方-简"
 }
