@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md",
+                "file": "03 Expertise/02 armbian/上手/rk3568/设备树/LED.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md",
+                "file": "03 Expertise/02 armbian/上手/rk3568/设备树/LED.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md",
+                "file": "03 Expertise/02 armbian/上手/rk3568/设备树/LED.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md"
+                "file": "03 Expertise/02 armbian/上手/rk3568/设备树/LED.md"
               }
             }
           },
@@ -204,18 +204,19 @@
   },
   "active": "8d5b50b53747a6f7",
   "lastOpenFiles": [
-    "03 Expertise/02 armbian/任务/01 系统启动.md",
-    "03 Expertise/02 armbian/上手/rk3568/设备树/串口uart.md",
     "03 Expertise/02 armbian/上手/rk3568/设备树/网口WOL.md",
+    "03 Expertise/02 armbian/上手/rk3568/设备树/串口uart.md",
+    "03 Expertise/02 armbian/操作/烧录+linux环境.md",
+    "03 Expertise/02 armbian/操作/buildroot.md",
+    "03 Expertise/02 armbian/操作/rk3568 环境设置.md",
+    "03 Expertise/02 armbian/操作/linux阅读源码.md",
+    "03 Expertise/02 armbian/操作/编译问题.md",
+    "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md",
+    "03 Expertise/02 armbian/任务/01 系统启动.md",
     "04 Image/RS232.jpg",
     "03 Expertise/02 armbian/上手/rk3568/设备树/EDP2VGA.md",
     "03 Expertise/02 armbian/上手/rk3568/设备树/LED.md",
-    "03 Expertise/02 armbian/操作/烧录+linux环境.md",
-    "03 Expertise/02 armbian/操作/编译问题.md",
-    "03 Expertise/02 armbian/操作/rk3568 环境设置.md",
-    "03 Expertise/02 armbian/操作/linux阅读源码.md",
     "03 Expertise/02 armbian/操作/kernel 6.4.16.md",
-    "03 Expertise/02 armbian/操作/buildroot.md",
     "03 Expertise/02 armbian/上手/小学期国产芯片hm3568.md",
     "03 Expertise/02 armbian/上手/Qt Gstreamer.md",
     "03 Expertise/02 armbian/上手/uboot + kernel 启动动画.md",
@@ -225,7 +226,6 @@
     "01 Homepage/homepage.md",
     "03 Expertise/02 armbian/任务/02 uboot与内核之间的关系.md",
     "RPi4_UEFI_Firmware_v1.35.zip",
-    "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md",
     "03 Expertise/03 linux/linux 美化.md",
     "conflict-files-obsidian-git.md",
     "pdf/linux/01_嵌入式Linux应用开发完全手册V5.1_IMX6ULL_Pro开发板.pdf",
