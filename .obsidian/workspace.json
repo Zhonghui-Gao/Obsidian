@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Expertise/02 armbian/上手/rk3568/设备树/串口uart.md",
+                "file": "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Expertise/02 armbian/上手/rk3568/设备树/串口uart.md",
+                "file": "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Expertise/02 armbian/上手/rk3568/设备树/串口uart.md",
+                "file": "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Expertise/02 armbian/上手/rk3568/设备树/串口uart.md"
+                "file": "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md"
               }
             }
           },
@@ -204,8 +204,9 @@
   },
   "active": "8d5b50b53747a6f7",
   "lastOpenFiles": [
-    "03 Expertise/02 armbian/上手/rk3568/设备树/网口WOL.md",
+    "03 Expertise/02 armbian/任务/01 系统启动.md",
     "03 Expertise/02 armbian/上手/rk3568/设备树/串口uart.md",
+    "03 Expertise/02 armbian/上手/rk3568/设备树/网口WOL.md",
     "04 Image/RS232.jpg",
     "03 Expertise/02 armbian/上手/rk3568/设备树/EDP2VGA.md",
     "03 Expertise/02 armbian/上手/rk3568/设备树/LED.md",
@@ -223,7 +224,6 @@
     "03 Expertise/02 armbian/任务/05 交叉编译文件系统及docker.md",
     "01 Homepage/homepage.md",
     "03 Expertise/02 armbian/任务/02 uboot与内核之间的关系.md",
-    "03 Expertise/02 armbian/任务/01 系统启动.md",
     "RPi4_UEFI_Firmware_v1.35.zip",
     "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md",
     "03 Expertise/03 linux/linux 美化.md",
