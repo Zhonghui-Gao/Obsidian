@@ -1,3 +1,13 @@
+---
+Date: 2023/10/18
+result: okay
+new: environment
+type: problem
+project: configure
+rating: ⭐⭐
+status: 🌲done
+---
+
 # 烧录笔记本
 
 |    笔记本     | 工具         | 系统版本      |

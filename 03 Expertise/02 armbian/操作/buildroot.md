@@ -1,4 +1,12 @@
-
+---
+Date: 2023/10/18
+result: okay
+new: environment
+type: tools
+project: compile
+rating: ⭐⭐⭐
+status: 🌲done
+---
 
 编译工具链和内核，uboot。先记录，后面在补全
 

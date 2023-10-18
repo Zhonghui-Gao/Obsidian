@@ -1,3 +1,13 @@
+---
+Date: 2023/10/18
+result: okay
+new: kernel
+type: fixed bug
+project: armbian
+rating: ⭐⭐⭐
+status: 🌲done
+---
+
 # patch 1
 **target**：linux-6.4.16/include/net/bluetooth\hci.h
 
