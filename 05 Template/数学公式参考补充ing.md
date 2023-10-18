@@ -12,8 +12,8 @@ $$\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.$$
 
 # 希腊字母
 
-|  名称   | 大写  | Tex  | 小写  | Tex  | 
-|  :----:  | :----:  | :----:  | :----:  | :----:  |
-| alpha|	A|	A|	α|	\alpha|
-|beta|B|B|β|\beta|
-|gamma|Γ|\Gamma|γ|\gamma|
+| 名称  | 大写 |  Tex   | 小写 |  Tex   |
+|:-----:|:----:|:------:|:----:|:------:|
+| alpha |  A   |   A    |  α   | \alpha |
+| beta  |  B   |   B    |  β   | \beta  |
+| gamma |  Γ   | \Gamma |  γ   | \gamma |

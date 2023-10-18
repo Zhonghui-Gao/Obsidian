@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c44f8332c7e978e2",
+        "id": "91aa6783cada8fff",
         "type": "tabs",
         "children": [
           {
-            "id": "2d4e124cbaa41050",
+            "id": "e754781a492c353d",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -22,24 +22,12 @@
             }
           },
           {
-            "id": "8d5b50b53747a6f7",
+            "id": "33aebbf8ba61df2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Research/01 paper/idea.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b74e09018008794f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Expertise/02 armbian/上手/rk3568/设备树/串口uart.md",
+                "file": "03 Expertise/02 armbian/操作/编译问题.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Research/01 paper/idea.md",
+                "file": "03 Expertise/02 armbian/操作/编译问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Research/01 paper/idea.md",
+                "file": "03 Expertise/02 armbian/操作/编译问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Research/01 paper/idea.md"
+                "file": "03 Expertise/02 armbian/操作/编译问题.md"
               }
             }
           },
@@ -191,7 +179,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -199,46 +186,47 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "8d5b50b53747a6f7",
+  "active": "33aebbf8ba61df2c",
   "lastOpenFiles": [
-    "02 Research/03 Leetcode Algorithm/NOIP2006 普及组 明明的随机数.md",
-    "02 Research/01 paper/idea.md",
     "02 Research/03 Leetcode Algorithm/每日一题②.md",
-    "03 Expertise/02 armbian/上手/rk3568/设备树/LED.md",
-    "02 Research/01 paper",
-    "03 Expertise/02 armbian/上手/rk3568/设备树/网口WOL.md",
+    "03 Expertise/02 armbian/操作/编译问题.md",
+    "05 Template/实验记录模板.md",
+    "01 Homepage/linux.md",
+    "01 Homepage/Records.md",
+    "02 Research/01 paper/idea.md",
+    "01 Homepage/homepage.md",
+    "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md",
+    "Records Library.md",
     "03 Expertise/02 armbian/上手/rk3568/设备树/串口uart.md",
     "03 Expertise/02 armbian/操作/烧录+linux环境.md",
     "03 Expertise/02 armbian/操作/buildroot.md",
-    "03 Expertise/02 armbian/操作/rk3568 环境设置.md",
+    "03 Expertise/02 armbian/操作/kernel 6.4.16.md",
     "03 Expertise/02 armbian/操作/linux阅读源码.md",
-    "03 Expertise/02 armbian/操作/编译问题.md",
-    "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md",
+    "03 Expertise/02 armbian/操作/rk3568 环境设置.md",
+    "03 Expertise/03 linux/linux 美化.md",
+    "05 Template/Markdown语法.md",
+    "05 Template/数学公式参考补充ing.md",
+    "02 Research/03 Leetcode Algorithm/NOIP2006 普及组 明明的随机数.md",
+    "03 Expertise/02 armbian/上手/rk3568/设备树/LED.md",
+    "02 Research/01 paper",
+    "03 Expertise/02 armbian/上手/rk3568/设备树/网口WOL.md",
     "03 Expertise/02 armbian/任务/01 系统启动.md",
     "04 Image/RS232.jpg",
     "03 Expertise/02 armbian/上手/rk3568/设备树/EDP2VGA.md",
-    "03 Expertise/02 armbian/操作/kernel 6.4.16.md",
     "03 Expertise/02 armbian/上手/小学期国产芯片hm3568.md",
     "03 Expertise/02 armbian/上手/Qt Gstreamer.md",
     "03 Expertise/02 armbian/上手/uboot + kernel 启动动画.md",
-    "03 Expertise/02 armbian/任务/04 了解uefi和grub这些启动器的工作原理.md",
-    "03 Expertise/02 armbian/任务/03 自定义uboot及内核的流程.md",
-    "03 Expertise/02 armbian/任务/05 交叉编译文件系统及docker.md",
-    "01 Homepage/homepage.md",
-    "03 Expertise/02 armbian/任务/02 uboot与内核之间的关系.md",
     "RPi4_UEFI_Firmware_v1.35.zip",
-    "03 Expertise/03 linux/linux 美化.md",
-    "conflict-files-obsidian-git.md",
     "pdf/linux/01_嵌入式Linux应用开发完全手册V5.1_IMX6ULL_Pro开发板.pdf",
     "pdf/linux/[嵌入式Linux应用开发完全手册].有目录.pdf",
     "04 Image/编译/Pasted image 20230816151838.png",
     "04 Image/编译/Pasted image 20230817122919.png",
     "pdf/linux/Linux内核设计与实现3.pdf",
     "pdf/linux/Linux设备驱动程序第三版中文版.pdf",
-    "README.md",
     "pdf/linux/Linux设备驱动程序3.pdf",
     "pdf/linux",
     "pdf",

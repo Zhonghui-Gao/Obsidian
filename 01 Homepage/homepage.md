@@ -1,11 +1,8 @@
 ---
 banner: "![[wallhaven-we1lrq.jpg]]"
----
----
-banner: "![[wallhaven-we1lrq.jpg]]"
-banner_y: 0.5
+banner_y: "0.5"
 banner_icon: 🤯
-banner_lock: true
+banner_lock: "true"
 ---
 
 ***
@@ -23,12 +20,11 @@ border: off
 
 --- column-end ---
 # 💻Lab
-[[Records Library]]
-
+[[Records]]
 
 --- column-end ---
 # 🎓Project
-[[linux-armbian]]
+[[linux]]
 
 === end-multi-column
 ```start-multi-column

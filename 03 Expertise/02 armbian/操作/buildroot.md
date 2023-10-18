@@ -30,7 +30,7 @@ ToolChain 选择C库
 
 5. 加入环境变量：
 
-```
+```SHELL 
 cd buildroot(dir)/output/host/bin
 echo "export PATH=\$PATH:$(pwd)" >> ~/.bashrc
 source ~/.bashrc
