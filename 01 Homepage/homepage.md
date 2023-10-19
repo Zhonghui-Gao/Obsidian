@@ -24,7 +24,7 @@ border: off
 
 --- column-end ---
 # 🎓Project
-[[linux]]
+[[Linux]]
 
 === end-multi-column
 ```start-multi-column
