@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "e095256b13ec53a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Research/01 paper/idea.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Homepage/Homepage.md",
+                "file": "02 Research/01 paper/idea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Homepage/Homepage.md",
+                "file": "02 Research/01 paper/idea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Homepage/Homepage.md"
+                "file": "02 Research/01 paper/idea.md"
               }
             }
           },
@@ -177,10 +190,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "33aebbf8ba61df2c",
+  "active": "e095256b13ec53a8",
   "lastOpenFiles": [
-    "01 Homepage/Records.md",
     "01 Homepage/Homepage.md",
+    "01 Homepage/Records.md",
     "02 Research/01 paper/idea.md",
     "02 Research/03 Leetcode Algorithm/每日一题②.md",
     "02 Research/03 Leetcode Algorithm/NOIP2006 普及组 明明的随机数.md",
