@@ -61,3 +61,34 @@ sudo apt-get install libssl-dev
 ```shell
 mkdir: cannot create directory ‘/opt/RMGateway’: Permission denied
 ```
+
+```shell
+sudo 运行qt
+```
+
+缺少`libGL.so`库
+```shell
+/usr/bin/ld: cannot find -lGL: No such file or directory
+```
+
+安装依赖： 
+```shell
+sudo apt-get install libgl1-mesa-dev
+```
+
+安装spdlog库
+ ```shell 
+fatal error: spdlog/spdlog.h: No such file or directory
+   18 | #include "spdlog/spdlog.h"
+```
+[「spdlog库」spdlog库的安装与简单使用_spdlog安装_Hfjsbdhc的博客-CSDN博客](https://blog.csdn.net/HAICHANG1105/article/details/131432547)
+
+
+```shell
+Failed opening file /opt/RMGateway/bin/../log/upgrade_2023-10-20.txt for writing: No such file or directory
+[2023-10-20 08:26:53.284] [E] failed to load and parse file /opt/RMGateway/bin/RMGWClient.xml
+```
+
+```
+.xml 放到/opt/生成的文件
+```
