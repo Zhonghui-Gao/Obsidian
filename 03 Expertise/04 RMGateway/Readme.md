@@ -34,6 +34,7 @@ sudo apt-get install libjson-c-dev
 sudo apt install pkg-config
 ```
 
+缺少：libcurl库
 ```shell
 6:10: fatal error: curl/curl.h: No such file or directory
     6 | #include <curl/curl.h>
@@ -43,4 +44,16 @@ sudo apt install pkg-config
 ```SHELL
 sudo apt-get install libcurl4-openssl-dev
 ```
+
+缺少：
+```shell
+19:10: fatal error: openssl/md5.h: No such file or directory
+   19 | #include <openssl/md5.h>
+```
+
+安装依赖：
+```shell
+sudo apt-get install libssl-dev
+```
+
 
