@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Expertise/04 RMGateway/Readme.md",
+                "file": "03 Expertise/02 armbian/操作/烧录+linux环境.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Expertise/04 RMGateway/Readme.md",
+                "file": "03 Expertise/02 armbian/操作/烧录+linux环境.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Expertise/04 RMGateway/Readme.md",
+                "file": "03 Expertise/02 armbian/操作/烧录+linux环境.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Expertise/04 RMGateway/Readme.md"
+                "file": "03 Expertise/02 armbian/操作/烧录+linux环境.md"
               }
             }
           },
@@ -179,12 +179,15 @@
   "lastOpenFiles": [
     "03 Expertise/02 armbian/操作/编译问题.md",
     "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md",
+    "02 Research/04 Modern cryptography/RSA.md",
+    "03 Expertise/04 RMGateway/Readme.md",
+    "02 Research/04 Modern cryptography",
+    "02 Research/未命名.md",
     "03 Expertise/02 armbian/操作/linux阅读源码.md",
     "03 Expertise/02 armbian/操作/rk3568 网络搭建.md",
     "03 Expertise/02 armbian/操作/kernel 6.4.16.md",
     "03 Expertise/02 armbian/操作/buildroot.md",
     "03 Expertise/02 armbian/操作/烧录+linux环境.md",
-    "03 Expertise/04 RMGateway/Readme.md",
     "01 Homepage/Homepage.md",
     "03 Expertise/04 RMGateway",
     "03 Expertise/02 armbian/未命名",
@@ -203,8 +206,6 @@
     "03 Expertise/02 armbian/上手/uboot + kernel 启动动画.md",
     "03 Expertise/02 armbian/任务/04 uefi和grub启动器的工作原理.md",
     "03 Expertise/02 armbian/任务/03 自定义uboot及内核的流程.md",
-    "03 Expertise/02 armbian/任务/02 uboot与内核之间的关系.md",
-    "03 Expertise/02 armbian/任务/01 系统启动.md",
     "02 Research/01 paper",
     "04 Image/RS232.jpg",
     "RPi4_UEFI_Firmware_v1.35.zip",
@@ -215,7 +216,6 @@
     "pdf/linux/Linux内核设计与实现3.pdf",
     "pdf/linux/Linux设备驱动程序第三版中文版.pdf",
     "pdf/linux/Linux设备驱动程序3.pdf",
-    "pdf/linux",
     "04 Image/编译/网络分布.png",
     "04 Image/编译/error.png",
     "04 Image/编译/网络分布.png",

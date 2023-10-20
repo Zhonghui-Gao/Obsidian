@@ -28,6 +28,9 @@ When executing step "qmake"
 
 
 缺少json-C:
-```
-
+```SHELL
+安装依赖
+sudo apt-get install libjson-c-dev
+安装pkg工具
+sudo apt install pkg-config
 ```
