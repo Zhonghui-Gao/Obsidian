@@ -26,7 +26,7 @@ Error while building/deploying project RMGateway (kit: Desktop Qt 5.15.2 GCC 64b
 When executing step "qmake"
 ```
 
-缺少json-C:
+缺少`json-C`:
 ```SHELL
 安装依赖
 sudo apt-get install libjson-c-dev
@@ -34,7 +34,7 @@ sudo apt-get install libjson-c-dev
 sudo apt install pkg-config
 ```
 
-缺少：libcurl库
+缺少：`libcurl`库
 ```shell
 6:10: fatal error: curl/curl.h: No such file or directory
     6 | #include <curl/curl.h>
@@ -45,7 +45,7 @@ sudo apt install pkg-config
 sudo apt-get install libcurl4-openssl-dev
 ```
 
-缺少：
+缺少`libssl-dev`库：
 ```shell
 19:10: fatal error: openssl/md5.h: No such file or directory
    19 | #include <openssl/md5.h>
@@ -57,3 +57,7 @@ sudo apt-get install libssl-dev
 ```
 
 
+创建文件权限不够
+```shell
+mkdir: cannot create directory ‘/opt/RMGateway’: Permission denied
+```
