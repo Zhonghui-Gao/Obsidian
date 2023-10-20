@@ -5,7 +5,6 @@ RMGWClient.xml 放到/bin 下 配置文件
 第三方库：3rdparty
 mqtt service
 
-.xml 放到/opt/生成的文件
 
 《QT MQTT》 
 
@@ -83,12 +82,21 @@ fatal error: spdlog/spdlog.h: No such file or directory
 ```
 [「spdlog库」spdlog库的安装与简单使用_spdlog安装_Hfjsbdhc的博客-CSDN博客](https://blog.csdn.net/HAICHANG1105/article/details/131432547)
 
+```shell
+git clone https://github.com/gabime/spdlog.git
+
+cd spdlog && mkdir build && cd build
+cmake .. && make -j
+sudo make install
+```
+
 
 ```shell
 Failed opening file /opt/RMGateway/bin/../log/upgrade_2023-10-20.txt for writing: No such file or directory
 [2023-10-20 08:26:53.284] [E] failed to load and parse file /opt/RMGateway/bin/RMGWClient.xml
 ```
 
+```shell
+mv RMGWClient.xml /opt/RMGateway/bin
 ```
-.xml 放到/opt/生成的文件
-```
+
