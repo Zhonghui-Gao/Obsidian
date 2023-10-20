@@ -1,6 +1,7 @@
 一般公式分为两种形式，可以理解为一种特殊的代码块，
 
-这是行内公式：$ \Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,. $
+这是行内公式：$\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.$
+
 
 这是行内公式：$ \Gamma(z) = \int_0^\infty t{z-1}e{-t}dt,. $
 
