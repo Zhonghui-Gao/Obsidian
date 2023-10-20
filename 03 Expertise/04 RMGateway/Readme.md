@@ -26,7 +26,6 @@ Error while building/deploying project RMGateway (kit: Desktop Qt 5.15.2 GCC 64b
 When executing step "qmake"
 ```
 
-
 缺少json-C:
 ```SHELL
 安装依赖
@@ -34,3 +33,14 @@ sudo apt-get install libjson-c-dev
 安装pkg工具
 sudo apt install pkg-config
 ```
+
+```shell
+6:10: fatal error: curl/curl.h: No such file or directory
+    6 | #include <curl/curl.h>
+```
+
+安装依赖：
+```SHELL
+sudo apt-get install libcurl4-openssl-dev
+```
+
