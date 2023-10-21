@@ -111,3 +111,4 @@ qmake
 make && make install
 ```
 qtmqtt会自动安装到Qt Creator的路径下
+![[qtmqtt.png]]
