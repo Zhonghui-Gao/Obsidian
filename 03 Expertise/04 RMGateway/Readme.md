@@ -100,3 +100,14 @@ Failed opening file /opt/RMGateway/bin/../log/upgrade_2023-10-20.txt for writing
 mv RMGWClient.xml /opt/RMGateway/bin
 ```
 
+
+安装mqtt
+
+https://github.com/qt/qtmqtt/tree/dev
+```shell
+git checkout 5.15.2 
+cd qtmqtt 
+qmake 
+make && make install
+```
+qtmqtt会自动安装到Qt Creator的路径下

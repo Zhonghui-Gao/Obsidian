@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Research/04 Modern cryptography/RSA.md",
+                "file": "03 Expertise/04 RMGateway/Readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Research/04 Modern cryptography/RSA.md",
+                "file": "03 Expertise/04 RMGateway/Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Research/04 Modern cryptography/RSA.md",
+                "file": "03 Expertise/04 RMGateway/Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Research/04 Modern cryptography/RSA.md"
+                "file": "03 Expertise/04 RMGateway/Readme.md"
               }
             }
           },
@@ -192,8 +192,8 @@
   },
   "active": "dd46172c827cdccb",
   "lastOpenFiles": [
-    "03 Expertise/04 RMGateway/Readme.md",
     "02 Research/04 Modern cryptography/RSA.md",
+    "03 Expertise/04 RMGateway/Readme.md",
     "03 Expertise/02 armbian/操作/烧录+linux环境.md",
     "01 Homepage/Homepage.md",
     "03 Expertise/02 armbian/操作/buildroot.md",
