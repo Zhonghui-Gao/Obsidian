@@ -112,3 +112,20 @@ make && make install
 ```
 qtmqtt会自动安装到Qt Creator的路径下
 ![[qtmqtt.png]]
+
+
+```
+http://218.17.239.195/，
+这个对应的是我们172.16.1.100的内网，
+现在mqtt服务在内网
+
+administrator 
+123456
+
+tcp://218.17.239.195:1884
+
+
+```
+
+![[mqtttopic.jpg]]
+
