@@ -169,3 +169,26 @@ $roymark/device/cmd/request/123
   }
 }
 ```
+
+```shell
+{
+   "cmd": "HIGH_POLE_LIGHT_CONTROL",                              //cmd
+    "id":1711223969706807296,                       //指令id
+   "time": "1685418682806",                                    //时间搓
+   "data": {
+       "switchStatust":"1", //启停状态  1-开启  0-关闭
+       "brightness":"75%" ,//亮度
+       "exteriorIlluminance":"1000" ,//室外照度      
+       "level":"5" ,//等级   1~5
+       "voltage1":"375.2" ,//电压1  单位:V
+       "voltage2":"375.0" ,//电压2 单位:V
+       "voltage3":"375.1" ,//电压3 单位:V
+       "current1":"50" ,//电流1   单位:A
+       "current2":"50" ,//电流2  单位:A
+       "current3":"50" ,//电流3  单位:A
+       "power":"900" ,//功率     单位:w
+       "activeKWH":"2000"  //有功电度  单位:kw/h
+  }
+}
+```
+
