@@ -105,8 +105,9 @@ mv RMGWClient.xml /opt/RMGateway/bin
 
 https://github.com/qt/qtmqtt/tree/dev
 ```shell
-git checkout 5.15.2 
 cd qtmqtt 
+git checkout 5.15.2 
+
 qmake 
 make && make install
 ```
