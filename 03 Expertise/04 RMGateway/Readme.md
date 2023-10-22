@@ -115,7 +115,7 @@ qtmqtt会自动安装到Qt Creator的路径下
 ![[qtmqtt.png]]
 
 
-```
+```shell
 http://218.17.239.195/，
 这个对应的是我们172.16.1.100的内网，
 现在mqtt服务在内网
@@ -130,15 +130,20 @@ tcp://218.17.239.195:1884
 
 ![[mqtttopic.jpg]]
 
-```
-mqtt的连接账号roymark 密码123456
+```shell
+mqtt的连接账号
+roymark 
+密码
+123456
 在这个页面点击关闭或者开启按钮，或者修改值都会往mqtt发送报文
 
 ```
 
 ![[2300fdc1adca19ad3b0c3ffe00ebb61.jpg]]
 
+```shell
 $roymark/device/cmd/request/123
+```
 ![[580fbe6c86e1483d8fd286d77bb366b.jpg]]
 
 向这个topic发送
