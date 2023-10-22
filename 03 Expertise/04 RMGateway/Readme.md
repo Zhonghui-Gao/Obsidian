@@ -148,3 +148,24 @@ $roymark/device/cmd/request/123
 
 向这个topic发送
 
+```shell
+{
+   "cmd": "HIGH_POLE_LIGHT_CONTROL",
+    "id": 1711223969706807296,                   
+   "time": "1685418682806",                              
+   "data": {
+       "switchStatust":"1" , 
+       "brightness":"75%" ,
+       "exteriorIlluminance":"1000" ,     
+       "level":"5" ,
+       "voltage1":"375.2" ,
+       "voltage2":"375.0" ,
+       "voltage3":"375.1" ,
+       "current1":"50" ,
+       "current2":"50" ,
+       "current3":"50" ,
+       "power":"900" ,
+       "activeKWH":"2000"  
+  }
+}
+```
