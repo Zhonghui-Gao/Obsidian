@@ -143,6 +143,7 @@ roymark
 
 ```shell
 $roymark/device/cmd/request/123
+$roymark/device/cmd/respond/123
 ```
 ![[580fbe6c86e1483d8fd286d77bb366b.jpg]]
 
@@ -192,3 +193,9 @@ $roymark/device/cmd/request/123
 }
 ```
 
+同时订阅两个主题request和response 和  拿到相同的ID值
+
+线程接受消息 返回
+
+`bacnet`
+[bacnet-stack/bacnet-stack: BACnet Protocol Stack library provides a BACnet application layer, network layer and media access (MAC) layer communications services. (github.com)](https://github.com/bacnet-stack/bacnet-stack)
