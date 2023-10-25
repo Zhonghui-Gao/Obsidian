@@ -32,8 +32,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "92df58a3f42ea47b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Expertise/02 armbian/任务/04 uefi和grub启动器的工作原理.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Homepage/Homepage.md",
+                "file": "03 Expertise/02 armbian/任务/04 uefi和grub启动器的工作原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Homepage/Homepage.md",
+                "file": "03 Expertise/02 armbian/任务/04 uefi和grub启动器的工作原理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Homepage/Homepage.md"
+                "file": "03 Expertise/02 armbian/任务/04 uefi和grub启动器的工作原理.md"
               }
             }
           },
@@ -189,11 +202,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "0d39e20cc2f6aabe",
+  "active": "92df58a3f42ea47b",
   "lastOpenFiles": [
+    "01 Homepage/Homepage.md",
     "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md",
     "03 Expertise/04 RMGateway/Readme.md",
-    "01 Homepage/Homepage.md",
     "03 Expertise/02 armbian/上手/小学期国产芯片hm3568.md",
     "03 Expertise/02 armbian/上手/uboot + kernel 启动动画.md",
     "03 Expertise/02 armbian/上手/Qt Gstreamer.md",
