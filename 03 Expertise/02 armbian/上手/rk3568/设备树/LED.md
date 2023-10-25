@@ -6,7 +6,7 @@
 `dtc -I dtb -O dts  rk3568-hm.dtb  -o rk3568-hm.dts`
 反编译dtb文件得到dts 修改
 
-```
+```bash
 leds{
 	gpio = xxx 
 

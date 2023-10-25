@@ -22,31 +22,19 @@
             }
           },
           {
-            "id": "efc37c249d69ef4a",
+            "id": "15ab6b7c29263cac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Expertise/04 RMGateway/Readme.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92df58a3f42ea47b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Expertise/02 armbian/任务/04 uefi和grub启动器的工作原理.md",
+                "file": "02 Research/01 paper/idea.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Expertise/02 armbian/任务/04 uefi和grub启动器的工作原理.md",
+                "file": "02 Research/01 paper/idea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Expertise/02 armbian/任务/04 uefi和grub启动器的工作原理.md",
+                "file": "02 Research/01 paper/idea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Expertise/02 armbian/任务/04 uefi和grub启动器的工作原理.md"
+                "file": "02 Research/01 paper/idea.md"
               }
             }
           },
@@ -202,30 +190,33 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "92df58a3f42ea47b",
+  "active": "15ab6b7c29263cac",
   "lastOpenFiles": [
     "01 Homepage/Homepage.md",
-    "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md",
     "03 Expertise/04 RMGateway/Readme.md",
+    "02 Research/01 paper/idea.md",
+    "02 Research/04 Modern cryptography/RSA.md",
+    "01 Homepage/Weekly notes.md",
+    "03 Expertise/02 armbian/上手/rk3568/设备树/串口uart.md",
+    "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md",
+    "03 Expertise/02 armbian/上手/rk3568/设备树/LED.md",
+    "03 Expertise/02 armbian/操作/烧录+linux环境.md",
+    "03 Expertise/02 armbian/操作/编译问题.md",
+    "03 Expertise/02 armbian/任务/04 uefi和grub启动器的工作原理.md",
     "03 Expertise/02 armbian/上手/小学期国产芯片hm3568.md",
     "03 Expertise/02 armbian/上手/uboot + kernel 启动动画.md",
     "03 Expertise/02 armbian/上手/Qt Gstreamer.md",
     "03 Expertise/03 linux/linux 美化.md",
-    "02 Research/01 paper/idea.md",
-    "03 Expertise/02 armbian/上手/rk3568/设备树/串口uart.md",
     "03 Expertise/02 armbian/任务/02 uboot与内核之间的关系.md",
     "03 Expertise/02 armbian/任务/01 系统启动.md",
     "03 Expertise/02 armbian/操作/rk3568 网络搭建.md",
     "03 Expertise/02 armbian/操作/linux阅读源码.md",
     "03 Expertise/02 armbian/操作/kernel 6.4.16.md",
     "03 Expertise/02 armbian/操作/buildroot.md",
-    "03 Expertise/02 armbian/操作/烧录+linux环境.md",
-    "03 Expertise/02 armbian/操作/编译问题.md",
     "580fbe6c86e1483d8fd286d77bb366b.jpg",
     "2300fdc1adca19ad3b0c3ffe00ebb61.jpg",
     "04 Image/mqtttopic.jpg",
     "04 Image/qtmqtt.png",
-    "02 Research/04 Modern cryptography/RSA.md",
     "05 Template/数学公式参考补充ing.md",
     "05 Template/Markdown语法.md",
     "05 Template/实验记录模板.md",
@@ -234,9 +225,6 @@
     "03 Expertise/04 RMGateway",
     "03 Expertise/02 armbian/未命名",
     "01 Homepage/Records.md",
-    "02 Research/03 Leetcode Algorithm/每日一题②.md",
-    "02 Research/03 Leetcode Algorithm/NOIP2006 普及组 明明的随机数.md",
-    "01 Homepage/Weekly notes.md",
     "02 Research/01 paper",
     "04 Image/RS232.jpg",
     "RPi4_UEFI_Firmware_v1.35.zip",
