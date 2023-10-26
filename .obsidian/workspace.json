@@ -20,21 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "15ab6b7c29263cac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Expertise/02 armbian/任务/01 系统启动.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,7 +177,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "15ab6b7c29263cac",
+  "active": "c7416abfbba7ebc7",
   "lastOpenFiles": [
     "03 Expertise/02 armbian/任务/02 uboot与内核之间的关系.md",
     "03 Expertise/02 armbian/任务/03 自定义uboot及内核的流程.md",
