@@ -110,6 +110,12 @@ git checkout 5.15.2
 
 qmake 
 make && make install
+
+安装错误用：
+make clean 
+
+qmake 
+make && make install
 ```
 qtmqtt会自动安装到Qt Creator的路径下
 ![[qtmqtt.png]]
