@@ -216,3 +216,7 @@ config.cpp 配置xml
 
 整合mqtt_client 和 mqttservice
 
+
+```shell
+端口号 + object-type + object-instance + present-value  
+```
