@@ -218,5 +218,5 @@ config.cpp 配置xml
 
 
 ```shell
-端口号 + object-type + object-instance + present-value  
+端口号 + device-instance object-type object-instance property [index]
 ```
