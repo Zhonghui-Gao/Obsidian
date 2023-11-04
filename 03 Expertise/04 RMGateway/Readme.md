@@ -218,5 +218,22 @@ config.cpp 配置xml
 
 
 ```shell
-端口号 + device-instance object-type object-instance property [index]
+端口号 + 
++device-instance 
++object-type 
++object-instance 
++property [index]
+./bacrp 127001 0 0 Event-State
+
+```
+
+```shell
+端口号 +
++device-instance 
++object-type 
++object-instance 
++property priority 
++index 
++tag 
++value [tag value...]
 ```
