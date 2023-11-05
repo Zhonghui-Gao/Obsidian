@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Expertise/04 RMGateway/Readme.md",
+                "file": "03 Expertise/04 RMGateway/bacnum.h.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Expertise/04 RMGateway/Readme.md",
+                "file": "03 Expertise/04 RMGateway/bacnum.h.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Expertise/04 RMGateway/Readme.md",
+                "file": "03 Expertise/04 RMGateway/bacnum.h.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Expertise/04 RMGateway/Readme.md"
+                "file": "03 Expertise/04 RMGateway/bacnum.h.md"
               }
             }
           },
@@ -192,11 +192,16 @@
   },
   "active": "1497af88883cfa42",
   "lastOpenFiles": [
+    "03 Expertise/04 RMGateway/任务.md",
+    "03 Expertise/04 RMGateway/bacnum.h.md",
+    "03 Expertise/02 armbian/操作/烧录+linux环境.md",
+    "03 Expertise/02 armbian/操作/编译问题.md",
+    "02 Research/03 Leetcode Algorithm/NOIP2006 普及组 明明的随机数.md",
+    "01 Homepage/Weekly notes.md",
+    "03 Expertise/04 RMGateway/Readme.md",
     "02 Research/01 paper/idea.md",
     "02 Research/01 paper/综述.md",
     "02 Research/04 Modern cryptography/RSA.md",
-    "03 Expertise/04 RMGateway/Readme.md",
-    "01 Homepage/Weekly notes.md",
     "03 Expertise/02 armbian/操作/rk3568 网络搭建.md",
     "03 Expertise/02 armbian/操作/linux阅读源码.md",
     "03 Expertise/02 armbian/操作/kernel 6.4.16.md",
@@ -205,19 +210,14 @@
     "03 Expertise/02 armbian/任务/02 uboot与内核之间的关系.md",
     "03 Expertise/02 armbian/任务/04 uefi和grub启动器的工作原理.md",
     "03 Expertise/02 armbian/任务/03 自定义uboot及内核的流程.md",
-    "03 Expertise/02 armbian/操作/烧录+linux环境.md",
     "03 Expertise/03 linux/linux 美化.md",
     "03 Expertise/02 armbian/上手/小学期国产芯片hm3568.md",
     "03 Expertise/02 armbian/上手/Qt Gstreamer.md",
     "03 Expertise/02 armbian/上手/uboot + kernel 启动动画.md",
     "03 Expertise/02 armbian/任务/05 交叉编译文件系统及docker.md",
-    "03 Expertise/02 armbian/操作/编译问题.md",
     "03 Expertise/02 armbian/操作/buildroot.md",
     "03 Expertise/02 armbian/上手/rk3568/设备树/LED.md",
     "03 Expertise/02 armbian/上手/rk3568/设备树/EDP2VGA.md",
-    "03 Expertise/02 armbian/上手/rk3568/设备树/网口WOL.md",
-    "03 Expertise/02 armbian/上手/rk3568/设备树/串口uart.md",
-    "01 Homepage/Homepage.md",
     "580fbe6c86e1483d8fd286d77bb366b.jpg",
     "2300fdc1adca19ad3b0c3ffe00ebb61.jpg",
     "04 Image/mqtttopic.jpg",
