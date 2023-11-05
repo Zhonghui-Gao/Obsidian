@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Expertise/04 RMGateway/bacnum.h.md",
+                "file": "03 Expertise/04 RMGateway/任务.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Expertise/04 RMGateway/bacnum.h.md",
+                "file": "03 Expertise/04 RMGateway/任务.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Expertise/04 RMGateway/bacnum.h.md",
+                "file": "03 Expertise/04 RMGateway/任务.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Expertise/04 RMGateway/bacnum.h.md"
+                "file": "03 Expertise/04 RMGateway/任务.md"
               }
             }
           },
@@ -192,8 +192,8 @@
   },
   "active": "1497af88883cfa42",
   "lastOpenFiles": [
-    "03 Expertise/04 RMGateway/任务.md",
     "03 Expertise/04 RMGateway/bacnum.h.md",
+    "03 Expertise/04 RMGateway/任务.md",
     "03 Expertise/02 armbian/操作/烧录+linux环境.md",
     "03 Expertise/02 armbian/操作/编译问题.md",
     "02 Research/03 Leetcode Algorithm/NOIP2006 普及组 明明的随机数.md",
