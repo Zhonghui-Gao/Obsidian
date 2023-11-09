@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Expertise/04 RMGateway/任务.md",
+                "file": "03 Expertise/04 RMGateway/bacnum.h.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Expertise/04 RMGateway/任务.md",
+                "file": "03 Expertise/04 RMGateway/bacnum.h.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Expertise/04 RMGateway/任务.md",
+                "file": "03 Expertise/04 RMGateway/bacnum.h.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Expertise/04 RMGateway/任务.md"
+                "file": "03 Expertise/04 RMGateway/bacnum.h.md"
               }
             }
           },
@@ -192,6 +192,7 @@
   },
   "active": "c7416abfbba7ebc7",
   "lastOpenFiles": [
+    "01 Homepage/Homepage.md",
     "03 Expertise/04 RMGateway/bacnum.h.md",
     "03 Expertise/04 RMGateway/Readme.md",
     "03 Expertise/04 RMGateway/任务.md",
@@ -217,7 +218,6 @@
     "03 Expertise/02 armbian/任务/05 交叉编译文件系统及docker.md",
     "03 Expertise/02 armbian/操作/buildroot.md",
     "03 Expertise/02 armbian/上手/rk3568/设备树/LED.md",
-    "03 Expertise/02 armbian/上手/rk3568/设备树/EDP2VGA.md",
     "580fbe6c86e1483d8fd286d77bb366b.jpg",
     "2300fdc1adca19ad3b0c3ffe00ebb61.jpg",
     "04 Image/mqtttopic.jpg",
