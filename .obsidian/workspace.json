@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Expertise/04 RMGateway/bacnum.h.md",
+                "file": "03 Expertise/03 linux/linux 美化.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Homepage/Homepage.md",
+                "file": "03 Expertise/03 linux/linux 美化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Homepage/Homepage.md",
+                "file": "03 Expertise/03 linux/linux 美化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Homepage/Homepage.md"
+                "file": "03 Expertise/03 linux/linux 美化.md"
               }
             }
           },
@@ -190,7 +190,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "c7416abfbba7ebc7",
+  "active": "1497af88883cfa42",
   "lastOpenFiles": [
     "01 Homepage/Homepage.md",
     "03 Expertise/04 RMGateway/bacnum.h.md",
