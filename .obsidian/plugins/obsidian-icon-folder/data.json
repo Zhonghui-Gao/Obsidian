@@ -22,7 +22,9 @@
     },
     "iconInTabsEnabled": false,
     "iconInTitleEnabled": false,
-    "iconsBackgroundCheckEnabled": false
+    "iconsBackgroundCheckEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsInNotesEnabled": true
   },
   "03 Expertise": "FasGraduationCap",
   "04 Image": "LiImage",
