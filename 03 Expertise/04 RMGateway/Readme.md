@@ -145,13 +145,13 @@ roymark
 
 ```
 
-![[2300fdc1adca19ad3b0c3ffe00ebb61.jpg]]
+![[RMG2.jpg]]
 
 ```shell
 $roymark/device/cmd/request/123
 $roymark/device/cmd/respond/123
 ```
-![[580fbe6c86e1483d8fd286d77bb366b.jpg]]
+![[RMG1.jpg]]
 
 向这个topic发送
 
