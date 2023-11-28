@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Research/01 paper/综述.md",
+                "file": "02 Research/01 paper/RISC-V && RUST.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Research/01 paper/综述.md",
+                "file": "02 Research/01 paper/RISC-V && RUST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Research/01 paper/综述.md",
+                "file": "02 Research/01 paper/RISC-V && RUST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Research/01 paper/综述.md"
+                "file": "02 Research/01 paper/RISC-V && RUST.md"
               }
             }
           },
@@ -192,11 +192,11 @@
   },
   "active": "84c08de650477133",
   "lastOpenFiles": [
+    "02 Research/01 paper/综述.md",
     "02 Research/01 paper/idea.md",
     "02 Research/01 paper/RISC-V && RUST.md",
     "01 Homepage/Weekly notes.md",
     "未命名.md",
-    "02 Research/01 paper/综述.md",
     "01 Homepage/Homepage.md",
     "02 Research/01 paper/通信协议.md",
     "04 Image/RMG2.jpg",
