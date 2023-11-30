@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "84311fb8c40717e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Expertise/02 armbian/上手/rk3568/设备树/串口uart.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Homepage/Homepage.md",
+                "file": "03 Expertise/02 armbian/上手/rk3568/设备树/串口uart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Homepage/Homepage.md",
+                "file": "03 Expertise/02 armbian/上手/rk3568/设备树/串口uart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Homepage/Homepage.md"
+                "file": "03 Expertise/02 armbian/上手/rk3568/设备树/串口uart.md"
               }
             }
           },
@@ -177,8 +190,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "0d39e20cc2f6aabe",
+  "active": "84311fb8c40717e1",
   "lastOpenFiles": [
+    "01 Homepage/Homepage.md",
     "02 Research/05 CSRanking/中山大学.md",
     "02 Research/05 CSRanking/CSRanking.md",
     "02 Research/05 CSRanking/深圳大学.md",
@@ -191,7 +205,6 @@
     "02 Research/05 CSRanking/清华大学.md",
     "02 Research/05 CSRanking/南京大学.md",
     "模型检查、有界模型检查、形式化方法、软件测试、软件分析、可靠系统和软件工程.md",
-    "01 Homepage/Homepage.md",
     "正式支持设计和分析 反应式、受干扰、实时、混合和信息物理系统;软件测试和验证;模型驱动的软件开发;面向服务的计算.md",
     "02 Research/05 CSRanking/湖南大学.md",
     "02 Research/01 paper/CSRankings.md",
