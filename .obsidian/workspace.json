@@ -20,21 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "84311fb8c40717e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 Research / 06 zotero/changMemoryAwareEmbeddedControl2017.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Research / 06 zotero/changMemoryAwareEmbeddedControl2017.md",
+                "file": "01 Homepage/Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Research / 06 zotero/changMemoryAwareEmbeddedControl2017.md",
+                "file": "01 Homepage/Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Research / 06 zotero/changMemoryAwareEmbeddedControl2017.md"
+                "file": "01 Homepage/Homepage.md"
               }
             }
           },
@@ -190,48 +177,47 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "84311fb8c40717e1",
+  "active": "c7416abfbba7ebc7",
   "lastOpenFiles": [
-    "02 Research / 06 zotero/zuoPAVFuzzStateSensitiveFuzz2021.md",
-    "02 Research / 06 zotero/changMemoryAwareEmbeddedControl2017.md",
-    "02 Research/06 zotero/基于嵌入式Linux的机器人控制和交互.md",
+    "02 Research/05 CSRanking/湖南大学.md",
+    "基于嵌入式Linux的机器人控制和交互.md",
+    "02 Research/06 ACM",
+    "02 Research/01 paper/基于虹膜识别算法的多模态身份认证系统设计.md",
     "Code Synthesis for Dataflow-Based Embedded Software Design.md",
-    "02 Research / 06 zotero",
-    "02 Research ",
-    "Research 02/ zotero 06/zhaoDAGSchedulingAnalysis2020.md",
-    "Research 02/ zotero 06",
-    "Research 02",
-    "Memory-Aware Embedded Control Systems Design.md",
-    "02 Research/01 paper/idea.md",
-    "02 Research/06 zotero",
-    "02 Research/01 paper/Memory-Aware Embedded Control Systems Design.md",
-    "02 Research/01 paper/基于嵌入式Linux的机器人控制和交互.md",
-    "02 Research/01 paper/未命名",
-    "02 Research/01 paper/通信协议.md",
-    "05 Template/paper-template.md",
-    "02 Research/01 paper/RISC-V && RUST.md",
-    "03 Expertise/02 armbian/上手/rk3568/设备树/串口uart.md",
-    "模型检查、有界模型检查、形式化方法、软件测试、软件分析、可靠系统和软件工程.md",
+    "02 Research/06 paper",
+    "Internet of Autonomous Vehicles Communications Security - Overview, Issues, and Directions.md",
     "01 Homepage/Homepage.md",
-    "02 Research/05 CSRanking/中山大学.md",
-    "02 Research/05 CSRanking/CSRanking.md",
-    "02 Research/05 CSRanking/深圳大学.md",
-    "02 Research/05 CSRanking/南方科技大学.md",
-    "02 Research/05 CSRanking/厦门大学.md",
-    "02 Research/05 CSRanking/浙江大学.md",
-    "02 Research/05 CSRanking/华东师范大学.md",
-    "02 Research/05 CSRanking/上海交通大学.md",
-    "02 Research/05 CSRanking/山东大学.md",
+    "06 Zotero/基于虹膜识别算法的多模态身份认证系统设计.md",
+    "DAG Scheduling and Analysis on Multiprocessor Systems - Exploitation of Parallelism and Dependency.md",
+    "Research for Vulnerability Detection of Embedded System Firmware.md",
+    "06 Zotero",
+    "02 Research/06 zotero/基于嵌入式Linux的机器人控制和交互.md",
+    "02 Research/06 zotero/ZhangWeiJiYuHongMoShiBieSuanFaDeDuoMoTaiShenFenRenZhengXiTongSheJi2023.md",
+    "02 Research / 06 zotero/changMemoryAwareEmbeddedControl2017.md",
     "02 Research/05 CSRanking/清华大学.md",
+    "02 Research/05 CSRanking/深圳大学.md",
+    "02 Research/05 CSRanking/浙江大学.md",
+    "02 Research/05 CSRanking/山东大学.md",
+    "02 Research/05 CSRanking/厦门大学.md",
+    "02 Research/05 CSRanking/南方科技大学.md",
     "02 Research/05 CSRanking/南京大学.md",
+    "02 Research/05 CSRanking/华东师范大学.md",
+    "02 Research/05 CSRanking/中山大学.md",
+    "02 Research/05 CSRanking/上海交通大学.md",
+    "02 Research/05 CSRanking/CSRanking.md",
+    "02 Research/04 Modern cryptography/RSA.md",
+    "02 Research/03 Leetcode Algorithm/每日一题②.md",
     "02 Research/05 CSRanking",
+    "02 Research/06 paper",
+    "02 Research/04 Modern cryptography",
+    "02 Research/03 Leetcode Algorithm",
+    "02 Research/01 paper",
+    "02 Research",
+    "02 Research / 06 zotero",
     "04 Image/RMG2.jpg",
     "04 Image/RMG1.jpg",
     "04 Image/mqtttopic.jpg",
     "04 Image/qtmqtt.png",
-    "02 Research/04 Modern cryptography",
-    "03 Expertise/04 RMGateway",
-    "03 Expertise/02 armbian/未命名",
     "04 Image/RS232.jpg",
     "04 Image/编译/Pasted image 20230816151838.png",
     "04 Image/编译/Pasted image 20230817122919.png",
