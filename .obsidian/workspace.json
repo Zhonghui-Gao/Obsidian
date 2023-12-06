@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Expertise/02 armbian/上手/rk3568/设备树/串口uart.md",
+                "file": "02 Research/06 zotero/基于嵌入式Linux的机器人控制和交互.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Expertise/02 armbian/上手/rk3568/设备树/串口uart.md",
+                "file": "02 Research/06 zotero/基于嵌入式Linux的机器人控制和交互.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Expertise/02 armbian/上手/rk3568/设备树/串口uart.md",
+                "file": "02 Research/06 zotero/基于嵌入式Linux的机器人控制和交互.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Expertise/02 armbian/上手/rk3568/设备树/串口uart.md"
+                "file": "02 Research/06 zotero/基于嵌入式Linux的机器人控制和交互.md"
               }
             }
           },
@@ -192,8 +192,17 @@
   },
   "active": "c7416abfbba7ebc7",
   "lastOpenFiles": [
-    "模型检查、有界模型检查、形式化方法、软件测试、软件分析、可靠系统和软件工程.md",
+    "02 Research/01 paper/idea.md",
+    "02 Research/06 zotero/基于嵌入式Linux的机器人控制和交互.md",
+    "02 Research/06 zotero",
+    "02 Research/01 paper/Memory-Aware Embedded Control Systems Design.md",
+    "02 Research/01 paper/基于嵌入式Linux的机器人控制和交互.md",
+    "02 Research/01 paper/未命名",
+    "02 Research/01 paper/通信协议.md",
+    "05 Template/paper-template.md",
+    "02 Research/01 paper/RISC-V && RUST.md",
     "03 Expertise/02 armbian/上手/rk3568/设备树/串口uart.md",
+    "模型检查、有界模型检查、形式化方法、软件测试、软件分析、可靠系统和软件工程.md",
     "01 Homepage/Homepage.md",
     "02 Research/05 CSRanking/中山大学.md",
     "02 Research/05 CSRanking/CSRanking.md",
@@ -211,16 +220,9 @@
     "02 Research/01 paper/CSRankings.md",
     "02 Research/05 CSRanking",
     "[linux 美化.md",
-    "02 Research/01 paper/idea.md",
-    "02 Research/01 paper/RISC-V && RUST.md",
     "01 Homepage/Weekly notes.md",
-    "未命名.md",
-    "02 Research/01 paper/通信协议.md",
     "04 Image/RMG2.jpg",
     "04 Image/RMG1.jpg",
-    "README.md",
-    "03 Expertise/04 RMGateway/任务.md",
-    "03 Expertise/04 RMGateway/bacnum.h.md",
     "04 Image/mqtttopic.jpg",
     "04 Image/qtmqtt.png",
     "02 Research/04 Modern cryptography",
@@ -233,8 +235,6 @@
     "pdf/linux/[嵌入式Linux应用开发完全手册].有目录.pdf",
     "04 Image/编译/Pasted image 20230816151838.png",
     "04 Image/编译/Pasted image 20230817122919.png",
-    "pdf/linux/Linux内核设计与实现3.pdf",
-    "pdf/linux/Linux设备驱动程序第三版中文版.pdf",
     "04 Image/编译/网络分布.png",
     "04 Image/编译/error.png",
     "04 Image/编译/网络分布.png",

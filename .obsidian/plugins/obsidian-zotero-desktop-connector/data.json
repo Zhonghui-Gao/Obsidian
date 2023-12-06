@@ -1,0 +1,27 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "02 Research/06 zotero",
+  "pdfExportImageDPI": 120,
+  "pdfExportImageFormat": "jpg",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [
+    {
+      "name": "Format #1",
+      "format": "formatted-citation",
+      "cslStyle": "IEEE"
+    }
+  ],
+  "exportFormats": [
+    {
+      "name": "Import #1",
+      "outputPathTemplate": "{{title}}.md",
+      "imageOutputPathTemplate": "assets/{{title}}",
+      "imageBaseNameTemplate": "image",
+      "templatePath": "05 Template/paper-template.md"
+    }
+  ],
+  "citeSuggestTemplate": "[[{{citekey}}]]",
+  "openNoteAfterImport": false,
+  "whichNotesToOpenAfterImport": "first-imported-note",
+  "shouldConcat": true
+}
