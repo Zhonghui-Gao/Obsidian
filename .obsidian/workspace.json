@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Research/06 zotero/基于嵌入式Linux的机器人控制和交互.md",
+                "file": "02 Research / 06 zotero/changMemoryAwareEmbeddedControl2017.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Research/06 zotero/基于嵌入式Linux的机器人控制和交互.md",
+                "file": "02 Research / 06 zotero/changMemoryAwareEmbeddedControl2017.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Research/06 zotero/基于嵌入式Linux的机器人控制和交互.md",
+                "file": "02 Research / 06 zotero/changMemoryAwareEmbeddedControl2017.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Research/06 zotero/基于嵌入式Linux的机器人控制和交互.md"
+                "file": "02 Research / 06 zotero/changMemoryAwareEmbeddedControl2017.md"
               }
             }
           },
@@ -190,10 +190,19 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "c7416abfbba7ebc7",
+  "active": "84311fb8c40717e1",
   "lastOpenFiles": [
-    "02 Research/01 paper/idea.md",
+    "02 Research / 06 zotero/zuoPAVFuzzStateSensitiveFuzz2021.md",
+    "02 Research / 06 zotero/changMemoryAwareEmbeddedControl2017.md",
     "02 Research/06 zotero/基于嵌入式Linux的机器人控制和交互.md",
+    "Code Synthesis for Dataflow-Based Embedded Software Design.md",
+    "02 Research / 06 zotero",
+    "02 Research ",
+    "Research 02/ zotero 06/zhaoDAGSchedulingAnalysis2020.md",
+    "Research 02/ zotero 06",
+    "Research 02",
+    "Memory-Aware Embedded Control Systems Design.md",
+    "02 Research/01 paper/idea.md",
     "02 Research/06 zotero",
     "02 Research/01 paper/Memory-Aware Embedded Control Systems Design.md",
     "02 Research/01 paper/基于嵌入式Linux的机器人控制和交互.md",
@@ -215,12 +224,7 @@
     "02 Research/05 CSRanking/山东大学.md",
     "02 Research/05 CSRanking/清华大学.md",
     "02 Research/05 CSRanking/南京大学.md",
-    "正式支持设计和分析 反应式、受干扰、实时、混合和信息物理系统;软件测试和验证;模型驱动的软件开发;面向服务的计算.md",
-    "02 Research/05 CSRanking/湖南大学.md",
-    "02 Research/01 paper/CSRankings.md",
     "02 Research/05 CSRanking",
-    "[linux 美化.md",
-    "01 Homepage/Weekly notes.md",
     "04 Image/RMG2.jpg",
     "04 Image/RMG1.jpg",
     "04 Image/mqtttopic.jpg",
@@ -228,11 +232,7 @@
     "02 Research/04 Modern cryptography",
     "03 Expertise/04 RMGateway",
     "03 Expertise/02 armbian/未命名",
-    "02 Research/01 paper",
     "04 Image/RS232.jpg",
-    "RPi4_UEFI_Firmware_v1.35.zip",
-    "pdf/linux/01_嵌入式Linux应用开发完全手册V5.1_IMX6ULL_Pro开发板.pdf",
-    "pdf/linux/[嵌入式Linux应用开发完全手册].有目录.pdf",
     "04 Image/编译/Pasted image 20230816151838.png",
     "04 Image/编译/Pasted image 20230817122919.png",
     "04 Image/编译/网络分布.png",

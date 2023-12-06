@@ -1,6 +1,6 @@
 {
   "database": "Zotero",
-  "noteImportFolder": "02 Research/06 zotero",
+  "noteImportFolder": "02 Research/ 06 zotero",
   "pdfExportImageDPI": 120,
   "pdfExportImageFormat": "jpg",
   "pdfExportImageQuality": 90,
@@ -23,5 +23,6 @@
   "citeSuggestTemplate": "[[{{citekey}}]]",
   "openNoteAfterImport": false,
   "whichNotesToOpenAfterImport": "first-imported-note",
-  "shouldConcat": true
+  "shouldConcat": true,
+  "exeOverridePath": ""
 }
