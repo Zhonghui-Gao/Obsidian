@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "869a1c29826e525e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Research/06 ACM/A platform for secure static binary instrumentation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Homepage/Homepage.md",
+                "file": "02 Research/06 ACM/A platform for secure static binary instrumentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Homepage/Homepage.md",
+                "file": "02 Research/06 ACM/A platform for secure static binary instrumentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Homepage/Homepage.md"
+                "file": "02 Research/06 ACM/A platform for secure static binary instrumentation.md"
               }
             }
           },
@@ -179,14 +192,21 @@
   },
   "active": "c7416abfbba7ebc7",
   "lastOpenFiles": [
+    "Internet of Autonomous Vehicles Communications Security - Overview, Issues, and Directions.md",
+    "01 Homepage/Homepage.md",
+    "02 Research/06 ACM/A platform for secure static binary instrumentation.md",
+    "02 Research/ 06 ACM/zhangPlatformSecureStatic2014.md",
+    "02 Research/ 06 ACM",
+    "02 Research/06 ACM/A platform for secure static binary instrumentation.md",
+    "assets/A platform for secure static binary instrumentation/image-1-x35-y278.png",
+    "assets/A platform for secure static binary instrumentation",
+    "assets",
     "02 Research/05 CSRanking/湖南大学.md",
     "基于嵌入式Linux的机器人控制和交互.md",
     "02 Research/06 ACM",
     "02 Research/01 paper/基于虹膜识别算法的多模态身份认证系统设计.md",
     "Code Synthesis for Dataflow-Based Embedded Software Design.md",
     "02 Research/06 paper",
-    "Internet of Autonomous Vehicles Communications Security - Overview, Issues, and Directions.md",
-    "01 Homepage/Homepage.md",
     "06 Zotero/基于虹膜识别算法的多模态身份认证系统设计.md",
     "DAG Scheduling and Analysis on Multiprocessor Systems - Exploitation of Parallelism and Dependency.md",
     "Research for Vulnerability Detection of Embedded System Firmware.md",
@@ -205,15 +225,10 @@
     "02 Research/05 CSRanking/中山大学.md",
     "02 Research/05 CSRanking/上海交通大学.md",
     "02 Research/05 CSRanking/CSRanking.md",
-    "02 Research/04 Modern cryptography/RSA.md",
-    "02 Research/03 Leetcode Algorithm/每日一题②.md",
     "02 Research/05 CSRanking",
     "02 Research/06 paper",
     "02 Research/04 Modern cryptography",
     "02 Research/03 Leetcode Algorithm",
-    "02 Research/01 paper",
-    "02 Research",
-    "02 Research / 06 zotero",
     "04 Image/RMG2.jpg",
     "04 Image/RMG1.jpg",
     "04 Image/mqtttopic.jpg",
@@ -223,7 +238,6 @@
     "04 Image/编译/Pasted image 20230817122919.png",
     "04 Image/编译/网络分布.png",
     "04 Image/编译/error.png",
-    "04 Image/编译/网络分布.png",
     "01个人主页/未命名.canvas",
     "专业知识/未命名.canvas"
   ]
