@@ -28,7 +28,7 @@
 
 %% begin annotations %%
 
-***Imported on 2023-12-08 10:16***
+***Imported on 2023-12-08 09:56***
 ***
 > [!Highlight]
 > <mark style="background: #2ea8e5">Prior works showed that an adversary could exploit physical interaction vulnerabilities among apps and put the users and environment </mark> [(p.1)](zotero://open-pdf/library/items/W9IDEFHX?page=1&annotation=JR95G3IK)
@@ -51,7 +51,7 @@
 
 🔤身体互动🔤
 > [!Highlight]
-> <mark style="background: #2ea8e5">These apps interact through the temperature channel (heater-on∼∼∼∼  temp. window-open). </mark> [(p.1)](zotero://open-pdf/library/items/W9IDEFHX?page=1&annotation=JH5FM544)
+> <mark style="background: #2ea8e5">These apps interact through the temperature channel (heater-on∼∼∼∼ temp. window-open). </mark> [(p.1)](zotero://open-pdf/library/items/W9IDEFHX?page=1&annotation=JH5FM544)
 
 🔤这些应用程序通过温度通道进行交互（加热器打开∼∼∼∼温度窗口打开）。🔤
 > [!Image]
@@ -67,7 +67,7 @@
 2.新颖的复合物理执行模型架构
 3.物理通道策略验证：我们使用有意/无意的物理通道标签开发新的安全策略
 > [!note]
-> <span style="color: #2ea8e5">三种设计方法：<br />C1：正确的物理交互<br />当用户不在家时，无法阻止开门或错误批准开窗<br /><br />C2：意外的物理交互<br />先前的工作定义了一条规则，规定“当检测到运动且家庭模式关闭时，警报必须响起，并且应向所有者发送短信/推送消息”<br /><br />C3：运行时问题<br />在运行时检查设备状态的动态系统 无法推断出精确命令对物理通道的影响<br /><br />C4：设备的放置灵敏性<br />设备的放置改变时，所识别的交互可能不再发生，并且可能存在先前未识别的新交互。 </span> [(p.3)](zotero://open-pdf/library/items/W9IDEFHX?page=3&annotation=R6DSHK45)
+> <span style="color: #2ea8e5">三种设计方法：<br />C1：正确的物理交互<br />C2：意外的物理交互<br />C3：运行时问题<br />C4：设备的放置灵敏性 </span> [(p.3)](zotero://open-pdf/library/items/W9IDEFHX?page=3&annotation=R6DSHK45)
 
 > [!Image]
 > ![](assets/Discovering%20IoT%20Physical%20Channel%20Vulnerabilities/image-4-x51-y619.png)  [(p.4)](zotero://open-pdf/library/items/W9IDEFHX?page=4&annotation=2UKBTZWP)
@@ -94,4 +94,4 @@ IOTSEER 架构
 > [!danger]
 > NEVER MODIFY ANYTHING BELOW
 
-%% Import Date: 2023-12-08T10:16:21.907+08:00 %%
+%% Import Date: 2023-12-08T09:56:58.707+08:00 %%
