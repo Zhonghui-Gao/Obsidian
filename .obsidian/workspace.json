@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Research/06 ACM/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries.md",
+                "file": "02 Research/06 ACM/Discovering IoT Physical Channel Vulnerabilities.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Research/06 ACM/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries.md",
+                "file": "02 Research/06 ACM/Discovering IoT Physical Channel Vulnerabilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Research/06 ACM/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries.md",
+                "file": "02 Research/06 ACM/Discovering IoT Physical Channel Vulnerabilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Research/06 ACM/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries.md"
+                "file": "02 Research/06 ACM/Discovering IoT Physical Channel Vulnerabilities.md"
               }
             }
           },
@@ -192,11 +192,12 @@
   },
   "active": "869a1c29826e525e",
   "lastOpenFiles": [
-    "02 Research/06 ACM/A platform for secure static binary instrumentation.md",
     "02 Research/06 ACM/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries.md",
-    "02 Research/06 ACM/Discovering IoT Physical Channel Vulnerabilities.md",
-    "02 Research/06 ACM/未命名.md",
     "Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries.md",
+    "02 Research/06 ACM/未命名.md",
+    "02 Research/ 06 ACM/zhangPlatformSecureStatic2014.md",
+    "02 Research/06 ACM/A platform for secure static binary instrumentation.md",
+    "02 Research/06 ACM/Discovering IoT Physical Channel Vulnerabilities.md",
     "assets/Discovering IoT Physical Channel Vulnerabilities/image-4-x51-y619.png",
     "assets/Discovering IoT Physical Channel Vulnerabilities/image-2-x320-y300.png",
     "assets/Discovering IoT Physical Channel Vulnerabilities/image-2-x309-y594.png",
@@ -208,7 +209,6 @@
     "assets/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries/image-1-x313-y77.png",
     "assets/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries",
     "Internet of Autonomous Vehicles Communications Security - Overview, Issues, and Directions.md",
-    "02 Research/ 06 ACM/zhangPlatformSecureStatic2014.md",
     "02 Research/ 06 ACM",
     "assets/A platform for secure static binary instrumentation/image-1-x35-y278.png",
     "assets/A platform for secure static binary instrumentation",
