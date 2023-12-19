@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Expertise/02 armbian/操作/编译问题.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Expertise/02 armbian/操作/编译问题.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Expertise/02 armbian/操作/编译问题.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Expertise/02 armbian/操作/编译问题.md"
+                "file": "README.md"
               }
             }
           },
@@ -192,10 +192,14 @@
   },
   "active": "869a1c29826e525e",
   "lastOpenFiles": [
+    "assets/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries/image-3-x83-y543.png",
+    "assets/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries/image-2-x61-y391.png",
+    "assets/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries/image-1-x313-y77.png",
+    "assets/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries/image-1-x45-y272.png",
+    "03 Expertise/02 armbian/操作/编译问题.md",
     "03 Expertise/02 armbian/操作/烧录+linux环境.md",
     "03 Expertise/02 armbian/操作/kernel 6.4.16.md",
     "03 Expertise/02 armbian/操作/buildroot.md",
-    "03 Expertise/02 armbian/操作/编译问题.md",
     "02 Research/01 paper/RISC-V && RUST.md",
     "02 Research/01 paper/idea.md",
     "assets/A platform for secure static binary instrumentation/image-1-x35-y278.png",
@@ -211,10 +215,6 @@
     "assets/Discovering IoT Physical Channel Vulnerabilities/image-2-x309-y594.png",
     "assets/Discovering IoT Physical Channel Vulnerabilities",
     "01 Homepage/Homepage.md",
-    "assets/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries/image-3-x83-y543.png",
-    "assets/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries/image-2-x61-y391.png",
-    "assets/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries/image-1-x45-y272.png",
-    "assets/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries/image-1-x313-y77.png",
     "assets/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries",
     "Internet of Autonomous Vehicles Communications Security - Overview, Issues, and Directions.md",
     "02 Research/ 06 ACM",
@@ -233,7 +233,6 @@
     "02 Research/06 zotero/ZhangWeiJiYuHongMoShiBieSuanFaDeDuoMoTaiShenFenRenZhengXiTongSheJi2023.md",
     "02 Research / 06 zotero/changMemoryAwareEmbeddedControl2017.md",
     "02 Research/05 CSRanking/清华大学.md",
-    "02 Research/05 CSRanking/深圳大学.md",
     "02 Research/05 CSRanking",
     "02 Research/06 paper",
     "04 Image/RMG2.jpg",
