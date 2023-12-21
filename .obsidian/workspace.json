@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "02 Research/06 ACM/A platform for secure static binary instrumentation.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "02 Research/06 ACM/A platform for secure static binary instrumentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "02 Research/06 ACM/A platform for secure static binary instrumentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "02 Research/06 ACM/A platform for secure static binary instrumentation.md"
               }
             }
           },
@@ -190,10 +190,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "869a1c29826e525e",
+  "active": "c7416abfbba7ebc7",
   "lastOpenFiles": [
-    "01 Homepage/Homepage.md",
+    "02 Research/06 ACM/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries.md",
+    "02 Research/06 ACM/Discovering IoT Physical Channel Vulnerabilities.md",
     "README.md",
+    "01 Homepage/Homepage.md",
     "assets/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries/image-3-x83-y543.png",
     "assets/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries/image-2-x61-y391.png",
     "assets/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries/image-1-x313-y77.png",
@@ -206,8 +208,6 @@
     "02 Research/01 paper/idea.md",
     "assets/A platform for secure static binary instrumentation/image-1-x35-y278.png",
     "02 Research/05 CSRanking/湖南大学.md",
-    "02 Research/06 ACM/Discovering IoT Physical Channel Vulnerabilities.md",
-    "02 Research/06 ACM/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries.md",
     "Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries.md",
     "02 Research/06 ACM/未命名.md",
     "02 Research/ 06 ACM/zhangPlatformSecureStatic2014.md",
