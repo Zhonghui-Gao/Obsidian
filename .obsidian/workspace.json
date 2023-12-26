@@ -22,12 +22,12 @@
             }
           },
           {
-            "id": "869a1c29826e525e",
+            "id": "09caedf7b4e2b9ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Research/06 ACM/A platform for secure static binary instrumentation.md",
+                "file": "A Component Vulnerability Matching Approach for IoT Firmware.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Research/06 ACM/A platform for secure static binary instrumentation.md",
+                "file": "A Component Vulnerability Matching Approach for IoT Firmware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Research/06 ACM/A platform for secure static binary instrumentation.md",
+                "file": "A Component Vulnerability Matching Approach for IoT Firmware.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Research/06 ACM/A platform for secure static binary instrumentation.md"
+                "file": "A Component Vulnerability Matching Approach for IoT Firmware.md"
               }
             }
           },
@@ -192,12 +192,15 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "869a1c29826e525e",
+  "active": "c7416abfbba7ebc7",
   "lastOpenFiles": [
+    "02 Research/06 ACM/A platform for secure static binary instrumentation.md",
+    "A Component Vulnerability Matching Approach for IoT Firmware.md",
+    "01 Homepage/Homepage.md",
+    "Excalidraw/Drawing 2023-12-26 21.28.58.excalidraw.md",
     "02 Research/06 ACM/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries.md",
     "02 Research/06 ACM/Discovering IoT Physical Channel Vulnerabilities.md",
     "README.md",
-    "01 Homepage/Homepage.md",
     "assets/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries/image-3-x83-y543.png",
     "assets/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries/image-2-x61-y391.png",
     "assets/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries/image-1-x313-y77.png",
@@ -213,7 +216,6 @@
     "Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries.md",
     "02 Research/06 ACM/未命名.md",
     "02 Research/ 06 ACM/zhangPlatformSecureStatic2014.md",
-    "02 Research/06 ACM/A platform for secure static binary instrumentation.md",
     "assets/Discovering IoT Physical Channel Vulnerabilities/image-4-x51-y619.png",
     "assets/Discovering IoT Physical Channel Vulnerabilities/image-2-x320-y300.png",
     "assets/Discovering IoT Physical Channel Vulnerabilities/image-2-x309-y594.png",
@@ -234,8 +236,6 @@
     "06 Zotero",
     "02 Research/06 zotero/基于嵌入式Linux的机器人控制和交互.md",
     "02 Research/06 zotero/ZhangWeiJiYuHongMoShiBieSuanFaDeDuoMoTaiShenFenRenZhengXiTongSheJi2023.md",
-    "02 Research / 06 zotero/changMemoryAwareEmbeddedControl2017.md",
-    "02 Research/05 CSRanking/清华大学.md",
     "02 Research/05 CSRanking",
     "02 Research/06 paper",
     "04 Image/RMG2.jpg",
