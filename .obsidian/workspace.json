@@ -166,7 +166,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -190,7 +192,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "c7416abfbba7ebc7",
+  "active": "869a1c29826e525e",
   "lastOpenFiles": [
     "02 Research/06 ACM/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries.md",
     "02 Research/06 ACM/Discovering IoT Physical Channel Vulnerabilities.md",
