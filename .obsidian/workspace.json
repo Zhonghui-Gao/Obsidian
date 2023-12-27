@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A Component Vulnerability Matching Approach for IoT Firmware.md",
+                "file": "02 Research/06 ACM/A platform for secure static binary instrumentation.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A Component Vulnerability Matching Approach for IoT Firmware.md",
+                "file": "02 Research/06 ACM/A platform for secure static binary instrumentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A Component Vulnerability Matching Approach for IoT Firmware.md",
+                "file": "02 Research/06 ACM/A platform for secure static binary instrumentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A Component Vulnerability Matching Approach for IoT Firmware.md"
+                "file": "02 Research/06 ACM/A platform for secure static binary instrumentation.md"
               }
             }
           },
@@ -194,12 +194,13 @@
   },
   "active": "c7416abfbba7ebc7",
   "lastOpenFiles": [
+    "02 Research/06 ACM/A Systematic Review of IoT Security - Research Potential, Challenges, and Future Directions.md",
+    "02 Research/06 ACM/Discovering IoT Physical Channel Vulnerabilities.md",
+    "02 Research/06 ACM/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries.md",
     "02 Research/06 ACM/A platform for secure static binary instrumentation.md",
-    "A Component Vulnerability Matching Approach for IoT Firmware.md",
+    "02 Research/06 ACM/A Component Vulnerability Matching Approach for IoT Firmware.md",
     "01 Homepage/Homepage.md",
     "Excalidraw/Drawing 2023-12-26 21.28.58.excalidraw.md",
-    "02 Research/06 ACM/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries.md",
-    "02 Research/06 ACM/Discovering IoT Physical Channel Vulnerabilities.md",
     "README.md",
     "assets/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries/image-3-x83-y543.png",
     "assets/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries/image-2-x61-y391.png",
@@ -235,7 +236,6 @@
     "Research for Vulnerability Detection of Embedded System Firmware.md",
     "06 Zotero",
     "02 Research/06 zotero/基于嵌入式Linux的机器人控制和交互.md",
-    "02 Research/06 zotero/ZhangWeiJiYuHongMoShiBieSuanFaDeDuoMoTaiShenFenRenZhengXiTongSheJi2023.md",
     "02 Research/05 CSRanking",
     "02 Research/06 paper",
     "04 Image/RMG2.jpg",
