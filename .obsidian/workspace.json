@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Research/06 ACM/A Component Vulnerability Matching Approach for IoT Firmware.md",
+                "file": "05 Template/实验记录模板.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Research/06 ACM/A Component Vulnerability Matching Approach for IoT Firmware.md",
+                "file": "05 Template/实验记录模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Research/06 ACM/A Component Vulnerability Matching Approach for IoT Firmware.md",
+                "file": "05 Template/实验记录模板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Research/06 ACM/A Component Vulnerability Matching Approach for IoT Firmware.md"
+                "file": "05 Template/实验记录模板.md"
               }
             }
           },
@@ -194,11 +194,16 @@
   },
   "active": "09caedf7b4e2b9ac",
   "lastOpenFiles": [
+    "02 Research/01 paper/通信协议.md",
+    "05 Template/实验记录模板.md",
+    "05 Template/数学公式参考补充ing.md",
+    "05 Template/paper-template.md",
+    "02 Research/01 paper/物联网安全.md",
+    "02 Research/06 ACM/A Component Vulnerability Matching Approach for IoT Firmware.md",
     "02 Research/06 ACM/A platform for secure static binary instrumentation.md",
     "02 Research/06 ACM/A Systematic Review of IoT Security - Research Potential, Challenges, and Future Directions.md",
     "02 Research/06 ACM/Discovering IoT Physical Channel Vulnerabilities.md",
     "02 Research/06 ACM/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries.md",
-    "02 Research/06 ACM/A Component Vulnerability Matching Approach for IoT Firmware.md",
     "01 Homepage/Homepage.md",
     "Excalidraw/Drawing 2023-12-26 21.28.58.excalidraw.md",
     "README.md",
@@ -229,13 +234,8 @@
     "基于嵌入式Linux的机器人控制和交互.md",
     "02 Research/06 ACM",
     "02 Research/01 paper/基于虹膜识别算法的多模态身份认证系统设计.md",
-    "Code Synthesis for Dataflow-Based Embedded Software Design.md",
     "02 Research/06 paper",
-    "06 Zotero/基于虹膜识别算法的多模态身份认证系统设计.md",
-    "DAG Scheduling and Analysis on Multiprocessor Systems - Exploitation of Parallelism and Dependency.md",
-    "Research for Vulnerability Detection of Embedded System Firmware.md",
     "06 Zotero",
-    "02 Research/06 zotero/基于嵌入式Linux的机器人控制和交互.md",
     "02 Research/05 CSRanking",
     "02 Research/06 paper",
     "04 Image/RMG2.jpg",
