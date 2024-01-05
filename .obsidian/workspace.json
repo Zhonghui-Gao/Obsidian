@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Expertise/02 armbian/上手/rk3568/设备树/LED.md",
+                "file": "02 Research/03 Leetcode Algorithm/每日一题②.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Expertise/02 armbian/上手/rk3568/设备树/LED.md",
+                "file": "02 Research/03 Leetcode Algorithm/每日一题②.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Expertise/02 armbian/上手/rk3568/设备树/LED.md",
+                "file": "02 Research/03 Leetcode Algorithm/每日一题②.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Expertise/02 armbian/上手/rk3568/设备树/LED.md"
+                "file": "02 Research/03 Leetcode Algorithm/每日一题②.md"
               }
             }
           },
@@ -195,8 +195,8 @@
   },
   "active": "09caedf7b4e2b9ac",
   "lastOpenFiles": [
-    "Pasted image 20240102111415.png",
     "03 Expertise/02 armbian/上手/rk3568/设备树/LED.md",
+    "Pasted image 20240102111415.png",
     "03 Expertise/02 armbian/上手/rk3568/设备树/EDP2VGA.md",
     "03 Expertise/02 armbian/上手/rk3568/设备树/网口WOL.md",
     "03 Expertise/02 armbian/上手/rk3568/设备树/串口uart.md",
