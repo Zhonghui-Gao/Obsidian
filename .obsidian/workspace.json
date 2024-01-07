@@ -22,13 +22,13 @@
             }
           },
           {
-            "id": "09caedf7b4e2b9ac",
+            "id": "47f42bfefbc85c07",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Research/01 paper/idea.md",
-                "mode": "source",
+                "file": "02 Research/01 paper/物联网安全.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Research/01 paper/idea.md",
+                "file": "02 Research/01 paper/物联网安全.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Research/01 paper/idea.md",
+                "file": "02 Research/01 paper/物联网安全.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Research/01 paper/idea.md"
+                "file": "02 Research/01 paper/物联网安全.md"
               }
             }
           },
@@ -193,20 +193,24 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "09caedf7b4e2b9ac",
+  "active": "47f42bfefbc85c07",
   "lastOpenFiles": [
+    "02 Research/03 Leetcode Algorithm/每日一题②.md",
     "01 Homepage/Homepage.md",
+    "02 Research/03 Leetcode Algorithm/NOIP2006 普及组 明明的随机数.md",
+    "1970-01-01.md",
+    "02 Research/06 ACM/A Component Vulnerability Matching Approach for IoT Firmware.md",
+    "02 Research/03 Leetcode Algorithm/fdsfds",
+    "02 Research/01 paper/物联网安全.md",
+    "02 Research/01 paper/通信协议.md",
+    "pdf/linux/Linux设备驱动程序3.pdf",
+    "pdf/linux/Linux内核设计与实现3.pdf",
     "02 Research/01 paper/idea.md",
     "02 Research/01 paper/RISC-V && RUST.md",
-    "02 Research/01 paper/通信协议.md",
-    "pdf/linux/Linux内核设计与实现3.pdf",
-    "02 Research/01 paper/物联网安全.md",
     "02 Research/06 ACM/Discovering IoT Physical Channel Vulnerabilities.md",
-    "02 Research/06 ACM/A Component Vulnerability Matching Approach for IoT Firmware.md",
     "02 Research/06 ACM/A platform for secure static binary instrumentation.md",
     "02 Research/06 ACM/A Systematic Review of IoT Security - Research Potential, Challenges, and Future Directions.md",
     "02 Research/06 ACM/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries.md",
-    "02 Research/03 Leetcode Algorithm/每日一题②.md",
     "03 Expertise/02 armbian/上手/rk3568/设备树/LED.md",
     "Pasted image 20240102111415.png",
     "03 Expertise/02 armbian/上手/rk3568/设备树/EDP2VGA.md",
@@ -221,8 +225,6 @@
     "03 Expertise/02 armbian/操作/编译问题.md",
     "03 Expertise/02 armbian/任务/05 交叉编译文件系统及docker.md",
     "03 Expertise/02 armbian/任务/04 uefi和grub启动器的工作原理.md",
-    "03 Expertise/02 armbian/任务/03 自定义uboot及内核的流程.md",
-    "03 Expertise/02 armbian/任务/02 uboot与内核之间的关系.md",
     "assets/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries/image-3-x83-y543.png",
     "assets/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries/image-2-x61-y391.png",
     "assets/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries/image-1-x313-y77.png",
@@ -238,8 +240,6 @@
     "assets",
     "02 Research/06 ACM",
     "02 Research/06 paper",
-    "06 Zotero",
-    "02 Research/05 CSRanking",
     "04 Image/RMG2.jpg",
     "01个人主页/未命名.canvas",
     "专业知识/未命名.canvas"

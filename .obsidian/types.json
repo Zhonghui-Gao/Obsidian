@@ -3,7 +3,8 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "Date": "number",
-    "Data": "date"
+    "Date": "date",
+    "Data": "date",
+    "banner": "date"
   }
 }
