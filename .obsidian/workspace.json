@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Research/01 paper/物联网安全.md",
+                "file": "02 Research/01 paper/idea.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Research/01 paper/物联网安全.md",
+                "file": "02 Research/01 paper/idea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Research/01 paper/物联网安全.md",
+                "file": "02 Research/01 paper/idea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Research/01 paper/物联网安全.md"
+                "file": "02 Research/01 paper/idea.md"
               }
             }
           },
@@ -195,7 +195,12 @@
   },
   "active": "09caedf7b4e2b9ac",
   "lastOpenFiles": [
+    "01 Homepage/Homepage.md",
+    "02 Research/01 paper/idea.md",
+    "02 Research/01 paper/RISC-V && RUST.md",
     "02 Research/01 paper/通信协议.md",
+    "pdf/linux/Linux内核设计与实现3.pdf",
+    "02 Research/01 paper/物联网安全.md",
     "02 Research/06 ACM/Discovering IoT Physical Channel Vulnerabilities.md",
     "02 Research/06 ACM/A Component Vulnerability Matching Approach for IoT Firmware.md",
     "02 Research/06 ACM/A platform for secure static binary instrumentation.md",
@@ -218,10 +223,6 @@
     "03 Expertise/02 armbian/任务/04 uefi和grub启动器的工作原理.md",
     "03 Expertise/02 armbian/任务/03 自定义uboot及内核的流程.md",
     "03 Expertise/02 armbian/任务/02 uboot与内核之间的关系.md",
-    "03 Expertise/02 armbian/任务/01 系统启动.md",
-    "03 Expertise/02 armbian/上手/小学期国产芯片hm3568.md",
-    "03 Expertise/02 armbian/上手/Qt Gstreamer.md",
-    "03 Expertise/02 armbian/上手/uboot + kernel 启动动画.md",
     "assets/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries/image-3-x83-y543.png",
     "assets/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries/image-2-x61-y391.png",
     "assets/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries/image-1-x313-y77.png",
@@ -239,7 +240,6 @@
     "02 Research/06 paper",
     "06 Zotero",
     "02 Research/05 CSRanking",
-    "02 Research/06 paper",
     "04 Image/RMG2.jpg",
     "01个人主页/未命名.canvas",
     "专业知识/未命名.canvas"
