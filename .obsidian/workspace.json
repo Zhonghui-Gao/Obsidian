@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Research/03 Leetcode Algorithm/每日一题②.md",
+                "file": "02 Research/01 paper/物联网安全.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Research/03 Leetcode Algorithm/每日一题②.md",
+                "file": "02 Research/01 paper/物联网安全.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Research/03 Leetcode Algorithm/每日一题②.md",
+                "file": "02 Research/01 paper/物联网安全.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Research/03 Leetcode Algorithm/每日一题②.md"
+                "file": "02 Research/01 paper/物联网安全.md"
               }
             }
           },
@@ -195,6 +195,13 @@
   },
   "active": "09caedf7b4e2b9ac",
   "lastOpenFiles": [
+    "02 Research/01 paper/通信协议.md",
+    "02 Research/06 ACM/Discovering IoT Physical Channel Vulnerabilities.md",
+    "02 Research/06 ACM/A Component Vulnerability Matching Approach for IoT Firmware.md",
+    "02 Research/06 ACM/A platform for secure static binary instrumentation.md",
+    "02 Research/06 ACM/A Systematic Review of IoT Security - Research Potential, Challenges, and Future Directions.md",
+    "02 Research/06 ACM/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries.md",
+    "02 Research/03 Leetcode Algorithm/每日一题②.md",
     "03 Expertise/02 armbian/上手/rk3568/设备树/LED.md",
     "Pasted image 20240102111415.png",
     "03 Expertise/02 armbian/上手/rk3568/设备树/EDP2VGA.md",
@@ -215,12 +222,6 @@
     "03 Expertise/02 armbian/上手/小学期国产芯片hm3568.md",
     "03 Expertise/02 armbian/上手/Qt Gstreamer.md",
     "03 Expertise/02 armbian/上手/uboot + kernel 启动动画.md",
-    "02 Research/01 paper/物联网安全.md",
-    "02 Research/01 paper/通信协议.md",
-    "05 Template/数学公式参考补充ing.md",
-    "05 Template/实验记录模板.md",
-    "05 Template/Markdown语法.md",
-    "02 Research/01 paper/RISC-V && RUST.md",
     "assets/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries/image-3-x83-y543.png",
     "assets/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries/image-2-x61-y391.png",
     "assets/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries/image-1-x313-y77.png",
