@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Research/03 Leetcode Algorithm/每日一题②.md",
+                "file": "03 Expertise/05 ESP8266/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Research/03 Leetcode Algorithm/每日一题②.md",
+                "file": "03 Expertise/05 ESP8266/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Research/03 Leetcode Algorithm/每日一题②.md",
+                "file": "03 Expertise/05 ESP8266/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Research/03 Leetcode Algorithm/每日一题②.md"
+                "file": "03 Expertise/05 ESP8266/README.md"
               }
             }
           },
@@ -195,8 +195,13 @@
   },
   "active": "cfa11a30936f5f46",
   "lastOpenFiles": [
-    "02 Research/03 Leetcode Algorithm/NOIP2006 普及组 明明的随机数.md",
+    "03 Expertise/04 RMGateway/Readme.md",
+    "03 Expertise/05 ESP8266/README.md",
+    "03 Expertise/04 RMGateway/bacnum.h.md",
+    "03 Expertise/04 RMGateway/任务.md",
     "02 Research/03 Leetcode Algorithm/每日一题②.md",
+    "03 Expertise/05 ESP8266",
+    "02 Research/03 Leetcode Algorithm/NOIP2006 普及组 明明的随机数.md",
     "01 Homepage/Homepage.md",
     "assets/Discovering IoT Physical Channel Vulnerabilities/image-2-x309-y594.png",
     "assets/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries/image-3-x83-y543.png",
@@ -226,9 +231,6 @@
     "03 Expertise/02 armbian/操作/linux阅读源码.md",
     "03 Expertise/02 armbian/操作/kernel 6.4.16.md",
     "03 Expertise/02 armbian/操作/buildroot.md",
-    "03 Expertise/02 armbian/操作/烧录+linux环境.md",
-    "03 Expertise/02 armbian/操作/编译问题.md",
-    "03 Expertise/02 armbian/任务/05 交叉编译文件系统及docker.md",
     "assets/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries/image-2-x61-y391.png",
     "assets/Discovering IoT Physical Channel Vulnerabilities/image-4-x51-y619.png",
     "assets/Discovering IoT Physical Channel Vulnerabilities/image-2-x320-y300.png",
@@ -238,7 +240,6 @@
     "assets/A platform for secure static binary instrumentation",
     "assets",
     "02 Research/06 ACM",
-    "02 Research/06 paper",
     "04 Image/RMG2.jpg",
     "01个人主页/未命名.canvas",
     "专业知识/未命名.canvas"

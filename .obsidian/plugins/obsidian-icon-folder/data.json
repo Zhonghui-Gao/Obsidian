@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiEspressif",
+      "RiAlarmWarningLine",
       "RiGameLine",
       "SiLinux",
-      "SiArm",
-      "FabApple",
-      "FabAmazonPay"
+      "SiArm"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -36,5 +36,7 @@
   "04 Image/background": "⬛",
   "03 Expertise/01 Verilog HDL/笔记": "FarNoteSticky",
   "03 Expertise/02 armbian": "SiArm",
-  "03 Expertise/03 linux": "SiLinux"
+  "03 Expertise/03 linux": "SiLinux",
+  "03 Expertise/04 RMGateway": "RiAlarmWarningLine",
+  "03 Expertise/05 ESP8266": "SiEspressif"
 }
