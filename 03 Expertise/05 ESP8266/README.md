@@ -9,6 +9,7 @@ vscode + platform
 |**Windows XP/Vista Software**|**Link**|**Release Notes**|
 |CP210x VCP Driver|[Driver](http://www.silabs.com/documents/public/software/CP210x_VCP_Windows_XP_Vista.zip)|[Release Notes](http://www.silabs.com/documents/public/release-notes/CP210x_VCP_Windows_XP_Vista_Release_Notes.txt)|
 安装x64的驱动，就可以识别到了
+按下boot键才能下载
 
 开发板资料：
 [DOIT ESP32 DevKit V1 Wi-Fi Development Board - Pinout Diagram & Arduino Reference - CIRCUITSTATE Electronics](https://www.circuitstate.com/pinouts/doit-esp32-devkit-v1-wifi-development-board-pinout-diagram-and-reference/)
