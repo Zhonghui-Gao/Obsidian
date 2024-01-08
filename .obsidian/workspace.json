@@ -22,12 +22,12 @@
             }
           },
           {
-            "id": "47f42bfefbc85c07",
+            "id": "cfa11a30936f5f46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Research/01 paper/物联网安全.md",
+                "file": "02 Research/03 Leetcode Algorithm/每日一题②.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Research/01 paper/物联网安全.md",
+                "file": "02 Research/03 Leetcode Algorithm/每日一题②.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Research/01 paper/物联网安全.md",
+                "file": "02 Research/03 Leetcode Algorithm/每日一题②.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Research/01 paper/物联网安全.md"
+                "file": "02 Research/03 Leetcode Algorithm/每日一题②.md"
               }
             }
           },
@@ -193,15 +193,20 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "47f42bfefbc85c07",
+  "active": "cfa11a30936f5f46",
   "lastOpenFiles": [
+    "02 Research/03 Leetcode Algorithm/NOIP2006 普及组 明明的随机数.md",
     "02 Research/03 Leetcode Algorithm/每日一题②.md",
     "01 Homepage/Homepage.md",
-    "02 Research/03 Leetcode Algorithm/NOIP2006 普及组 明明的随机数.md",
+    "assets/Discovering IoT Physical Channel Vulnerabilities/image-2-x309-y594.png",
+    "assets/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries/image-3-x83-y543.png",
+    "assets/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries/image-1-x313-y77.png",
+    "assets/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries/image-1-x45-y272.png",
+    "assets/A platform for secure static binary instrumentation/image-1-x35-y278.png",
+    "02 Research/01 paper/物联网安全.md",
     "1970-01-01.md",
     "02 Research/06 ACM/A Component Vulnerability Matching Approach for IoT Firmware.md",
     "02 Research/03 Leetcode Algorithm/fdsfds",
-    "02 Research/01 paper/物联网安全.md",
     "02 Research/01 paper/通信协议.md",
     "pdf/linux/Linux设备驱动程序3.pdf",
     "pdf/linux/Linux内核设计与实现3.pdf",
@@ -224,15 +229,9 @@
     "03 Expertise/02 armbian/操作/烧录+linux环境.md",
     "03 Expertise/02 armbian/操作/编译问题.md",
     "03 Expertise/02 armbian/任务/05 交叉编译文件系统及docker.md",
-    "03 Expertise/02 armbian/任务/04 uefi和grub启动器的工作原理.md",
-    "assets/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries/image-3-x83-y543.png",
     "assets/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries/image-2-x61-y391.png",
-    "assets/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries/image-1-x313-y77.png",
-    "assets/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries/image-1-x45-y272.png",
-    "assets/A platform for secure static binary instrumentation/image-1-x35-y278.png",
     "assets/Discovering IoT Physical Channel Vulnerabilities/image-4-x51-y619.png",
     "assets/Discovering IoT Physical Channel Vulnerabilities/image-2-x320-y300.png",
-    "assets/Discovering IoT Physical Channel Vulnerabilities/image-2-x309-y594.png",
     "assets/Discovering IoT Physical Channel Vulnerabilities",
     "assets/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries",
     "02 Research/ 06 ACM",
