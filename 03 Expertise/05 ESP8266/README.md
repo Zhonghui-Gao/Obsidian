@@ -13,4 +13,8 @@ vscode + platform
 
 开发板资料：
 [DOIT ESP32 DevKit V1 Wi-Fi Development Board - Pinout Diagram & Arduino Reference - CIRCUITSTATE Electronics](https://www.circuitstate.com/pinouts/doit-esp32-devkit-v1-wifi-development-board-pinout-diagram-and-reference/)
+重映射UART1
+三个串口
+esp接ttl转485模块连接温度变送器然后接PT100传感器
 
+电压变耦，升压用的，在接外面的模块
