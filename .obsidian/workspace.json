@@ -20,21 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "cfa11a30936f5f46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 Research/04 Modern cryptography/RSA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Research/04 Modern cryptography/RSA.md",
+                "file": "01 Homepage/Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Research/04 Modern cryptography/RSA.md",
+                "file": "01 Homepage/Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Research/04 Modern cryptography/RSA.md"
+                "file": "01 Homepage/Homepage.md"
               }
             }
           },
@@ -193,8 +180,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "cfa11a30936f5f46",
+  "active": "0d39e20cc2f6aabe",
   "lastOpenFiles": [
+    "02 Research/04 Modern cryptography/RSA.md",
     "03 Expertise/05 ESP8266/README.md",
     "03 Expertise/04 RMGateway/Readme.md",
     "03 Expertise/04 RMGateway/bacnum.h.md",
@@ -230,7 +218,6 @@
     "03 Expertise/02 armbian/操作/rk3568 网络搭建.md",
     "03 Expertise/02 armbian/操作/linux阅读源码.md",
     "03 Expertise/02 armbian/操作/kernel 6.4.16.md",
-    "03 Expertise/02 armbian/操作/buildroot.md",
     "assets/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries/image-2-x61-y391.png",
     "assets/Discovering IoT Physical Channel Vulnerabilities/image-4-x51-y619.png",
     "assets/Discovering IoT Physical Channel Vulnerabilities/image-2-x320-y300.png",
