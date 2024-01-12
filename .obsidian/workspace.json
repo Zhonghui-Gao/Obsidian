@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "00547d04056e7d5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Expertise/05 ESP8266/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Homepage/Homepage.md",
+                "file": "03 Expertise/05 ESP8266/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Homepage/Homepage.md",
+                "file": "03 Expertise/05 ESP8266/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Homepage/Homepage.md"
+                "file": "03 Expertise/05 ESP8266/README.md"
               }
             }
           },
@@ -180,8 +193,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "0d39e20cc2f6aabe",
+  "active": "00547d04056e7d5c",
   "lastOpenFiles": [
+    "01 Homepage/Homepage.md",
     "02 Research/04 Modern cryptography/RSA.md",
     "03 Expertise/05 ESP8266/README.md",
     "03 Expertise/04 RMGateway/Readme.md",
@@ -190,7 +204,6 @@
     "02 Research/03 Leetcode Algorithm/每日一题②.md",
     "03 Expertise/05 ESP8266",
     "02 Research/03 Leetcode Algorithm/NOIP2006 普及组 明明的随机数.md",
-    "01 Homepage/Homepage.md",
     "assets/Discovering IoT Physical Channel Vulnerabilities/image-2-x309-y594.png",
     "assets/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries/image-3-x83-y543.png",
     "assets/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries/image-1-x313-y77.png",
