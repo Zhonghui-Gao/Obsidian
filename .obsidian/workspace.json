@@ -195,9 +195,10 @@
   },
   "active": "00547d04056e7d5c",
   "lastOpenFiles": [
+    "04 Image/继电器.png",
+    "03 Expertise/05 ESP8266/README.md",
     "01 Homepage/Homepage.md",
     "02 Research/04 Modern cryptography/RSA.md",
-    "03 Expertise/05 ESP8266/README.md",
     "03 Expertise/04 RMGateway/Readme.md",
     "03 Expertise/04 RMGateway/bacnum.h.md",
     "03 Expertise/04 RMGateway/任务.md",
@@ -230,7 +231,6 @@
     "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md",
     "03 Expertise/02 armbian/操作/rk3568 网络搭建.md",
     "03 Expertise/02 armbian/操作/linux阅读源码.md",
-    "03 Expertise/02 armbian/操作/kernel 6.4.16.md",
     "assets/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries/image-2-x61-y391.png",
     "assets/Discovering IoT Physical Channel Vulnerabilities/image-4-x51-y619.png",
     "assets/Discovering IoT Physical Channel Vulnerabilities/image-2-x320-y300.png",
@@ -240,7 +240,6 @@
     "assets/A platform for secure static binary instrumentation",
     "assets",
     "02 Research/06 ACM",
-    "04 Image/RMG2.jpg",
     "01个人主页/未命名.canvas",
     "专业知识/未命名.canvas"
   ]
