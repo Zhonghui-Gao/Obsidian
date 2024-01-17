@@ -39,3 +39,7 @@ NC:继电器常闭接口，继电器吸合前与COM短接，吸合后悬空
 ![[继电器.png]]
 
 IN：GPIO13
+
+UART IMT
+蓝TX
+黄RX

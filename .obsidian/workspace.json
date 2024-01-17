@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Expertise/02 armbian/操作/编译问题.md",
+                "file": "03 Expertise/05 ESP8266/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Expertise/02 armbian/操作/编译问题.md",
+                "file": "03 Expertise/05 ESP8266/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Expertise/02 armbian/操作/编译问题.md",
+                "file": "03 Expertise/05 ESP8266/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Expertise/02 armbian/操作/编译问题.md"
+                "file": "03 Expertise/05 ESP8266/README.md"
               }
             }
           },
@@ -195,6 +195,7 @@
   },
   "active": "00547d04056e7d5c",
   "lastOpenFiles": [
+    "03 Expertise/02 armbian/操作/编译问题.md",
     "03 Expertise/02 armbian/操作/烧录+linux环境.md",
     "03 Expertise/02 armbian/操作/rk3568 网络搭建.md",
     "03 Expertise/02 armbian/操作/linux阅读源码.md",
@@ -204,7 +205,6 @@
     "03 Expertise/04 RMGateway/任务.md",
     "03 Expertise/04 RMGateway/Readme.md",
     "03 Expertise/04 RMGateway/bacnum.h.md",
-    "03 Expertise/02 armbian/操作/编译问题.md",
     "03 Expertise/05 ESP8266/README.md",
     "04 Image/继电器.png",
     "01 Homepage/Homepage.md",
