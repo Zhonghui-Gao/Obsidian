@@ -48,3 +48,32 @@ UART IMT
 5.常闭点（NC）：该引脚正常时连接到公共端，并在继电器激活时断开。
 
 6.公共端（COM）：在大多数情况下，此引脚连接到驱动应用的电源地。
+
+### 仅输入引脚
+
+GPIO 34 到 39 是 GPI – 仅输入引脚。这些引脚没有内部上拉或下拉电阻。它们不能用作输出，因此只能将这些引脚用作输入：
+
+GPIO 34  
+GPIO 35  
+GPIO 36  
+GPIO 39
+
+### Strapping 引脚
+
+GPIO 0  
+GPIO 2  
+GPIO 4  
+GPIO 5 (启动时必须为高电平)  
+GPIO 12 (启动时必须为低电平)  
+GPIO 15 (启动时必须为高电平)
+
+### 集成在ESP-WROOM-32 的 SPI flash 引脚
+
+GPIO 6 到 GPIO 11 在一些 ESP32 开发板中公开。但是，这些引脚连接到 ESP-WROOM-32 芯片上的集成 SPI 闪存，不推荐用于其他用途。所以，不要在你的项目中使用这些引脚：
+
+GPIO 6 (SCK/CLK)  
+GPIO 7 (SDO/SD0)  
+GPIO 8 (SDI/SD1)  
+GPIO 9 (SHD/SD2)  
+GPIO 10 (SWP/SD3)  
+GPIO 11 (CSC/CMD)
