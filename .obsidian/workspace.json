@@ -12,12 +12,8 @@
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Homepage/Homepage.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "pinned": true
             }
           },
@@ -195,6 +191,8 @@
   },
   "active": "00547d04056e7d5c",
   "lastOpenFiles": [
+    "03 Expertise/04 RMGateway/Readme.md",
+    "03 Expertise/05 ESP8266/README.md",
     "03 Expertise/02 armbian/操作/编译问题.md",
     "03 Expertise/02 armbian/操作/烧录+linux环境.md",
     "03 Expertise/02 armbian/操作/rk3568 网络搭建.md",
@@ -203,9 +201,7 @@
     "03 Expertise/02 armbian/操作/buildroot.md",
     "03 Expertise/03 linux/linux 美化.md",
     "03 Expertise/04 RMGateway/任务.md",
-    "03 Expertise/04 RMGateway/Readme.md",
     "03 Expertise/04 RMGateway/bacnum.h.md",
-    "03 Expertise/05 ESP8266/README.md",
     "04 Image/继电器.png",
     "01 Homepage/Homepage.md",
     "02 Research/04 Modern cryptography/RSA.md",
