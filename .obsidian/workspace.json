@@ -33,14 +33,16 @@
             "id": "36eba7c9983fdf1d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-20 15.03.49.excalidraw.md"
+                "file": "03 Expertise/05 ESP8266/README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-20 15.03.49.excalidraw.md",
+                "file": "03 Expertise/05 ESP8266/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-20 15.03.49.excalidraw.md",
+                "file": "03 Expertise/05 ESP8266/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-20 15.03.49.excalidraw.md"
+                "file": "03 Expertise/05 ESP8266/README.md"
               }
             }
           },
@@ -199,8 +201,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "36eba7c9983fdf1d",
+  "active": "00547d04056e7d5c",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-01-20 16.33.35.excalidraw.md",
     "03 Expertise/05 ESP8266/README.md",
     "Excalidraw/Drawing 2024-01-20 15.03.49.excalidraw.md",
     "03 Expertise/04 RMGateway/Readme.md",
@@ -236,7 +239,6 @@
     "02 Research/06 ACM/Discovering IoT Physical Channel Vulnerabilities.md",
     "02 Research/06 ACM/A platform for secure static binary instrumentation.md",
     "02 Research/06 ACM/A Systematic Review of IoT Security - Research Potential, Challenges, and Future Directions.md",
-    "02 Research/06 ACM/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries.md",
     "Pasted image 20240102111415.png",
     "assets/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries/image-2-x61-y391.png",
     "assets/Discovering IoT Physical Channel Vulnerabilities/image-4-x51-y619.png",
