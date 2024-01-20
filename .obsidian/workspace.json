@@ -28,9 +28,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "36eba7c9983fdf1d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-01-20 15.03.49.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Expertise/05 ESP8266/README.md",
+                "file": "Excalidraw/Drawing 2024-01-20 15.03.49.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Expertise/05 ESP8266/README.md",
+                "file": "Excalidraw/Drawing 2024-01-20 15.03.49.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Expertise/05 ESP8266/README.md"
+                "file": "Excalidraw/Drawing 2024-01-20 15.03.49.excalidraw.md"
               }
             }
           },
@@ -189,10 +199,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "00547d04056e7d5c",
+  "active": "36eba7c9983fdf1d",
   "lastOpenFiles": [
-    "03 Expertise/04 RMGateway/Readme.md",
     "03 Expertise/05 ESP8266/README.md",
+    "Excalidraw/Drawing 2024-01-20 15.03.49.excalidraw.md",
+    "03 Expertise/04 RMGateway/Readme.md",
     "03 Expertise/02 armbian/操作/编译问题.md",
     "03 Expertise/02 armbian/操作/烧录+linux环境.md",
     "03 Expertise/02 armbian/操作/rk3568 网络搭建.md",
@@ -226,7 +237,6 @@
     "02 Research/06 ACM/A platform for secure static binary instrumentation.md",
     "02 Research/06 ACM/A Systematic Review of IoT Security - Research Potential, Challenges, and Future Directions.md",
     "02 Research/06 ACM/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries.md",
-    "03 Expertise/02 armbian/上手/rk3568/设备树/LED.md",
     "Pasted image 20240102111415.png",
     "assets/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries/image-2-x61-y391.png",
     "assets/Discovering IoT Physical Channel Vulnerabilities/image-4-x51-y619.png",

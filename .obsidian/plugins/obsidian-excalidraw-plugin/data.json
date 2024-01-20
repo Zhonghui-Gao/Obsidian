@@ -73,7 +73,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.7",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.17",
     "libraryItems": [
       {
         "id": "ZLqfXVJ80-c_MtppJkV87",
@@ -283,7 +283,7 @@
             "containerId": null,
             "originalText": "in",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 21
           },
           {
             "type": "text",
@@ -320,7 +320,7 @@
             "containerId": null,
             "originalText": "out",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 21
           },
           {
             "type": "text",
@@ -357,7 +357,7 @@
             "containerId": null,
             "originalText": "非门not",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 21
           }
         ],
         "created": 1687709496785
@@ -541,7 +541,7 @@
             "containerId": null,
             "originalText": "out",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 21
           },
           {
             "type": "text",
@@ -578,7 +578,7 @@
             "containerId": null,
             "originalText": "in",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 21
           },
           {
             "type": "text",
@@ -615,7 +615,7 @@
             "containerId": null,
             "originalText": "缓冲器buf",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 21
           }
         ],
         "created": 1687709386785
@@ -975,7 +975,7 @@
             "containerId": null,
             "originalText": "i1",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 21
           },
           {
             "type": "text",
@@ -1012,7 +1012,7 @@
             "containerId": null,
             "originalText": "i2",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 21
           },
           {
             "type": "text",
@@ -1049,7 +1049,7 @@
             "containerId": null,
             "originalText": "out",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 21
           },
           {
             "type": "text",
@@ -1086,7 +1086,7 @@
             "containerId": null,
             "originalText": "或非门(nor)",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 21
           },
           {
             "type": "ellipse",
@@ -1523,7 +1523,7 @@
             "containerId": null,
             "originalText": "i1",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 21
           },
           {
             "type": "text",
@@ -1560,7 +1560,7 @@
             "containerId": null,
             "originalText": "i2",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 21
           },
           {
             "type": "text",
@@ -1597,7 +1597,7 @@
             "containerId": null,
             "originalText": "out",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 21
           },
           {
             "type": "text",
@@ -1634,7 +1634,7 @@
             "containerId": null,
             "originalText": "或非门(nor)",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 21
           },
           {
             "type": "ellipse",
@@ -2023,7 +2023,7 @@
             "containerId": null,
             "originalText": "i1",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 21
           },
           {
             "type": "text",
@@ -2060,7 +2060,7 @@
             "containerId": null,
             "originalText": "i2",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 21
           },
           {
             "type": "text",
@@ -2097,7 +2097,7 @@
             "containerId": null,
             "originalText": "out",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 21
           },
           {
             "type": "text",
@@ -2134,7 +2134,7 @@
             "containerId": null,
             "originalText": "或门(or)",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 21
           }
         ],
         "created": 1687518581643
@@ -2490,7 +2490,7 @@
             "containerId": null,
             "originalText": "i1",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 21
           },
           {
             "type": "text",
@@ -2527,7 +2527,7 @@
             "containerId": null,
             "originalText": "i2",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 21
           },
           {
             "type": "text",
@@ -2564,7 +2564,7 @@
             "containerId": null,
             "originalText": "out",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 21
           },
           {
             "type": "text",
@@ -2601,7 +2601,7 @@
             "containerId": null,
             "originalText": "与门(and)",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 21
           }
         ],
         "created": 1687517076074
@@ -2689,7 +2689,7 @@
             "containerId": null,
             "originalText": "全加器\n(4位)\nfulladd4",
             "lineHeight": 1.25,
-            "baseline": 67
+            "baseline": 71
           },
           {
             "type": "arrow",
@@ -2977,7 +2977,7 @@
             "containerId": null,
             "originalText": "a",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 21
           },
           {
             "type": "text",
@@ -3019,7 +3019,7 @@
             "containerId": null,
             "originalText": "b",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 21
           },
           {
             "type": "text",
@@ -3061,7 +3061,7 @@
             "containerId": null,
             "originalText": "c_in\n",
             "lineHeight": 1.25,
-            "baseline": 42
+            "baseline": 46
           },
           {
             "type": "text",
@@ -3103,7 +3103,7 @@
             "containerId": null,
             "originalText": "sum",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 21
           },
           {
             "type": "text",
@@ -3145,7 +3145,7 @@
             "containerId": null,
             "originalText": "c_out",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 21
           }
         ],
         "created": 1687486845179
@@ -3951,7 +3951,7 @@
             "containerId": null,
             "originalText": "n1",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 21
           },
           {
             "type": "text",
@@ -3988,7 +3988,7 @@
             "containerId": null,
             "originalText": "n1",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 21
           },
           {
             "type": "text",
@@ -4025,7 +4025,7 @@
             "containerId": null,
             "originalText": "Q",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 21
           },
           {
             "type": "text",
@@ -4062,7 +4062,7 @@
             "containerId": null,
             "originalText": "Qbar",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 21
           },
           {
             "type": "rectangle",
@@ -4126,7 +4126,7 @@
             "containerId": null,
             "originalText": "Sbar",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 21
           },
           {
             "type": "line",
@@ -4205,7 +4205,7 @@
             "containerId": null,
             "originalText": "(set)",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 21
           },
           {
             "type": "text",
@@ -4242,7 +4242,7 @@
             "containerId": null,
             "originalText": "Rbar",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 21
           },
           {
             "type": "line",
@@ -4321,7 +4321,7 @@
             "containerId": null,
             "originalText": "(reset)",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 21
           },
           {
             "type": "text",
@@ -4358,7 +4358,7 @@
             "containerId": null,
             "originalText": "SR锁存器",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 21
           }
         ],
         "created": 1687449659832
@@ -4714,7 +4714,7 @@
             "containerId": null,
             "originalText": "b",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 21
           },
           {
             "type": "text",
@@ -4751,7 +4751,7 @@
             "containerId": null,
             "originalText": "c",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 21
           },
           {
             "type": "text",
@@ -4788,7 +4788,7 @@
             "containerId": null,
             "originalText": "a",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 21
           }
         ],
         "created": 1687406938448
@@ -5022,7 +5022,7 @@
             "containerId": null,
             "originalText": "+",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 21
           }
         ],
         "created": 1647613198483,
@@ -6378,7 +6378,7 @@
             "containerId": null,
             "originalText": "+",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 21
           },
           {
             "type": "text",
@@ -6419,7 +6419,7 @@
             "containerId": null,
             "originalText": "-",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 21
           }
         ],
         "created": 1647612372037,
@@ -8121,7 +8121,7 @@
             "containerId": null,
             "originalText": "+",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 21
           },
           {
             "type": "text",
@@ -8162,7 +8162,7 @@
             "containerId": null,
             "originalText": "-",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 21
           },
           {
             "type": "line",
@@ -8618,7 +8618,7 @@
             "containerId": null,
             "originalText": "-",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 21
           },
           {
             "type": "ellipse",
@@ -8691,7 +8691,7 @@
             "containerId": null,
             "originalText": "+",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 21
           },
           {
             "type": "line",
