@@ -4,49 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "ea65503074246f46",
+        "id": "ca85899b91ec7dab",
         "type": "tabs",
         "children": [
           {
-            "id": "feddd4f61697e6e1",
+            "id": "54ef794645d62ed4",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "01 Homepage/Homepage.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true
             }
-          },
-          {
-            "id": "071c15ecfabbb594",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Homepage/Records.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f92c33dfe16af5ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Homepage/Homepage.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,14 +180,14 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "f92c33dfe16af5ac",
+  "active": "54ef794645d62ed4",
   "lastOpenFiles": [
-    "01 Homepage/Weekly notes.md",
     "01 Homepage/Homepage.md",
+    "01 Homepage/Records.md",
+    "01 Homepage/Weekly notes.md",
     "05 Template/数学公式参考补充ing.md",
     "05 Template/实验记录模板.md",
     "[Weekly notes.md",
-    "01 Homepage/Records.md",
     "Excalidraw/Drawing 2024-01-22 09.21.42.excalidraw.md",
     "Excalidraw/Drawing 2024-01-22 09.20.31.excalidraw.md",
     "03 Expertise/05 ESP8266/README.md",
