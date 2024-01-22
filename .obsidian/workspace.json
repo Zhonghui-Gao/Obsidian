@@ -4,38 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "807cac5bae87e9a6",
+        "id": "ea65503074246f46",
         "type": "tabs",
         "children": [
           {
-            "id": "0d39e20cc2f6aabe",
+            "id": "feddd4f61697e6e1",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01 Homepage/Homepage.md",
+                "mode": "source",
+                "source": false
+              },
               "pinned": true
             }
           },
           {
-            "id": "00547d04056e7d5c",
+            "id": "071c15ecfabbb594",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Expertise/05 ESP8266/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "36eba7c9983fdf1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Expertise/05 ESP8266/README.md",
+                "file": "01 Homepage/Homepage.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Expertise/05 ESP8266/README.md",
+                "file": "01 Homepage/Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Expertise/05 ESP8266/README.md",
+                "file": "01 Homepage/Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Expertise/05 ESP8266/README.md"
+                "file": "01 Homepage/Homepage.md"
               }
             }
           },
@@ -201,10 +193,14 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "00547d04056e7d5c",
+  "active": "071c15ecfabbb594",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-01-20 16.33.35.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-22 09.21.42.excalidraw.md",
+    "01 Homepage/Homepage.md",
+    "Excalidraw/Drawing 2024-01-22 09.20.31.excalidraw.md",
     "03 Expertise/05 ESP8266/README.md",
+    "Excalidraw/Drawing 2024-01-22 09.12.20.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-20 16.33.35.excalidraw.md",
     "Excalidraw/Drawing 2024-01-20 15.03.49.excalidraw.md",
     "03 Expertise/04 RMGateway/Readme.md",
     "03 Expertise/02 armbian/操作/编译问题.md",
@@ -217,7 +213,6 @@
     "03 Expertise/04 RMGateway/任务.md",
     "03 Expertise/04 RMGateway/bacnum.h.md",
     "04 Image/继电器.png",
-    "01 Homepage/Homepage.md",
     "02 Research/04 Modern cryptography/RSA.md",
     "02 Research/03 Leetcode Algorithm/每日一题②.md",
     "03 Expertise/05 ESP8266",
@@ -236,9 +231,6 @@
     "pdf/linux/Linux内核设计与实现3.pdf",
     "02 Research/01 paper/idea.md",
     "02 Research/01 paper/RISC-V && RUST.md",
-    "02 Research/06 ACM/Discovering IoT Physical Channel Vulnerabilities.md",
-    "02 Research/06 ACM/A platform for secure static binary instrumentation.md",
-    "02 Research/06 ACM/A Systematic Review of IoT Security - Research Potential, Challenges, and Future Directions.md",
     "Pasted image 20240102111415.png",
     "assets/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries/image-2-x61-y391.png",
     "assets/Discovering IoT Physical Channel Vulnerabilities/image-4-x51-y619.png",

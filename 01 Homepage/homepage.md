@@ -8,8 +8,8 @@ banner_lock: "true"
 ***
 
 # 🐾Navbar
-```start-multi-column
-ID: ExampleRegion4  
+--- start-multi-column: ExampleRegion4
+```column-settings
 number of columns: 3  
 border: off
 ```
@@ -17,30 +17,29 @@ border: off
 
 # 📚Literature
 
-
---- column-end ---
+--- end-column ---
 # 💻Lab
 [[Records]]
 
---- column-end ---
+--- end-column ---
 # 🎓Project
 [[Linux]]
 
-=== end-multi-column
-```start-multi-column
-ID: ID_4  
-number of columns: 3  
-border: off
-```
+--- end-multi-column
 
+--- start-multi-column: ID_4
+```column-settings
+number of columns: 3  
+border: on
+```
 # 🏝️   Language
 
---- column-end ---
+--- end-column ---
 
 # 🧰Toolbox
 
---- column-end ---
+--- end-column ---
+
 # ☕Others
 
-
-=== end-multi-column
+--- end-multi-colum
