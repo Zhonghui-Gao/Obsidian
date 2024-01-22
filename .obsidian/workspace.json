@@ -27,14 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Homepage/Homepage.md",
+                "file": "01 Homepage/Records.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f92c33dfe16af5ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Homepage/Homepage.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -193,10 +205,15 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "071c15ecfabbb594",
+  "active": "f92c33dfe16af5ac",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-01-22 09.21.42.excalidraw.md",
+    "01 Homepage/Weekly notes.md",
     "01 Homepage/Homepage.md",
+    "05 Template/数学公式参考补充ing.md",
+    "05 Template/实验记录模板.md",
+    "[Weekly notes.md",
+    "01 Homepage/Records.md",
+    "Excalidraw/Drawing 2024-01-22 09.21.42.excalidraw.md",
     "Excalidraw/Drawing 2024-01-22 09.20.31.excalidraw.md",
     "03 Expertise/05 ESP8266/README.md",
     "Excalidraw/Drawing 2024-01-22 09.12.20.excalidraw.md",
@@ -223,14 +240,9 @@
     "assets/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries/image-1-x45-y272.png",
     "assets/A platform for secure static binary instrumentation/image-1-x35-y278.png",
     "02 Research/01 paper/物联网安全.md",
-    "1970-01-01.md",
-    "02 Research/06 ACM/A Component Vulnerability Matching Approach for IoT Firmware.md",
     "02 Research/03 Leetcode Algorithm/fdsfds",
-    "02 Research/01 paper/通信协议.md",
     "pdf/linux/Linux设备驱动程序3.pdf",
     "pdf/linux/Linux内核设计与实现3.pdf",
-    "02 Research/01 paper/idea.md",
-    "02 Research/01 paper/RISC-V && RUST.md",
     "Pasted image 20240102111415.png",
     "assets/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries/image-2-x61-y391.png",
     "assets/Discovering IoT Physical Channel Vulnerabilities/image-4-x51-y619.png",

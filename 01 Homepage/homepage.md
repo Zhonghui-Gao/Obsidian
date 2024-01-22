@@ -8,38 +8,51 @@ banner_lock: "true"
 ***
 
 # 🐾Navbar
---- start-multi-column: ExampleRegion4
+
+=== start-multi-column: ExampleRegion4
 ```column-settings
 number of columns: 3  
 border: off
+Largest  Column: standard
 ```
 
 
 # 📚Literature
 
---- end-column ---
+=== end-column ===
+
 # 💻Lab
 [[Records]]
 
---- end-column ---
+=== end-column ===
+
 # 🎓Project
 [[Linux]]
 
---- end-multi-column
+=== end-multi-column
 
---- start-multi-column: ID_4
+***
+=== start-multi-column: Region3
 ```column-settings
 number of columns: 3  
-border: on
+border: off
+Largest  Column: standard
 ```
+
 # 🏝️   Language
 
---- end-column ---
+=== end-column ===
 
 # 🧰Toolbox
 
---- end-column ---
+=== end-column ===
 
 # ☕Others
+[[Weekly notes]]
 
---- end-multi-colum
+=== end-multi-column
+
+
+
+
+
