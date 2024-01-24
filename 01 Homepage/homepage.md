@@ -1,7 +1,7 @@
 ---
 banner: "![[wallhaven-we1lrq.jpg]]"
 banner_y: "0.5"
-banner_icon: 🤯
+banner_icon: ⛈️
 banner_lock: "true"
 ---
 

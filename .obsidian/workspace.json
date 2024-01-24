@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ca85899b91ec7dab",
+        "id": "6aa2db073d0f2f87",
         "type": "tabs",
         "children": [
           {
-            "id": "eec25c4c720ce4c1",
+            "id": "eca2d2ac05159418",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -180,7 +180,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "eec25c4c720ce4c1",
+  "active": "eca2d2ac05159418",
   "lastOpenFiles": [
     "01 Homepage/Homepage.md",
     "01 Homepage/Records.md",
