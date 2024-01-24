@@ -8,17 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eca2d2ac05159418",
+            "id": "eba3e0fcb2355239",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "01 Homepage/Homepage.md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true
+                "file": "Excalidraw/esp32接线电路图.md"
+              }
             }
           }
         ]
@@ -95,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Homepage/Homepage.md",
+                "file": "Excalidraw/esp32接线电路图.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Homepage/Homepage.md",
+                "file": "Excalidraw/esp32接线电路图.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Homepage/Homepage.md"
+                "file": "Excalidraw/esp32接线电路图.md"
               }
             }
           },
@@ -180,41 +176,41 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "eca2d2ac05159418",
+  "active": "eba3e0fcb2355239",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-01-22 09.20.31.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-24 12.57.26.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-24 12.57.32.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-22 09.12.20.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-20 16.33.35.excalidraw.md",
+    "Excalidraw/esp32接线电路图.md",
+    "Excalidraw/Drawing 2023-12-26 21.28.58.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-11 17.35.52.excalidraw.md",
     "01 Homepage/Homepage.md",
+    "03 Expertise/05 ESP8266/README.md",
+    "Excalidraw/Drawing 2024-01-24 12.57.19.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-24 12.56.53.excalidraw.md",
+    "05 Template/数学公式参考补充ing.md",
+    "05 Template/Markdown语法.md",
+    "05 Template/paper-template.md",
     "01 Homepage/Records.md",
     "01 Homepage/Weekly notes.md",
-    "05 Template/数学公式参考补充ing.md",
     "05 Template/实验记录模板.md",
     "[Weekly notes.md",
     "Excalidraw/Drawing 2024-01-22 09.21.42.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-22 09.20.31.excalidraw.md",
-    "03 Expertise/05 ESP8266/README.md",
-    "Excalidraw/Drawing 2024-01-22 09.12.20.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-20 16.33.35.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-20 15.03.49.excalidraw.md",
     "03 Expertise/04 RMGateway/Readme.md",
     "03 Expertise/02 armbian/操作/编译问题.md",
     "03 Expertise/02 armbian/操作/烧录+linux环境.md",
     "03 Expertise/02 armbian/操作/rk3568 网络搭建.md",
     "03 Expertise/02 armbian/操作/linux阅读源码.md",
     "03 Expertise/02 armbian/操作/kernel 6.4.16.md",
-    "03 Expertise/02 armbian/操作/buildroot.md",
-    "03 Expertise/03 linux/linux 美化.md",
-    "03 Expertise/04 RMGateway/任务.md",
-    "03 Expertise/04 RMGateway/bacnum.h.md",
     "04 Image/继电器.png",
-    "02 Research/04 Modern cryptography/RSA.md",
-    "02 Research/03 Leetcode Algorithm/每日一题②.md",
     "03 Expertise/05 ESP8266",
-    "02 Research/03 Leetcode Algorithm/NOIP2006 普及组 明明的随机数.md",
     "assets/Discovering IoT Physical Channel Vulnerabilities/image-2-x309-y594.png",
     "assets/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries/image-3-x83-y543.png",
     "assets/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries/image-1-x313-y77.png",
     "assets/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries/image-1-x45-y272.png",
     "assets/A platform for secure static binary instrumentation/image-1-x35-y278.png",
-    "02 Research/01 paper/物联网安全.md",
     "02 Research/03 Leetcode Algorithm/fdsfds",
     "pdf/linux/Linux设备驱动程序3.pdf",
     "pdf/linux/Linux内核设计与实现3.pdf",
