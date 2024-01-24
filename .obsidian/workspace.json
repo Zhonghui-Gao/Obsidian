@@ -8,12 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "54ef794645d62ed4",
+            "id": "eec25c4c720ce4c1",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01 Homepage/Homepage.md",
+                "mode": "preview",
+                "source": false
+              },
               "pinned": true
             }
           }
@@ -176,7 +180,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "54ef794645d62ed4",
+  "active": "eec25c4c720ce4c1",
   "lastOpenFiles": [
     "01 Homepage/Homepage.md",
     "01 Homepage/Records.md",
