@@ -11,9 +11,11 @@
             "id": "eba3e0fcb2355239",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/esp32接线电路图.md"
+                "file": "03 Expertise/05 ESP8266/README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/esp32接线电路图.md",
+                "file": "03 Expertise/05 ESP8266/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/esp32接线电路图.md",
+                "file": "03 Expertise/05 ESP8266/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/esp32接线电路图.md"
+                "file": "03 Expertise/05 ESP8266/README.md"
               }
             }
           },
@@ -178,8 +180,8 @@
   },
   "active": "eba3e0fcb2355239",
   "lastOpenFiles": [
-    "Excalidraw/esp32接线电路图.png",
     "Excalidraw/esp32接线电路图.md",
+    "Excalidraw/esp32接线电路图.png",
     "Excalidraw/Drawing 2024-01-22 09.20.31.excalidraw.md",
     "Excalidraw/Drawing 2024-01-24 12.57.26.excalidraw.md",
     "Excalidraw/Drawing 2024-01-24 12.57.32.excalidraw.md",
