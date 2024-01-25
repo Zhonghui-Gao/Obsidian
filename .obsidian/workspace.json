@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ac1203366bea2ef3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-01-25 18.26.36.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Expertise/05 ESP8266/README.md",
+                "file": "Excalidraw/Drawing 2024-01-25 18.26.36.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Expertise/05 ESP8266/README.md",
+                "file": "Excalidraw/Drawing 2024-01-25 18.26.36.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Expertise/05 ESP8266/README.md"
+                "file": "Excalidraw/Drawing 2024-01-25 18.26.36.excalidraw.md"
               }
             }
           },
@@ -178,8 +189,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "eba3e0fcb2355239",
+  "active": "ac1203366bea2ef3",
   "lastOpenFiles": [
+    "03 Expertise/05 ESP8266/README.md",
+    "Excalidraw/Drawing 2024-01-25 18.26.36.excalidraw.md",
     "Excalidraw/esp32接线电路图.md",
     "Excalidraw/esp32接线电路图.png",
     "Excalidraw/Drawing 2024-01-22 09.20.31.excalidraw.md",
@@ -190,7 +203,6 @@
     "Excalidraw/Drawing 2023-12-26 21.28.58.excalidraw.md",
     "Excalidraw/Drawing 2023-08-11 17.35.52.excalidraw.md",
     "01 Homepage/Homepage.md",
-    "03 Expertise/05 ESP8266/README.md",
     "Excalidraw/Drawing 2024-01-24 12.57.19.excalidraw.md",
     "Excalidraw/Drawing 2024-01-24 12.56.53.excalidraw.md",
     "05 Template/数学公式参考补充ing.md",
