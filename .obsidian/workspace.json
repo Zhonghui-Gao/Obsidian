@@ -25,7 +25,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-25 18.26.36.excalidraw.md"
+                "file": "Excalidraw/esp32接线电路图.md"
               }
             }
           }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-25 18.26.36.excalidraw.md",
+                "file": "Excalidraw/esp32接线电路图.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-25 18.26.36.excalidraw.md",
+                "file": "Excalidraw/esp32接线电路图.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-25 18.26.36.excalidraw.md"
+                "file": "Excalidraw/esp32接线电路图.md"
               }
             }
           },
@@ -191,10 +191,10 @@
   },
   "active": "ac1203366bea2ef3",
   "lastOpenFiles": [
-    "03 Expertise/05 ESP8266/README.md",
-    "Excalidraw/Drawing 2024-01-25 18.26.36.excalidraw.md",
-    "Excalidraw/esp32接线电路图.md",
     "Excalidraw/esp32接线电路图.png",
+    "Excalidraw/Drawing 2024-01-25 18.26.36.excalidraw.md",
+    "03 Expertise/05 ESP8266/README.md",
+    "Excalidraw/esp32接线电路图.md",
     "Excalidraw/Drawing 2024-01-22 09.20.31.excalidraw.md",
     "Excalidraw/Drawing 2024-01-24 12.57.26.excalidraw.md",
     "Excalidraw/Drawing 2024-01-24 12.57.32.excalidraw.md",
@@ -217,7 +217,6 @@
     "03 Expertise/02 armbian/操作/编译问题.md",
     "03 Expertise/02 armbian/操作/烧录+linux环境.md",
     "03 Expertise/02 armbian/操作/rk3568 网络搭建.md",
-    "03 Expertise/02 armbian/操作/linux阅读源码.md",
     "04 Image/继电器.png",
     "03 Expertise/05 ESP8266",
     "assets/Discovering IoT Physical Channel Vulnerabilities/image-2-x309-y594.png",
