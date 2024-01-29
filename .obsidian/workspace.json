@@ -25,9 +25,11 @@
             "id": "b01a53c11386f6a8",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/esp32接线电路图.md"
+                "file": "03 Expertise/05 ESP8266/README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -106,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/esp32接线电路图.md",
+                "file": "03 Expertise/05 ESP8266/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/esp32接线电路图.md",
+                "file": "03 Expertise/05 ESP8266/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/esp32接线电路图.md"
+                "file": "03 Expertise/05 ESP8266/README.md"
               }
             }
           },
@@ -193,9 +195,14 @@
   },
   "active": "b01a53c11386f6a8",
   "lastOpenFiles": [
-    "Excalidraw/esp32接线电路图.png",
-    "Excalidraw/esp32接线电路图.md",
+    "03 Expertise/05 ESP8266/环境配置.md",
     "03 Expertise/05 ESP8266/README.md",
+    "Excalidraw/esp32接线电路图.md",
+    "Pasted image 20240129211252.png",
+    "Pasted image 20240129211238.png",
+    "Pasted image 20240129211216.png",
+    "Pasted image 20240129211144.png",
+    "Excalidraw/esp32接线电路图.png",
     "01 Homepage/Homepage.md",
     "05 Template/Markdown语法.md",
     "05 Template/paper-template.md",
@@ -225,13 +232,9 @@
     "assets/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries/image-3-x83-y543.png",
     "assets/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries/image-1-x313-y77.png",
     "assets/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries/image-1-x45-y272.png",
-    "assets/A platform for secure static binary instrumentation/image-1-x35-y278.png",
     "02 Research/03 Leetcode Algorithm/fdsfds",
     "pdf/linux/Linux设备驱动程序3.pdf",
     "pdf/linux/Linux内核设计与实现3.pdf",
-    "Pasted image 20240102111415.png",
-    "assets/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries/image-2-x61-y391.png",
-    "assets/Discovering IoT Physical Channel Vulnerabilities/image-4-x51-y619.png",
     "assets/Discovering IoT Physical Channel Vulnerabilities",
     "assets/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries",
     "02 Research/ 06 ACM",

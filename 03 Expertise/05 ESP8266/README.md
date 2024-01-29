@@ -88,3 +88,17 @@ GPIO 11 (CSC/CMD)
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
+### 1.下载 PlatformIO IDE
+
+在vs code的左侧点击第五个图标：拓展。搜索platformIO IDE并安装。安装成功后会如下图所示，出现platformIO IDE的图标。
+
+![[Pasted image 20240129211144.png]]
+### 2、新建工程
+#### 如图，依次点击新建工程:
+![[Pasted image 20240129211216.png]]
+
+#### 然后会弹出以下界面：1、工程名称 2、板子的型号 3、选择工程路径
+
+![[Pasted image 20240129211238.png]]
+#### 成功新建后的界面：
+![[Pasted image 20240129211252.png]]
