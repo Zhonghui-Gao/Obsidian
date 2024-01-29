@@ -78,3 +78,13 @@ GPIO 9 (SHD/SD2)
 GPIO 10 (SWP/SD3)  
 GPIO 11 (CSC/CMD)
 
+| GPIO | Datasheet | Function | Mode |
+| :--: | :--: | :--: | :--: |
+| GPIO22 | D22 | SCL | INPUT |
+| GPIO21 | D21 | SDA | INPUT |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
