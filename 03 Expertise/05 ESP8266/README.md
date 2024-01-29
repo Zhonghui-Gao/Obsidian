@@ -82,7 +82,7 @@ GPIO 11 (CSC/CMD)
 | :--: | :--: | :--: | :--: |
 | GPIO22 | D22 | SCL | INPUT |
 | GPIO21 | D21 | SDA | INPUT |
-|  |  |  |  |
+| GPIO |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
