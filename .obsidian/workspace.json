@@ -23,9 +23,11 @@
             "id": "ac1203366bea2ef3",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/esp32接线电路图.md"
+                "file": "03 Expertise/01 Verilog HDL/笔记/门级建模.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -104,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/esp32接线电路图.md",
+                "file": "03 Expertise/01 Verilog HDL/笔记/门级建模.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/esp32接线电路图.md",
+                "file": "03 Expertise/01 Verilog HDL/笔记/门级建模.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/esp32接线电路图.md"
+                "file": "03 Expertise/01 Verilog HDL/笔记/门级建模.md"
               }
             }
           },
@@ -191,10 +193,11 @@
   },
   "active": "ac1203366bea2ef3",
   "lastOpenFiles": [
+    "02 Research/04 Modern cryptography/RSA.md",
+    "Excalidraw/esp32接线电路图.md",
     "Excalidraw/esp32接线电路图.png",
     "Excalidraw/Drawing 2024-01-25 18.26.36.excalidraw.md",
     "03 Expertise/05 ESP8266/README.md",
-    "Excalidraw/esp32接线电路图.md",
     "Excalidraw/Drawing 2024-01-22 09.20.31.excalidraw.md",
     "Excalidraw/Drawing 2024-01-24 12.57.26.excalidraw.md",
     "Excalidraw/Drawing 2024-01-24 12.57.32.excalidraw.md",
