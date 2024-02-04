@@ -1,5 +1,5 @@
 ---
-banner: "![[wallhaven-we1lrq.jpg]]"
+Date: 2024-01-01
 banner_y: "0.5"
 banner_icon: ⛈️
 banner_lock: "true"
