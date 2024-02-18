@@ -68,7 +68,7 @@ export all_proxy=socks5:http://127.0.0.1:7890
 `git commit -m`
 `git push -u 分支 仓库`
 `touch .gitignore` // 忽略大文件
-
+`git remote -v `
 # armbian
 - **  
     The officially supported** compilation environment is [Ubuntu Jammy 22.04.x amd64](https://www.releases.ubuntu.com/jammy/ubuntu-22.04.2-live-server-amd64.iso)

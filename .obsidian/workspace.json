@@ -11,9 +11,11 @@
             "id": "b01a53c11386f6a8",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/esp32接线电路图.md"
+                "file": "03 Expertise/02 armbian/操作/烧录+linux环境.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/esp32接线电路图.md",
+                "file": "03 Expertise/02 armbian/操作/烧录+linux环境.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/esp32接线电路图.md",
+                "file": "03 Expertise/02 armbian/操作/烧录+linux环境.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/esp32接线电路图.md"
+                "file": "03 Expertise/02 armbian/操作/烧录+linux环境.md"
               }
             }
           },
@@ -178,7 +180,10 @@
   },
   "active": "b01a53c11386f6a8",
   "lastOpenFiles": [
+    "03 Expertise/02 armbian/操作/编译问题.md",
+    "03 Expertise/02 armbian/操作/rk3568 网络搭建.md",
     "03 Expertise/05 ESP8266/README.md",
+    "Excalidraw/esp32接线电路图.md",
     "03 Expertise/05 ESP8266/环境配置.md",
     "04 Image/Pasted image 20240129211144.png",
     "04 Image/Pasted image 20240129211216.png",
@@ -194,7 +199,6 @@
     "03 Expertise/02 armbian/操作/buildroot.md",
     "03 Expertise/02 armbian/操作/kernel 6.4.16.md",
     "03 Expertise/02 armbian/操作/linux阅读源码.md",
-    "03 Expertise/02 armbian/操作/rk3568 网络搭建.md",
     "03 Expertise/02 armbian/任务/04 uefi和grub启动器的工作原理.md",
     "03 Expertise/02 armbian/任务/03 自定义uboot及内核的流程.md",
     "03 Expertise/02 armbian/任务/02 uboot与内核之间的关系.md",
@@ -204,14 +208,12 @@
     "03 Expertise/02 armbian/上手/rk3568/设备树/LED.md",
     "03 Expertise/02 armbian/任务/01 系统启动.md",
     "03 Expertise/02 armbian/上手/Qt Gstreamer.md",
-    "03 Expertise/02 armbian/操作/编译问题.md",
     "01 Homepage/Linux.md",
     "01 Homepage/Homepage.md",
     "04 Image/继电器.png",
     "04 Image/qtmqtt.png",
     "04 Image/mqtttopic.jpg",
     "README.md",
-    "Excalidraw/esp32接线电路图.md",
     "Excalidraw/esp32接线电路图.png",
     "03 Expertise/05 ESP8266",
     "02 Research/03 Leetcode Algorithm/fdsfds",
