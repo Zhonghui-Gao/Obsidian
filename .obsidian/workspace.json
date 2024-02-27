@@ -11,9 +11,9 @@
             "id": "b01a53c11386f6a8",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-27 13.45.38.excalidraw.png"
+                "file": "Excalidraw/Drawing 2024-02-27 13.45.38.excalidraw.md"
               }
             }
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-27 13.45.38.excalidraw.png",
+                "file": "Excalidraw/Drawing 2024-02-27 13.45.38.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-27 13.45.38.excalidraw.png",
+                "file": "Excalidraw/Drawing 2024-02-27 13.45.38.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-27 13.45.38.excalidraw.png"
+                "file": "Excalidraw/Drawing 2024-02-27 13.45.38.excalidraw.md"
               }
             }
           },
@@ -178,10 +178,10 @@
   },
   "active": "b01a53c11386f6a8",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-01-25 18.26.36.excalidraw.md",
     "Excalidraw/Drawing 2024-02-27 13.45.38.excalidraw.md",
     "Excalidraw/Drawing 2024-02-27 13.45.38.excalidraw.png",
     "Excalidraw/esp32介绍.md",
-    "Excalidraw/Drawing 2024-01-25 18.26.36.excalidraw.md",
     "Excalidraw/esp32接线电路图.png",
     "Pasted Image 20240227133249_547.jpg",
     "Pasted Image 20240227134119_581.png",
