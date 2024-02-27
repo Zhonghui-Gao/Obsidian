@@ -11,9 +11,9 @@
             "id": "b01a53c11386f6a8",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-27 13.45.38.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-02-27 13.45.38.excalidraw.png"
               }
             }
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-27 13.45.38.excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-02-27 13.45.38.excalidraw.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-27 13.45.38.excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-02-27 13.45.38.excalidraw.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-27 13.45.38.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-02-27 13.45.38.excalidraw.png"
               }
             }
           },
@@ -178,13 +178,15 @@
   },
   "active": "b01a53c11386f6a8",
   "lastOpenFiles": [
-    "Pasted Image 20240227135137_632.png",
-    "Excalidraw/esp32介绍.md",
     "Excalidraw/Drawing 2024-02-27 13.45.38.excalidraw.md",
-    "Pasted Image 20240227134519_593.jpg",
-    "Pasted Image 20240227134119_581.png",
-    "Pasted Image 20240227133249_547.jpg",
+    "Excalidraw/Drawing 2024-02-27 13.45.38.excalidraw.png",
+    "Excalidraw/esp32介绍.md",
     "Excalidraw/Drawing 2024-01-25 18.26.36.excalidraw.md",
+    "Excalidraw/esp32接线电路图.png",
+    "Pasted Image 20240227133249_547.jpg",
+    "Pasted Image 20240227134119_581.png",
+    "Pasted Image 20240227134519_593.jpg",
+    "Pasted Image 20240227135137_632.png",
     "Excalidraw/esp32接线电路图.md",
     "03 Expertise/02 armbian/操作/烧录+linux环境.md",
     "03 Expertise/02 armbian/操作/编译问题.md",
@@ -195,8 +197,6 @@
     "04 Image/Pasted image 20240129211216.png",
     "04 Image/Pasted image 20240129211238.png",
     "04 Image/Pasted image 20240129211252.png",
-    "04 Image/Pasted image 20240129211918.png",
-    "04 Image/Pasted image 20240129212035.png",
     "03 Expertise/03 linux/linux 美化.md",
     "03 Expertise/02 armbian/上手/小学期国产芯片hm3568.md",
     "03 Expertise/02 armbian/上手/uboot + kernel 启动动画.md",
@@ -213,7 +213,6 @@
     "03 Expertise/02 armbian/上手/rk3568/设备树/LED.md",
     "03 Expertise/02 armbian/任务/01 系统启动.md",
     "03 Expertise/02 armbian/上手/Qt Gstreamer.md",
-    "04 Image/继电器.png",
     "03 Expertise/05 ESP8266",
     "02 Research/03 Leetcode Algorithm/fdsfds",
     "pdf/linux/Linux设备驱动程序3.pdf",
