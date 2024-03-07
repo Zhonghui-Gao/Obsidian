@@ -11,9 +11,11 @@
             "id": "b01a53c11386f6a8",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/esp32接线电路图.md"
+                "file": "03 Expertise/Learning Plan.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/esp32接线电路图.md",
+                "file": "03 Expertise/Learning Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/esp32接线电路图.md",
+                "file": "03 Expertise/Learning Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/esp32接线电路图.md"
+                "file": "03 Expertise/Learning Plan.md"
               }
             }
           },
@@ -178,6 +180,8 @@
   },
   "active": "b01a53c11386f6a8",
   "lastOpenFiles": [
+    "Excalidraw/esp32接线电路图.md",
+    "03 Expertise/Learning Plan.md",
     "Excalidraw/esp32接线电路图.png",
     "Excalidraw/Drawing 2024-02-27 13.45.38.excalidraw.md",
     "Excalidraw/Drawing 2024-01-25 18.26.36.excalidraw.md",
@@ -187,7 +191,6 @@
     "Pasted Image 20240227134119_581.png",
     "Pasted Image 20240227134519_593.jpg",
     "Pasted Image 20240227135137_632.png",
-    "Excalidraw/esp32接线电路图.md",
     "03 Expertise/02 armbian/操作/烧录+linux环境.md",
     "03 Expertise/02 armbian/操作/编译问题.md",
     "03 Expertise/02 armbian/操作/rk3568 网络搭建.md",
