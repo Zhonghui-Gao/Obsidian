@@ -11,11 +11,9 @@
             "id": "b01a53c11386f6a8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "02 Research/07 AI/yolov5.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/esp32接线电路图.md"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Research/07 AI/yolov5.md",
+                "file": "Excalidraw/esp32接线电路图.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Research/07 AI/yolov5.md",
+                "file": "Excalidraw/esp32接线电路图.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Research/07 AI/yolov5.md"
+                "file": "Excalidraw/esp32接线电路图.md"
               }
             }
           },
@@ -180,9 +178,10 @@
   },
   "active": "b01a53c11386f6a8",
   "lastOpenFiles": [
+    "Excalidraw/esp32介绍.md",
+    "02 Research/07 AI/yolov5.md",
     "04 Image/Pasted image 20240331230754.png",
     "03 Expertise/05 ESP8266/环境配置.md",
-    "02 Research/07 AI/yolov5.md",
     "02 Research/07 AI",
     "02 Research/、.md",
     "03 Expertise/03 linux/linux 美化.md",
@@ -203,7 +202,6 @@
     "03 Expertise/05 ESP8266/README.md",
     "03 Expertise/Learning Plan.md",
     "README.md",
-    "Excalidraw/esp32介绍.md",
     "Excalidraw/esp32接线电路图.png",
     "Excalidraw/esp32接线电路图.md",
     "Excalidraw/Drawing 2024-02-27 13.45.38.excalidraw.md",
@@ -213,7 +211,6 @@
     "04 Image/Pasted image 20240129211144.png",
     "04 Image/Pasted image 20240129211216.png",
     "04 Image/Pasted image 20240129211238.png",
-    "04 Image/Pasted image 20240129211252.png",
     "03 Expertise/02 armbian/任务/05 交叉编译文件系统及docker.md",
     "03 Expertise/02 armbian/任务/04 uefi和grub启动器的工作原理.md",
     "03 Expertise/02 armbian/任务/03 自定义uboot及内核的流程.md",
