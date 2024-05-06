@@ -11,9 +11,11 @@
             "id": "b01a53c11386f6a8",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/esp32接线电路图.md"
+                "file": "03 Expertise/02 armbian/任务/06 内核修改.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/esp32接线电路图.md",
+                "file": "03 Expertise/02 armbian/任务/06 内核修改.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/esp32接线电路图.md",
+                "file": "03 Expertise/02 armbian/任务/06 内核修改.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/esp32接线电路图.md"
+                "file": "03 Expertise/02 armbian/任务/06 内核修改.md"
               }
             }
           },
@@ -178,8 +180,10 @@
   },
   "active": "b01a53c11386f6a8",
   "lastOpenFiles": [
-    "Excalidraw/esp32介绍.md",
     "02 Research/07 AI/yolov5.md",
+    "03 Expertise/02 armbian/任务/06 内核修改.md",
+    "Excalidraw/esp32接线电路图.md",
+    "Excalidraw/esp32介绍.md",
     "04 Image/Pasted image 20240331230754.png",
     "03 Expertise/05 ESP8266/环境配置.md",
     "02 Research/07 AI",
@@ -203,7 +207,6 @@
     "03 Expertise/Learning Plan.md",
     "README.md",
     "Excalidraw/esp32接线电路图.png",
-    "Excalidraw/esp32接线电路图.md",
     "Excalidraw/Drawing 2024-02-27 13.45.38.excalidraw.md",
     "Excalidraw/Drawing 2024-01-25 18.26.36.excalidraw.md",
     "Excalidraw/Drawing 2024-02-27 13.45.38.excalidraw.png",
