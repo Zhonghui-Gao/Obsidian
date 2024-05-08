@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Expertise/02 armbian/任务/06 内核修改.md",
+                "file": "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Expertise/02 armbian/任务/06 内核修改.md",
+                "file": "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Expertise/02 armbian/任务/06 内核修改.md",
+                "file": "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Expertise/02 armbian/任务/06 内核修改.md"
+                "file": "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md"
               }
             }
           },
@@ -180,10 +180,10 @@
   },
   "active": "b01a53c11386f6a8",
   "lastOpenFiles": [
+    "03 Expertise/02 armbian/任务/06 内核修改.md",
     "02 Research/07 AI/yolov5.md",
     "03 Expertise/02 armbian/操作/rk3568 网络搭建.md",
     "05 Template/Markdown语法.md",
-    "03 Expertise/02 armbian/任务/06 内核修改.md",
     "Excalidraw/esp32接线电路图.md",
     "Excalidraw/esp32介绍.md",
     "04 Image/Pasted image 20240331230754.png",
