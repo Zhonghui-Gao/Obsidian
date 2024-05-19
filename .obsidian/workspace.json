@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Expertise/02 armbian/任务/01 系统启动.md",
+                "file": "02 Research/07 AI/yolov8.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Expertise/02 armbian/任务/01 系统启动.md",
+                "file": "02 Research/07 AI/yolov8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Expertise/02 armbian/任务/01 系统启动.md",
+                "file": "02 Research/07 AI/yolov8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Expertise/02 armbian/任务/01 系统启动.md"
+                "file": "02 Research/07 AI/yolov8.md"
               }
             }
           },
@@ -180,9 +180,11 @@
   },
   "active": "b01a53c11386f6a8",
   "lastOpenFiles": [
+    "02 Research/07 AI/yolov5.md",
+    "02 Research/07 AI/yolov8.md",
+    "03 Expertise/02 armbian/任务/01 系统启动.md",
     "03 Expertise/02 armbian/任务/02 uboot与内核之间的关系.md",
     "03 Expertise/02 armbian/任务/03 自定义uboot及内核的流程.md",
-    "03 Expertise/02 armbian/任务/01 系统启动.md",
     "03 Expertise/02 armbian/任务/05 交叉编译文件系统及docker.md",
     "03 Expertise/02 armbian/任务/06 内核修改.md",
     "03 Expertise/02 armbian/上手/Qt Gstreamer.md",
@@ -193,7 +195,6 @@
     "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md",
     "03 Expertise/02 armbian/操作/kernel 6.4.16.md",
     "03 Expertise/02 armbian/操作/buildroot.md",
-    "02 Research/07 AI/yolov5.md",
     "03 Expertise/02 armbian/操作/rk3568 网络搭建.md",
     "05 Template/Markdown语法.md",
     "Excalidraw/esp32接线电路图.md",
@@ -210,7 +211,6 @@
     "03 Expertise/02 armbian/操作/编译问题.md",
     "03 Expertise/02 armbian/操作/烧录+linux环境.md",
     "03 Expertise/02 armbian/上手/rk3568/设备树/串口uart.md",
-    "03 Expertise/02 armbian/上手/小学期国产芯片hm3568.md",
     "Excalidraw/esp32接线电路图.png",
     "Excalidraw/Drawing 2024-02-27 13.45.38.excalidraw.png",
     "04 Image/Pasted Image 20240227134519_593.jpg",
