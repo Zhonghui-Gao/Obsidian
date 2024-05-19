@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Research/07 AI/yolov8.md",
+                "file": "02 Research/07 AI/yolov5.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Research/07 AI/yolov8.md",
+                "file": "02 Research/07 AI/yolov5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Research/07 AI/yolov8.md",
+                "file": "02 Research/07 AI/yolov5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Research/07 AI/yolov8.md"
+                "file": "02 Research/07 AI/yolov5.md"
               }
             }
           },
@@ -180,8 +180,8 @@
   },
   "active": "b01a53c11386f6a8",
   "lastOpenFiles": [
-    "02 Research/07 AI/yolov5.md",
     "02 Research/07 AI/yolov8.md",
+    "02 Research/07 AI/yolov5.md",
     "03 Expertise/02 armbian/任务/01 系统启动.md",
     "03 Expertise/02 armbian/任务/02 uboot与内核之间的关系.md",
     "03 Expertise/02 armbian/任务/03 自定义uboot及内核的流程.md",
