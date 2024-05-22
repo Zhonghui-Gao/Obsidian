@@ -11,3 +11,6 @@ C2f_PConv BiFPN
 
 yolov8s 200 epoch
 ![[Pasted image 20240522080148.png]]
+
+229 s.pt
+![[Pasted image 20240522113203.png]]
