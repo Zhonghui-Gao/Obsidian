@@ -9,10 +9,10 @@ C2f_PConv BiFPN
 ![[Pasted image 20240521205040.png]]
 
 
-yolov8s 200 epoch
+yolov8n 200 epoch
 ![[Pasted image 20240522080148.png]]
 
-229 s.pt
+229 n.pt
 ![[Pasted image 20240522113203.png]]
 
 yolov8-pbi.yaml  s.pt 424
