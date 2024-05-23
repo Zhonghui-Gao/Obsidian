@@ -14,3 +14,7 @@ yolov8s 200 epoch
 
 229 s.pt
 ![[Pasted image 20240522113203.png]]
+
+yolov8-pbi.yaml  s.pt 424
+![[Pasted image 20240523100337.png]]
+
