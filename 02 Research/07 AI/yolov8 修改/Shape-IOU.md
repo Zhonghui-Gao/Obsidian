@@ -66,3 +66,5 @@ def shape_iou(box1, box2, xywh=True, scale=0, eps=1e-7):
 2. `ultralytics/utils/loss.py` 导包导入 `shape-iou`；
 ![[Pasted image 20240524103605.png]]
 
+将原本的 `iou = bbox_iou(pred_bboxes[fg_mask], target_bboxes[fg_mask], xywh=False, CIoU=True)` 替换为我下面这句
+![[Pasted image 20240524110313.png]]
