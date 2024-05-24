@@ -5,7 +5,7 @@ EMA [YOLOv8改进:添加EMA注意力机制_efficient multi-scale attention modul
 
 yolov8-pbi.yaml
 dataset: SCB-dataset
-C2f_PConv BiFPN
+C2f_PConv BiFPN + WIOU
 ![[Pasted image 20240521205040.png]]
 
 
