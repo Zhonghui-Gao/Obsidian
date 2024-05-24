@@ -18,3 +18,5 @@ yolov8n 200 epoch
 yolov8-pbi.yaml  s.pt 424
 ![[Pasted image 20240523100337.png]]
 
+C2_PCov + BIFPN + BiLevelRoutingAttention
+![[Pasted image 20240524081633.png]]

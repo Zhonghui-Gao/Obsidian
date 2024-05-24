@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Expertise/02 armbian/任务/06 内核修改.md",
+                "file": "02 Research/07 AI/yolov8.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Expertise/02 armbian/任务/06 内核修改.md",
+                "file": "02 Research/07 AI/yolov8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Expertise/02 armbian/任务/06 内核修改.md",
+                "file": "02 Research/07 AI/yolov8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Expertise/02 armbian/任务/06 内核修改.md"
+                "file": "02 Research/07 AI/yolov8.md"
               }
             }
           },
@@ -180,6 +180,8 @@
   },
   "active": "b01a53c11386f6a8",
   "lastOpenFiles": [
+    "Pasted image 20240524081633.png",
+    "03 Expertise/02 armbian/任务/06 内核修改.md",
     "Pasted image 20240523214604.png",
     "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md",
     "02 Research/07 AI/yolov8.md",
@@ -192,7 +194,6 @@
     "03 Expertise/02 armbian/任务/02 uboot与内核之间的关系.md",
     "03 Expertise/02 armbian/任务/03 自定义uboot及内核的流程.md",
     "03 Expertise/02 armbian/任务/05 交叉编译文件系统及docker.md",
-    "03 Expertise/02 armbian/任务/06 内核修改.md",
     "03 Expertise/02 armbian/上手/Qt Gstreamer.md",
     "03 Expertise/02 armbian/上手/uboot + kernel 启动动画.md",
     "03 Expertise/02 armbian/任务/04 uefi和grub启动器的工作原理.md",
@@ -216,7 +217,6 @@
     "03 Expertise/02 armbian/操作/编译问题.md",
     "03 Expertise/02 armbian/操作/烧录+linux环境.md",
     "Excalidraw/esp32接线电路图.png",
-    "Excalidraw/Drawing 2024-02-27 13.45.38.excalidraw.png",
     "03 Expertise/05 ESP8266",
     "02 Research/03 Leetcode Algorithm/fdsfds",
     "pdf/linux/Linux设备驱动程序3.pdf",
