@@ -3,7 +3,6 @@
   "obsidian-icon-folder",
   "obsidian-icons-plugin",
   "oz-image-plugin",
-  "obsidian-style-settings",
   "obsidian-banners",
   "multi-column-markdown",
   "obsidian-excalidraw-plugin",
@@ -11,5 +10,6 @@
   "various-complements",
   "obsidian-emoji-toolbar",
   "obsidian-git",
-  "obsidian-zotero-desktop-connector"
+  "obsidian-zotero-desktop-connector",
+  "obsidian-style-settings"
 ]

@@ -6,5 +6,6 @@
   "interfaceFontFamily": "苹方-简,华康手札体W5P,JetBrains Mono",
   "textFontFamily": "苹方-简,华康手札体W5P,JetBrains Mono",
   "monospaceFontFamily": "JetBrains Mono",
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "nativeMenus": false
 }
