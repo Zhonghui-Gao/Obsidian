@@ -30,3 +30,4 @@ C2_PConv + BIFPN + RRA + Shape-IoU 320epochs
 batchsize = 8
 C2_PConv + BIFPN + WIOU
 ![[Pasted image 20240526090053.png]]
+![[Pasted image 20240526151250.png]]

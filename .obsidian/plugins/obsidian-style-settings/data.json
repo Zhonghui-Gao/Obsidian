@@ -11,7 +11,7 @@
   "blue-topaz-theme@@font-monospace-theme": "Monaco, 'JetBrains Mono',Consolas, Monaco, '等距更纱黑体 SC', 'Source Han Mono', 'Microsoft Yahei Mono', 'Segoe UI Emoji', 'Microsoft YaHei', 'Source Code Pro', monospace",
   "Blue-Topaz-Codebox-Highlight@@code-box-style-option": "codebox-default-style",
   "Blue-Topaz-Codebox-Highlight@@muted-code-activeline-bg": false,
-  "Blue-Topaz-Codebox-Highlight@@letter-space-code": 0,
+  "Blue-Topaz-Codebox-Highlight@@letter-space-code": 0.2,
   "blue-topaz-theme@@font-text-theme": "'苹方-简', Bookerly,'Inter', 'Segoe UI','霞鹜文楷 GB', 'LXGW WenKai', 'Segoe UI Emoji',var(--font-default)",
   "blue-topaz-theme@@toggle-paragraph-spacing": false,
   "blue-topaz-theme@@blur-depth": 10,
@@ -31,7 +31,7 @@
   "blue-topaz-theme@@letter-space-main": 0.9,
   "blue-topaz-theme@@background-settings-workplace-theme-dark": "background-settings-workplace-theme-dark-in-the-sky",
   "blue-topaz-theme@@bg-panel-page-option-dark": "panel-page-bg-theme-dark-custom",
-  "blue-topaz-theme@@left-ribbon-style": "bt-bubble-ribbon-hide-left",
+  "blue-topaz-theme@@left-ribbon-style": "bt-bubble-ribbon",
   "blue-topaz-theme@@hide-vault-name": false,
   "blue-topaz-theme@@search-bar-style-option": "default-search-bar",
   "blue-topaz-theme@@bt-status-on": false,
@@ -51,5 +51,9 @@
   "blue-topaz-theme@@remove-arrow": true,
   "blue-topaz-theme@@bt-toggle-colorful-folder": true,
   "blue-topaz-theme@@folder-colorful-custom-color@@light": "#A34A4A",
-  "blue-topaz-theme@@folder-colorful-custom-color@@dark": "#4D17B8"
+  "blue-topaz-theme@@folder-colorful-custom-color@@dark": "#4D17B8",
+  "Blue-Topaz-Codebox-Highlight@@whole-code-wrap": false,
+  "Blue-Topaz-Codebox-Highlight@@nowrap-edit-codebox": true,
+  "Blue-Topaz-Codebox-Highlight@@remove-language-type": false,
+  "Blue-Topaz-Codebox-Highlight@@mute-code-indent-line": false
 }
