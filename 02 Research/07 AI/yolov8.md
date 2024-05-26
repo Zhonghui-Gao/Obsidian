@@ -2,7 +2,7 @@ MHSA [yolov8添加注意力机制-MHSA_mhsa代码-CSDN博客](https://blog.csdn.
 
 EMA [YOLOv8改进:添加EMA注意力机制_efficient multi-scale attention module with cross--CSDN博客](https://blog.csdn.net/ShawN1022/article/details/132854884)
 
-
+batchsize= 16
 yolov8-pbi.yaml
 dataset: SCB-dataset
 C2f_PConv BiFPN + WIOU
@@ -22,3 +22,9 @@ C2_PCov + BIFPN + BiLevelRoutingAttention + WIou
 ![[Pasted image 20240524081633.png]]
 
 shapeIou：[损失函数篇 | YOLOv8 引入 Shape-IoU 考虑边框形状与尺度的度量 (ppmy.cn)](https://www.ppmy.cn/news/1294985.html?action=onClick)
+
+C2_PConv + BIFPN + RRA + Shape-IoU
+![[Pasted image 20240526084510.png]]
+
+
+batchsize = 8
