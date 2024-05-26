@@ -23,8 +23,10 @@ C2_PCov + BIFPN + BiLevelRoutingAttention + WIou
 
 shapeIou：[损失函数篇 | YOLOv8 引入 Shape-IoU 考虑边框形状与尺度的度量 (ppmy.cn)](https://www.ppmy.cn/news/1294985.html?action=onClick)
 
-C2_PConv + BIFPN + RRA + Shape-IoU
+C2_PConv + BIFPN + RRA + Shape-IoU 320epochs
 ![[Pasted image 20240526084510.png]]
 
 
 batchsize = 8
+C2_PConv + BIFPN + WIOU
+![[Pasted image 20240526090053.png]]
