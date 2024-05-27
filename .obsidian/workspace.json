@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Research/07 AI/yolov8 修改/超参数设置.md",
+                "file": "02 Research/07 AI/paper/CCF.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Research/07 AI/yolov8 修改/超参数设置.md",
+                "file": "02 Research/07 AI/paper/CCF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Research/07 AI/yolov8 修改/超参数设置.md",
+                "file": "02 Research/07 AI/paper/CCF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Research/07 AI/yolov8 修改/超参数设置.md"
+                "file": "02 Research/07 AI/paper/CCF.md"
               }
             }
           },
@@ -180,8 +180,11 @@
   },
   "active": "b01a53c11386f6a8",
   "lastOpenFiles": [
-    "02 Research/07 AI/yolov8.md",
     "02 Research/07 AI/yolov8 修改/超参数设置.md",
+    "02 Research/07 AI/paper/CCF.md",
+    "02 Research/07 AI/paper",
+    "02 Research/07 AI/未命名.md",
+    "02 Research/07 AI/yolov8.md",
     "Pasted image 20240527083636.png",
     "02 Research/07 AI/yolov8 修改/WIoU.md",
     "02 Research/07 AI/yolov8 修改/Shape-IOU.md",
@@ -215,8 +218,6 @@
     "03 Expertise/02 armbian/操作/rk3568 网络搭建.md",
     "05 Template/Markdown语法.md",
     "Excalidraw/esp32接线电路图.md",
-    "Excalidraw/esp32介绍.md",
-    "03 Expertise/05 ESP8266/环境配置.md",
     "02 Research/07 AI",
     "03 Expertise/05 ESP8266",
     "02 Research/03 Leetcode Algorithm/fdsfds",
@@ -225,7 +226,6 @@
     "assets/Discovering IoT Physical Channel Vulnerabilities",
     "assets/Bin there, target that - Analyzing the target selection of IoT vulnerabilities in malware binaries",
     "02 Research/ 06 ACM",
-    "assets/A platform for secure static binary instrumentation",
     "01个人主页/未命名.canvas",
     "专业知识/未命名.canvas"
   ]
