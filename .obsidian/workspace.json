@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Research/07 AI/yolov8 修改/WIoU.md",
+                "file": "02 Research/07 AI/yolov8 修改/超参数设置.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Research/07 AI/yolov8 修改/WIoU.md",
+                "file": "02 Research/07 AI/yolov8 修改/超参数设置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Research/07 AI/yolov8 修改/WIoU.md",
+                "file": "02 Research/07 AI/yolov8 修改/超参数设置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Research/07 AI/yolov8 修改/WIoU.md"
+                "file": "02 Research/07 AI/yolov8 修改/超参数设置.md"
               }
             }
           },
@@ -180,10 +180,12 @@
   },
   "active": "b01a53c11386f6a8",
   "lastOpenFiles": [
-    "02 Research/07 AI/yolov8 修改/Shape-IOU.md",
-    "02 Research/07 AI/yolov8 修改/WIoU.md",
-    "02 Research/07 AI/yolov5.md",
     "02 Research/07 AI/yolov8.md",
+    "02 Research/07 AI/yolov8 修改/超参数设置.md",
+    "Pasted image 20240527083636.png",
+    "02 Research/07 AI/yolov8 修改/WIoU.md",
+    "02 Research/07 AI/yolov8 修改/Shape-IOU.md",
+    "02 Research/07 AI/yolov5.md",
     "Pasted image 20240526151250.png",
     "Pasted image 20240526090053.png",
     "Pasted image 20240526084510.png",
@@ -201,7 +203,6 @@
     "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md",
     "04 Image/Pasted image 20240523100337.png",
     "04 Image/Pasted image 20240522113203.png",
-    "04 Image/Pasted image 20240522080148.png",
     "03 Expertise/02 armbian/任务/01 系统启动.md",
     "03 Expertise/02 armbian/任务/05 交叉编译文件系统及docker.md",
     "03 Expertise/02 armbian/上手/Qt Gstreamer.md",
@@ -217,7 +218,6 @@
     "Excalidraw/esp32介绍.md",
     "03 Expertise/05 ESP8266/环境配置.md",
     "02 Research/07 AI",
-    "02 Research/、.md",
     "03 Expertise/05 ESP8266",
     "02 Research/03 Leetcode Algorithm/fdsfds",
     "pdf/linux/Linux设备驱动程序3.pdf",
