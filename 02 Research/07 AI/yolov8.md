@@ -1,3 +1,6 @@
+![[yolov8net.png]]
+
+
 MHSA [yolov8添加注意力机制-MHSA_mhsa代码-CSDN博客](https://blog.csdn.net/ROCKY__________/article/details/131804291)
 
 EMA [YOLOv8改进:添加EMA注意力机制_efficient multi-scale attention module with cross--CSDN博客](https://blog.csdn.net/ShawN1022/article/details/132854884)
