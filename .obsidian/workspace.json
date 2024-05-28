@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Research/07 AI/paper/中文.md",
+                "file": "02 Research/07 AI/yolov8.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Research/07 AI/paper/中文.md",
+                "file": "02 Research/07 AI/yolov8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Research/07 AI/paper/中文.md",
+                "file": "02 Research/07 AI/yolov8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Research/07 AI/paper/中文.md"
+                "file": "02 Research/07 AI/yolov8.md"
               }
             }
           },
@@ -180,16 +180,16 @@
   },
   "active": "b01a53c11386f6a8",
   "lastOpenFiles": [
-    "02 Research/07 AI/paper/CCF.md",
+    "02 Research/07 AI/yolov5.md",
+    "02 Research/07 AI/yolov8.md",
     "02 Research/07 AI/paper/中文.md",
+    "02 Research/07 AI/paper/CCF.md",
     "02 Research/07 AI/yolov8 修改/超参数设置.md",
     "02 Research/07 AI/paper",
     "02 Research/07 AI/未命名.md",
-    "02 Research/07 AI/yolov8.md",
     "Pasted image 20240527083636.png",
     "02 Research/07 AI/yolov8 修改/WIoU.md",
     "02 Research/07 AI/yolov8 修改/Shape-IOU.md",
-    "02 Research/07 AI/yolov5.md",
     "Pasted image 20240526151250.png",
     "Pasted image 20240526090053.png",
     "Pasted image 20240526084510.png",
