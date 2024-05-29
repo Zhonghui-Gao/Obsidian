@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Research/07 AI/yolov8.md",
+                "file": "02 Research/07 AI/paper/中文.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Research/07 AI/yolov8.md",
+                "file": "02 Research/07 AI/paper/中文.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Research/07 AI/yolov8.md",
+                "file": "02 Research/07 AI/paper/中文.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Research/07 AI/yolov8.md"
+                "file": "02 Research/07 AI/paper/中文.md"
               }
             }
           },
@@ -180,11 +180,11 @@
   },
   "active": "b01a53c11386f6a8",
   "lastOpenFiles": [
+    "02 Research/07 AI/paper/CCF.md",
+    "02 Research/07 AI/yolov8.md",
     "yolov8net.png",
     "02 Research/07 AI/yolov5.md",
-    "02 Research/07 AI/yolov8.md",
     "02 Research/07 AI/paper/中文.md",
-    "02 Research/07 AI/paper/CCF.md",
     "02 Research/07 AI/yolov8 修改/超参数设置.md",
     "02 Research/07 AI/paper",
     "02 Research/07 AI/未命名.md",
@@ -207,7 +207,6 @@
     "04 Image/Pasted image 20240523214604.png",
     "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md",
     "04 Image/Pasted image 20240523100337.png",
-    "04 Image/Pasted image 20240522113203.png",
     "03 Expertise/02 armbian/任务/01 系统启动.md",
     "03 Expertise/02 armbian/任务/05 交叉编译文件系统及docker.md",
     "03 Expertise/02 armbian/上手/Qt Gstreamer.md",
