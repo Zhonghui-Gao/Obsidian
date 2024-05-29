@@ -13,5 +13,6 @@
   "autoConvertHtml": false,
   "foldIndent": true,
   "useTab": true,
-  "autoPairMarkdown": true
+  "autoPairMarkdown": true,
+  "showLineNumber": false
 }
