@@ -75,6 +75,7 @@ export all_proxy=socks5:http://127.0.0.1:7890
 找到Lubuntu分支
 
 
+
 # 实现远程连接方案：
 找了很多ssh的方案 
 						最后发现不如`**向日葵**`

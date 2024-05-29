@@ -10,5 +10,8 @@
     "downscalePercent": 100
   },
   "readableLineLength": true,
-  "autoConvertHtml": false
+  "autoConvertHtml": false,
+  "foldIndent": true,
+  "useTab": true,
+  "autoPairMarkdown": true
 }

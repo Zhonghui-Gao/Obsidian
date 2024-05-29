@@ -55,5 +55,8 @@
   "Blue-Topaz-Codebox-Highlight@@whole-code-wrap": false,
   "Blue-Topaz-Codebox-Highlight@@nowrap-edit-codebox": true,
   "Blue-Topaz-Codebox-Highlight@@remove-language-type": false,
-  "Blue-Topaz-Codebox-Highlight@@mute-code-indent-line": false
+  "Blue-Topaz-Codebox-Highlight@@mute-code-indent-line": false,
+  "blue-topaz-theme@@text-indentation-two-em": false,
+  "blue-topaz-theme@@toggle-left-aligned-content": false,
+  "blue-topaz-theme@@reduce-bottom-padding": false
 }
