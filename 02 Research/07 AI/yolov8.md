@@ -38,3 +38,7 @@ C2_PConv + BIFPN + WIOU
 batch 16 
 C2_PCov + BIFPN +  Shape-IoU 367epoch
 ![[Pasted image 20240527083636.png]]
+
+
+yolov8n 300epoch
+![[Pasted image 20240530204440.png]]
