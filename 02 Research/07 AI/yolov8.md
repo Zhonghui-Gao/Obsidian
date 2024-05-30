@@ -21,7 +21,7 @@ yolov8n 200 epoch
 yolov8-pbi.yaml  s.pt 424
 ![[Pasted image 20240523100337.png]]
 
-C2_PCov + BIFPN + BiLevelRoutingAttention + WIou
+C2_PCov + BIFPN + BiLevelRoutingAttention + WIou 
 ![[Pasted image 20240524081633.png]]
 
 shapeIou：[损失函数篇 | YOLOv8 引入 Shape-IoU 考虑边框形状与尺度的度量 (ppmy.cn)](https://www.ppmy.cn/news/1294985.html?action=onClick)
