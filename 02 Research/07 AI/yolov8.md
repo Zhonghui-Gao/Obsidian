@@ -35,9 +35,23 @@ C2_PConv + BIFPN + WIOU
 ![[Pasted image 20240526090053.png]]
 ![[Pasted image 20240526151250.png]]
 
+
 batch 16 
 C2_PCov + BIFPN +  Shape-IoU 367epoch
 ![[Pasted image 20240527083636.png]]
+
+
+yolov8s 基础上 C2f all + BIFPN +  Shape-IoU + BRA
+![[Pasted image 20240602185234.png]]
+
+C2_PConv(backbone) + BIFPN + BRA + Shape-IoU 320epochs
+![[Pasted image 20240526084510.png]]
+
+
+
+
+
+
 
 
 yolov8n 300epoch
