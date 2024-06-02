@@ -12,7 +12,7 @@ C2f_PConv BiFPN + WIOU
 ![[Pasted image 20240521205040.png]]
 
 
-yolov8n 200 epoch
+yolov8s 200 epoch
 ![[Pasted image 20240522080148.png]]
 
 229 n.pt
