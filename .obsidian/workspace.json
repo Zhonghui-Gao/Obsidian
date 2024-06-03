@@ -11,9 +11,9 @@
             "id": "d25de7d2dcfcbf34",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "excalidraw",
               "state": {
-                "file": "Pasted image 20240530204440.png"
+                "file": "Excalidraw/Drawing 2024-02-27 13.45.38.excalidraw.md"
               }
             }
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20240530204440.png",
+                "file": "Excalidraw/Drawing 2024-02-27 13.45.38.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20240530204440.png",
+                "file": "Excalidraw/Drawing 2024-02-27 13.45.38.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20240530204440.png"
+                "file": "Excalidraw/Drawing 2024-02-27 13.45.38.excalidraw.md"
               }
             }
           },
@@ -176,8 +176,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "c7416abfbba7ebc7",
+  "active": "d25de7d2dcfcbf34",
   "lastOpenFiles": [
+    "Pasted Image 20240603201530_416.png",
+    "Excalidraw/Drawing 2024-02-27 13.45.38.excalidraw.png",
+    "Pasted image 20240530204440.png",
     "Pasted image 20240602185234.png",
     "Pasted Image 20240603160148_167.jpg",
     "Pasted Image 20240603160233_509.png",
@@ -189,16 +192,13 @@
     "Excalidraw/Drawing 2024-06-03 16.01.33.excalidraw.md",
     "Excalidraw/Drawing 2024-01-25 18.26.36.excalidraw.md",
     "Excalidraw/Drawing 2024-02-27 13.45.38.excalidraw.md",
-    "Excalidraw/Drawing 2024-02-27 13.45.38.excalidraw.png",
     "Excalidraw/esp32接线电路图.md",
     "Excalidraw/esp32接线电路图.png",
     "Excalidraw/esp32介绍.md",
-    "Excalidraw/yolov8net.png",
     "02 Research/07 AI/yolov8.md",
     "02 Research/07 AI/yolov8 修改/WIoU.md",
     "02 Research/07 AI/yolov8 修改/Shape-IOU.md",
     "02 Research/07 AI/yolov8 修改/PConv_Detect.md",
-    "Pasted image 20240530204440.png",
     "02 Research/07 AI/paper/中文.md",
     "05 Template/数学公式参考补充ing.md",
     "02 Research/07 AI/paper/CCF.md",
