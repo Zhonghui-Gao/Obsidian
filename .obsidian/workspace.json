@@ -11,11 +11,9 @@
             "id": "d25de7d2dcfcbf34",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "02 Research/07 AI/yolov8.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20240530204440.png"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Research/07 AI/yolov8.md",
+                "file": "Pasted image 20240530204440.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Research/07 AI/yolov8.md",
+                "file": "Pasted image 20240530204440.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Research/07 AI/yolov8.md"
+                "file": "Pasted image 20240530204440.png"
               }
             }
           },
@@ -178,20 +176,32 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d25de7d2dcfcbf34",
+  "active": "c7416abfbba7ebc7",
   "lastOpenFiles": [
     "Pasted image 20240602185234.png",
+    "Pasted Image 20240603160148_167.jpg",
+    "Pasted Image 20240603160233_509.png",
+    "Excalidraw/Pasted image 20240526084510.png",
+    "Excalidraw/Pasted image 20240526090053.png",
+    "Excalidraw/Pasted image 20240526151250.png",
+    "Excalidraw/Pasted image 20240527083636.png",
+    "Excalidraw/Drawing 2024-05-29 16.55.45.excalidraw.md",
+    "Excalidraw/Drawing 2024-06-03 16.01.33.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-25 18.26.36.excalidraw.md",
+    "Excalidraw/Drawing 2024-02-27 13.45.38.excalidraw.md",
+    "Excalidraw/Drawing 2024-02-27 13.45.38.excalidraw.png",
+    "Excalidraw/esp32接线电路图.md",
+    "Excalidraw/esp32接线电路图.png",
+    "Excalidraw/esp32介绍.md",
+    "Excalidraw/yolov8net.png",
+    "02 Research/07 AI/yolov8.md",
     "02 Research/07 AI/yolov8 修改/WIoU.md",
     "02 Research/07 AI/yolov8 修改/Shape-IOU.md",
     "02 Research/07 AI/yolov8 修改/PConv_Detect.md",
-    "02 Research/07 AI/yolov8.md",
     "Pasted image 20240530204440.png",
-    "Excalidraw/esp32介绍.md",
-    "Excalidraw/Pasted image 20240524110313.png",
     "02 Research/07 AI/paper/中文.md",
     "05 Template/数学公式参考补充ing.md",
     "02 Research/07 AI/paper/CCF.md",
-    "Excalidraw/Drawing 2024-05-29 16.55.45.excalidraw.md",
     "03 Expertise/02 armbian/操作/烧录+linux环境.md",
     "03 Expertise/02 armbian/任务/01 系统启动.md",
     "03 Expertise/02 armbian/任务/02 uboot与内核之间的关系.md",
@@ -204,20 +214,8 @@
     "03 Expertise/04 RMGateway/bacnum.h.md",
     "03 Expertise/04 RMGateway/Readme.md",
     "03 Expertise/05 ESP8266/README.md",
-    "02 Research/01 paper/物联网安全.md",
-    "02 Research/01 paper/通信协议.md",
-    "02 Research/07 AI/yolov8 修改/超参数设置.md",
-    "02 Research/04 Modern cryptography/RSA.md",
-    "Excalidraw/yolov8net.png",
     "02 Research/07 AI/paper",
-    "Excalidraw/Pasted image 20240527083636.png",
-    "Excalidraw/Pasted image 20240526151250.png",
-    "Excalidraw/Pasted image 20240526090053.png",
-    "Excalidraw/Pasted image 20240526084510.png",
-    "04 Image/Pasted image 20240524103605.png",
     "02 Research/07 AI/yolov8 修改",
-    "04 Image/Pasted image 20240524081633.png",
-    "04 Image/Pasted image 20240523214604.png",
     "02 Research/07 AI",
     "03 Expertise/05 ESP8266",
     "02 Research/03 Leetcode Algorithm/fdsfds",
