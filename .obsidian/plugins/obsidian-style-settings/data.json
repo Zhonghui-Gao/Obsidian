@@ -58,5 +58,7 @@
   "Blue-Topaz-Codebox-Highlight@@mute-code-indent-line": false,
   "blue-topaz-theme@@text-indentation-two-em": false,
   "blue-topaz-theme@@toggle-left-aligned-content": false,
-  "blue-topaz-theme@@reduce-bottom-padding": false
+  "blue-topaz-theme@@reduce-bottom-padding": false,
+  "blue-topaz-theme@@setting-etc-pane-style": "setting-style-traditional",
+  "blue-topaz-theme@@loading-page-style-option": "default-loading-page"
 }
