@@ -1,8 +1,12 @@
 ---
 Date: 2024-01-01
+banner: 
 banner_y: "0.5"
+banner_x: "0.50155"
 banner_icon: ⛈️
 banner_lock: "true"
+cssclasses: 
+obsidianUIMode: preview
 ---
 
 ***
@@ -54,5 +58,8 @@ Largest  Column: standard
 
 
 
+---
+findings
 
+---
 

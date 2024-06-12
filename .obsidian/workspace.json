@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Research/07 AI/paper/中文.md",
-                "mode": "source",
+                "file": "01 Homepage/Homepage.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Research/07 AI/paper/中文.md",
+                "file": "01 Homepage/Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Research/07 AI/paper/中文.md",
+                "file": "01 Homepage/Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Research/07 AI/paper/中文.md"
+                "file": "01 Homepage/Homepage.md"
               }
             }
           },
@@ -175,22 +175,27 @@
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "homepage:Open homepage": false
     }
   },
   "active": "d25de7d2dcfcbf34",
   "lastOpenFiles": [
+    "04 Image/background/wallhaven-we1lrq.jpg",
+    "04 Image/background/wallhaven-2yz3m9.jpg",
+    "04 Image/background/Pasted image 20230410121244.png",
+    "01 Homepage/Homepage.md",
+    "02 Research/07 AI/yolov8 修改/Shape-IOU.md",
+    "02 Research/07 AI/yolov8 修改/WIoU.md",
     "02 Research/07 AI/paper/CCF.md",
+    "02 Research/07 AI/paper/中文.md",
     "04 Image/Pasted image 20240530204440.png",
     "02 Research/07 AI/yolov8 修改/超参数设置.md",
-    "02 Research/07 AI/paper/中文.md",
     "01 Homepage/Records.md",
-    "01 Homepage/Homepage.md",
     "02 Research/07 AI/yolov8.md",
     "05 Template/数学公式参考补充ing.md",
     "05 Template/Markdown语法.md",
     "02 Research/07 AI/yolov8 修改/PConv_Detect.md",
-    "02 Research/07 AI/yolov8 修改/Shape-IOU.md",
     "Excalidraw/Drawing 2024-02-27 13.45.38.excalidraw.md",
     "04 Image/Pasted Image 20240603203417_752.png",
     "04 Image/Pasted Image 20240603203245_742.png",
@@ -199,14 +204,11 @@
     "Excalidraw/Drawing 2024-02-27 13.45.38.excalidraw.png",
     "04 Image/Pasted image 20240602185234.png",
     "Pasted Image 20240603160148_167.jpg",
-    "Pasted Image 20240603160233_509.png",
-    "Excalidraw/Pasted image 20240526084510.png",
     "Excalidraw/Drawing 2024-05-29 16.55.45.excalidraw.md",
     "Excalidraw/Drawing 2024-06-03 16.01.33.excalidraw.md",
     "Excalidraw/Drawing 2024-01-25 18.26.36.excalidraw.md",
     "Excalidraw/esp32接线电路图.md",
     "Excalidraw/esp32介绍.md",
-    "02 Research/07 AI/yolov8 修改/WIoU.md",
     "03 Expertise/02 armbian/操作/烧录+linux环境.md",
     "03 Expertise/02 armbian/任务/01 系统启动.md",
     "03 Expertise/02 armbian/任务/02 uboot与内核之间的关系.md",
