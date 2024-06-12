@@ -5,7 +5,7 @@
     "tags": "tags",
     "Date": "date",
     "Data": "date",
-    "banner": "date",
+    "banner": "text",
     "excalidraw-plugin": "text",
     "excalidraw-export-transparent": "checkbox",
     "excalidraw-mask": "checkbox",
