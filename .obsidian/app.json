@@ -14,5 +14,6 @@
   "foldIndent": true,
   "useTab": true,
   "autoPairMarkdown": true,
-  "showLineNumber": false
+  "showLineNumber": false,
+  "strictLineBreaks": false
 }
