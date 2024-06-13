@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Research/07 AI/paper/中文.md",
+                "file": "02 Research/07 AI/yolov8.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Research/07 AI/paper/中文.md",
+                "file": "02 Research/07 AI/yolov8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Research/07 AI/paper/中文.md",
+                "file": "02 Research/07 AI/yolov8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Research/07 AI/paper/中文.md"
+                "file": "02 Research/07 AI/yolov8.md"
               }
             }
           },
@@ -196,9 +196,9 @@
   },
   "active": "9288b1b4de381138",
   "lastOpenFiles": [
+    "02 Research/07 AI/paper/中文.md",
     "Pasted image 20240613104846.png",
     "02 Research/07 AI/yolov8.md",
-    "02 Research/07 AI/paper/中文.md",
     "02 Research/07 AI/yolov8 修改/WIoU.md",
     "02 Research/07 AI/paper/CCF.md",
     "01 Homepage/Homepage.md",
@@ -221,7 +221,6 @@
     "04 Image/Pasted Image 20240603203245_742.png",
     "04 Image/Pasted Image 20240603203114_733.png",
     "04 Image/Pasted Image 20240603201530_416.png",
-    "Excalidraw/Drawing 2024-02-27 13.45.38.excalidraw.png",
     "Excalidraw/Drawing 2024-05-29 16.55.45.excalidraw.md",
     "Excalidraw/Drawing 2024-06-03 16.01.33.excalidraw.md",
     "Excalidraw/Drawing 2024-01-25 18.26.36.excalidraw.md",
