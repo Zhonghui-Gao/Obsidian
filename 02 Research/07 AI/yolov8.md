@@ -54,5 +54,6 @@ yolov8n 300epoch
 ![[Pasted image 20240530204440.png]]
 
 
+YOLOv8s C2_PConv(All) + BIFPN +  Shape-IoU 
 ![[1718415831809.png]]
 
