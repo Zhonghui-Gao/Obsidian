@@ -52,3 +52,7 @@ C2_PConv(backbone) + BIFPN + BRA + Shape-IoU 320epochs
 
 yolov8n 300epoch
 ![[Pasted image 20240530204440.png]]
+
+
+![[1718415831809.png]]
+
