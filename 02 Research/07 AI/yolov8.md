@@ -57,3 +57,10 @@ yolov8n 300epoch
 YOLOv8s C2_PConv(All) + BIFPN +  Shape-IoU 
 ![[1718415831809.png]]
 
+
+
+
+yolov8n  
+![[Pasted image 20240615141401.png]]
+
+s
