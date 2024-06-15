@@ -64,3 +64,4 @@ yolov8n
 ![[Pasted image 20240615141401.png]]
 
 s
+![[Pasted image 20240615174359.png]]
