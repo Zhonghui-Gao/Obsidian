@@ -65,3 +65,4 @@ yolov8n
 
 s
 ![[Pasted image 20240615174359.png]]
+
