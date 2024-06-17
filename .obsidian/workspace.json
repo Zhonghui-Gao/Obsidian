@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Research/07 AI/yolov8.md",
+                "file": "02 Research/07 AI/paper/中文.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Research/07 AI/yolov8.md",
+                "file": "02 Research/07 AI/paper/中文.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Research/07 AI/yolov8.md",
+                "file": "02 Research/07 AI/paper/中文.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Research/07 AI/yolov8.md"
+                "file": "02 Research/07 AI/paper/中文.md"
               }
             }
           },
@@ -196,10 +196,10 @@
   },
   "active": "9288b1b4de381138",
   "lastOpenFiles": [
+    "02 Research/07 AI/yolov8.md",
     "Pasted image 20240617095123.png",
     "Pasted image 20240616205459.png",
     "04 Image/1718415831809.png",
-    "02 Research/07 AI/yolov8.md",
     "04 Image/Pasted image 20240615174359.png",
     "04 Image/Pasted image 20240615141401.png",
     "02 Research/07 AI/paper/中文.md",
@@ -217,7 +217,6 @@
     "04 Image/background/wallhaven-we1lrq.jpg",
     "04 Image/background/wallhaven-2yz3m9.jpg",
     "04 Image/background/Pasted image 20230410121244.png",
-    "04 Image/Pasted image 20240530204440.png",
     "02 Research/07 AI/yolov8 修改/超参数设置.md",
     "05 Template/数学公式参考补充ing.md",
     "05 Template/Markdown语法.md",

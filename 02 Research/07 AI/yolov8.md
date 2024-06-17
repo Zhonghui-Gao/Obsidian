@@ -64,14 +64,15 @@ YOLOv8s C2_PConv(All) + BIFPN +  Shape-IoU
 
 
 
-yolov8n  
+yolov8n   8.1 GFLOPs
 ![[Pasted image 20240615141401.png]]
 
-s
+s 28.4GFLOPs
 ![[Pasted image 20240615174359.png]]
 
 
-m
+m 78.7 GFLOPs
 ![[Pasted image 20240616205459.png]]
 
+l 
 
