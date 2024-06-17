@@ -64,6 +64,13 @@ YOLOv8s C2_PConv(All) + BIFPN +  Shape-IoU
 
 
 
+
+C2f_PConv_EMA + BiFPN + Shape-IoU
+![[Pasted image 20240617095123.png]]
+
+
+
+
 yolov8n   8.1 GFLOPs
 ![[Pasted image 20240615141401.png]]
 
