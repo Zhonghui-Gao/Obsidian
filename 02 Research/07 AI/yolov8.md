@@ -48,6 +48,11 @@ C2_PConv(backbone) + BIFPN + BRA + Shape-IoU 320epochs
 ![[Pasted image 20240526084510.png]]
 
 
+C2f_PConv_EMA + BiFPN + Shape-IoU
+![[Pasted image 20240617095123.png]]
+
+
+
 
 
 yolov8n 300epoch
@@ -56,7 +61,6 @@ yolov8n 300epoch
 
 YOLOv8s C2_PConv(All) + BIFPN +  Shape-IoU 
 ![[1718415831809.png]]
-
 
 
 
@@ -69,4 +73,5 @@ s
 
 m
 ![[Pasted image 20240616205459.png]]
+
 
