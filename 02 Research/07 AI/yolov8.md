@@ -74,6 +74,7 @@ C2f_PConv_EMA + BiFPN + Shape-IoU
 yolov8n   8.1 GFLOPs
 ![[Pasted image 20240615141401.png]]
 
+
 s 28.4GFLOPs
 ![[Pasted image 20240615174359.png]]
 
