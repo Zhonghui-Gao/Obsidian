@@ -82,5 +82,4 @@ s 28.4GFLOPs
 m 78.7 GFLOPs
 ![[Pasted image 20240616205459.png]]
 
-l 
-
+l
