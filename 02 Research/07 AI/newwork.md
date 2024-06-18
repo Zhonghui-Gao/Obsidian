@@ -38,3 +38,14 @@ C2f_PConv_EMA(All) + BiFPN + CIoU   0.937
 
 
 C2f_PConv_EMA(Backbone) + BiFPN(C2f) + CIoU
+
+
+
+
+
+
+
+
+C2f_PConv_EMA(backbone)
+C2f_PConv_EMA + BiFPN + CIoU
+C2f_PCov
