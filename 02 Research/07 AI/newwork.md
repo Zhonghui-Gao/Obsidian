@@ -39,9 +39,14 @@ C2f_PConv_EMA(All) + PAnet + CIoU
 
 
 
-C2f_PConv_EMA(Backbone) + BiFPN(C2f) + CIoU
 
-1
+
+
+C2f_PConv_EMA(Backbone) + BiFPN(C2f) + CIoU
+![[Pasted image 20240619001431.png]]
+
+
+
 
 
 
