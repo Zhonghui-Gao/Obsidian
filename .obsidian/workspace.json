@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Research/07 AI/yolov8.md",
+                "file": "02 Research/07 AI/newwork.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Research/07 AI/yolov8.md",
+                "file": "02 Research/07 AI/newwork.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Research/07 AI/yolov8.md",
+                "file": "02 Research/07 AI/newwork.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Research/07 AI/yolov8.md"
+                "file": "02 Research/07 AI/newwork.md"
               }
             }
           },
@@ -196,9 +196,13 @@
   },
   "active": "9288b1b4de381138",
   "lastOpenFiles": [
-    "02 Research/07 AI/yolov8 修改/Shape-IOU.md",
-    "02 Research/07 AI/yolov8.md",
+    "02 Research/07 AI/yolov8 修改/WIoU.md",
     "02 Research/07 AI/newwork.md",
+    "02 Research/07 AI/yolov8.md",
+    "Pasted image 20240618202801.png",
+    "Pasted image 20240618202724.png",
+    "Pasted image 20240618202652.png",
+    "02 Research/07 AI/yolov8 修改/Shape-IOU.md",
     "02 Research/07 AI/yolov5.md",
     "Pasted image 20240618095356.png",
     "Pasted image 20240617202041.png",
@@ -208,16 +212,12 @@
     "04 Image/1718415831809.png",
     "04 Image/Pasted image 20240615174359.png",
     "04 Image/Pasted image 20240615141401.png",
-    "04 Image/Pasted image 20240613104846.png",
     "02 Research/07 AI/paper/CCF.md",
-    "02 Research/07 AI/yolov8 修改/WIoU.md",
     "01 Homepage/Homepage.md",
     "README.md",
-    "04 Image/继电器.png",
     "01 Homepage/Weekly notes.md",
     "01 Homepage/Records.md",
     "01 Homepage/Linux.md",
-    "04 Image/background/wallhaven-we1lrq.jpg",
     "02 Research/07 AI/yolov8 修改/超参数设置.md",
     "05 Template/数学公式参考补充ing.md",
     "05 Template/Markdown语法.md",
@@ -231,7 +231,6 @@
     "03 Expertise/02 armbian/操作/烧录+linux环境.md",
     "03 Expertise/02 armbian/任务/01 系统启动.md",
     "03 Expertise/02 armbian/任务/02 uboot与内核之间的关系.md",
-    "03 Expertise/02 armbian/任务/03 自定义uboot及内核的流程.md",
     "02 Research/07 AI/paper",
     "02 Research/07 AI/yolov8 修改",
     "02 Research/07 AI",
