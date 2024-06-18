@@ -26,14 +26,15 @@ v8s
 
 
 
-
-
 C2f_PConv_EMA(All) + BiFPN + Shape-IoU  0.937
 ![[Pasted image 20240618202652.png]]
 
 C2f_PConv_EMA(All) + BiFPN + CIoU   0.937
 
+![[Pasted image 20240618222943.png]]
 
+
+C2f_PConv_EMA(All) + PAnet + CIoU
 
 
 
