@@ -63,7 +63,7 @@ YOLOv8s C2_PConv(All) + BIFPN +  Shape-IoU
 ![[1718415831809.png]]
 
 
-C2f_PConv_EMA + BiFPN + CIoU
+C2f_PConv_EMA(backbone) + BiFPN + CIoU
 ![[Pasted image 20240617095123.png]]
 
 
