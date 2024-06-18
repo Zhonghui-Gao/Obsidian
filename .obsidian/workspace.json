@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Research/07 AI/yolov8 修改/Shape-IOU.md",
+                "file": "02 Research/07 AI/yolov8.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Research/07 AI/yolov8 修改/Shape-IOU.md",
+                "file": "02 Research/07 AI/yolov8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Research/07 AI/yolov8 修改/Shape-IOU.md",
+                "file": "02 Research/07 AI/yolov8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Research/07 AI/yolov8 修改/Shape-IOU.md"
+                "file": "02 Research/07 AI/yolov8.md"
               }
             }
           },
@@ -196,6 +196,7 @@
   },
   "active": "9288b1b4de381138",
   "lastOpenFiles": [
+    "02 Research/07 AI/yolov8 修改/Shape-IOU.md",
     "02 Research/07 AI/yolov8.md",
     "02 Research/07 AI/newwork.md",
     "02 Research/07 AI/yolov5.md",
@@ -209,7 +210,6 @@
     "04 Image/Pasted image 20240615141401.png",
     "04 Image/Pasted image 20240613104846.png",
     "02 Research/07 AI/paper/CCF.md",
-    "02 Research/07 AI/yolov8 修改/Shape-IOU.md",
     "02 Research/07 AI/yolov8 修改/WIoU.md",
     "01 Homepage/Homepage.md",
     "README.md",
