@@ -24,6 +24,9 @@ v8s
 
 ![[Pasted image 20240618202801.png]]
 
+v8l
+![[Pasted image 20240619155448.png]]
+
 
 
 C2f_PConv_EMA(All) + BiFPN + Shape-IoU  0.937
