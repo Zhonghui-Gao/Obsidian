@@ -46,11 +46,13 @@ C2f_PConv_EMA(Backbone) + PAnet(C2f) + CIoU
 
 C2f_PConv_EMA(Backbone) + BiFPN(C2f) + ShapeIoU
 
+![[Pasted image 20240619140509.png]]
 
 
 
 
-C2f_PConv_EMA(Backbone) + BiFPN(C2f) + CIoU
+
+C2f_PConv_EMA(Backbone) + BiFPN(C2f) + CIoU 1
 ![[Pasted image 20240619001431.png]]
 
 
