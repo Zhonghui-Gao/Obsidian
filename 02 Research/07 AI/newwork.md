@@ -35,7 +35,10 @@ C2f_PConv_EMA(All) + BiFPN + CIoU   0.937
 
 
 
-C2f_PConv_EMA(All) + PAnet + CIoU
+C2f_PConv_EMA(All) + PAnet(C2f_PConv_EMA) + CIoU
+
+
+C2f_PConv_EMA(Backbone) + PAnet(C2f) + CIoU
 
 
 
@@ -47,7 +50,7 @@ C2f_PConv_EMA(Backbone) + BiFPN(C2f) + CIoU
 
 
 
-
+C2f_PConv_EMA(Backbone) + BiFPN(C2f) + ShapeIoU
 
 
 
