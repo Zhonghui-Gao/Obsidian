@@ -20,6 +20,8 @@ v8n
 ![[Pasted image 20240618202724.png]]
 
 
+![[Pasted image 20240620002422.png]]
+
 v8s
 
 ![[Pasted image 20240618202801.png]]
