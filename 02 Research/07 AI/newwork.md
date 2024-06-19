@@ -24,11 +24,13 @@ v8s
 
 ![[Pasted image 20240618202801.png]]
 
-v8l + Shape-IoU
+
+
+v8m + Shape-IoU
 ![[Pasted image 20240619155448.png]]
 
 
-v8l  CIoU
+v8m  CIoU
 
 
 C2f_PConv_EMA(Backbone) + BiFPN(C2f) + CIoU 1
