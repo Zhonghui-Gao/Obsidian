@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Research/07 AI/paper/中文.md",
+                "file": "02 Research/07 AI/newwork.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Research/07 AI/paper/中文.md",
+                "file": "02 Research/07 AI/newwork.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Research/07 AI/paper/中文.md",
+                "file": "02 Research/07 AI/newwork.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Research/07 AI/paper/中文.md"
+                "file": "02 Research/07 AI/newwork.md"
               }
             }
           },
@@ -196,9 +196,10 @@
   },
   "active": "9288b1b4de381138",
   "lastOpenFiles": [
+    "Pasted image 20240616205459.png",
     "02 Research/07 AI/newwork.md",
-    "02 Research/07 AI/yolov8.md",
     "02 Research/07 AI/paper/中文.md",
+    "02 Research/07 AI/yolov8.md",
     "Pasted image 20240619140509.png",
     "Pasted image 20240619105632.png",
     "Pasted image 20240619093508.png",

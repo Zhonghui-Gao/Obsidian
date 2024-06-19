@@ -50,8 +50,6 @@ C2f_PConv_EMA(Backbone) + BiFPN(C2f) + ShapeIoU
 
 
 
-
-
 C2f_PConv_EMA(Backbone) + BiFPN(C2f) + CIoU 1
 ![[Pasted image 20240619001431.png]]
 
