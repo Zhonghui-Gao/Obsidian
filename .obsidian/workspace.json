@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Research/07 AI/newwork.md",
+                "file": "02 Research/07 AI/paper/中文.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Research/07 AI/newwork.md",
+                "file": "02 Research/07 AI/paper/中文.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Research/07 AI/newwork.md",
+                "file": "02 Research/07 AI/paper/中文.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Research/07 AI/newwork.md"
+                "file": "02 Research/07 AI/paper/中文.md"
               }
             }
           },
@@ -196,14 +196,15 @@
   },
   "active": "9288b1b4de381138",
   "lastOpenFiles": [
+    "02 Research/07 AI/newwork.md",
+    "02 Research/07 AI/yolov8.md",
+    "02 Research/07 AI/paper/中文.md",
     "Pasted image 20240619140509.png",
     "Pasted image 20240619105632.png",
     "Pasted image 20240619093508.png",
     "Pasted image 20240619001431.png",
     "Pasted image 20240618222943.png",
     "02 Research/07 AI/yolov8 修改/WIoU.md",
-    "02 Research/07 AI/newwork.md",
-    "02 Research/07 AI/yolov8.md",
     "Pasted image 20240618202801.png",
     "Pasted image 20240618202724.png",
     "Pasted image 20240618202652.png",
@@ -211,8 +212,6 @@
     "02 Research/07 AI/yolov5.md",
     "Pasted image 20240618095356.png",
     "Pasted image 20240617202041.png",
-    "02 Research/07 AI/paper/中文.md",
-    "Pasted image 20240617095123.png",
     "02 Research/07 AI/paper/CCF.md",
     "01 Homepage/Homepage.md",
     "README.md",
