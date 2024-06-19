@@ -33,13 +33,20 @@ C2f_PConv_EMA(All) + BiFPN + CIoU   0.937
 
 ![[Pasted image 20240618222943.png]]
 
-
-
 C2f_PConv_EMA(All) + PAnet(C2f_PConv_EMA) + CIoU
 
+![[Pasted image 20240619093508.png]]
 
-C2f_PConv_EMA(Backbone) + PAnet(C2f) + CIoU
+C2f_PConv_EMA(all) + PAnet(C2f) + CIoU
 
+
+
+
+
+
+
+
+C2f_PConv_EMA(Backbone) + BiFPN(C2f) + ShapeIoU
 
 
 
@@ -49,8 +56,6 @@ C2f_PConv_EMA(Backbone) + BiFPN(C2f) + CIoU
 ![[Pasted image 20240619001431.png]]
 
 
-
-C2f_PConv_EMA(Backbone) + BiFPN(C2f) + ShapeIoU
 
 
 
