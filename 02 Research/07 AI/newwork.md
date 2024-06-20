@@ -69,8 +69,6 @@ C2f_PConv(Backbone) + BiFPN(C2f_PConv_EMA) + Shape-IoU
 
 
 C2f_PConv(Backbone) + BiFPN(C2f_PConv_EMA) + CIoU
-![[Pasted image 20240619222446.png]]
-
 
 
 v8m + Shape-IoU
@@ -78,3 +76,5 @@ v8m + Shape-IoU
 
 
 v8m  CIoU
+
+![[Pasted image 20240619222446.png]]
