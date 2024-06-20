@@ -78,3 +78,10 @@ v8m + Shape-IoU
 v8m  CIoU
 
 ![[Pasted image 20240619222446.png]]
+
+
+BIFPN 256 
+C2f_PConv(Backbone) + BiFPN(C2f_PConv_EMA) + CIoU
+![[Pasted image 20240621001055.png]]
+
+ 
