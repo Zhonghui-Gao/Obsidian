@@ -99,3 +99,18 @@ C2f_PConv_EMA(Backbone) + PAnet(C2f) + CIoU
 
 C2f + BiFPN(C2f_PConv_EMA) + CIoU
 ![[Pasted image 20240621122243.png]]
+
+
+
+| Method  | Raising | Reading | Writing | mAP0.5 | mAP0.5-0.95 |
+| ------- | ------- | ------- | ------- | ------ | ----------- |
+| YOLOv8s | 0.82    | 0.649   | 0.699   | 0.722  | 0.524       |
+| ours    | 0.824   | 0.657   | 0.694   | 0.725  | 0.529       |
+
+
+Ours = C2f_PConv_EMA + BiFPN (ALL)
+
+| models   | P     | R     | mAP0.5 | mAP0.5-0.95 | MB   | Para(M) | Flops(G) |
+| -------- | ----- | ----- | ------ | ----------- | ---- | ------- | -------- |
+| baseline | 0.679 | 0.688 | 0.722  | 0.524       | 22.5 | 11      | 28.4     |
+| Ours     | 0.694 | 0.677 | 0.725  | 0.52        |      |         |          |
