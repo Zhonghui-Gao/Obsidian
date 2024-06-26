@@ -12,6 +12,16 @@
             "type": "leaf",
             "pinned": true,
             "state": {
+              "type": "empty",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "fd1b9306780ee182",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "01 Homepage/Homepage.md",
@@ -22,7 +32,7 @@
             }
           },
           {
-            "id": "9288b1b4de381138",
+            "id": "233dd35f2d146207",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -194,9 +204,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "9288b1b4de381138",
+  "active": "233dd35f2d146207",
   "lastOpenFiles": [
     "02 Research/07 AI/yolov8.md",
+    "01 Homepage/Homepage.md",
     "02 Research/07 AI/newwork.md",
     "02 Research/07 AI/yolov8 修改/WIoU.md",
     "02 Research/07 AI/yolov8 修改/Shape-IOU.md",
@@ -214,7 +225,6 @@
     "02 Research/07 AI/paper/中文.md",
     "Pasted image 20240619140509.png",
     "02 Research/07 AI/paper/CCF.md",
-    "01 Homepage/Homepage.md",
     "README.md",
     "01 Homepage/Weekly notes.md",
     "01 Homepage/Records.md",
