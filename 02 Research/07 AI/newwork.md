@@ -101,6 +101,9 @@ C2f + BiFPN(C2f_PConv_EMA) + CIoU
 ![[Pasted image 20240621122243.png]]
 
 
+yolov5m 48.2G FPS 159.603
+![[1719450174370.jpg]]
+
 
 | Method  | Raising | Reading | Writing | mAP0.5 | mAP0.5-0.95 |
 | ------- | ------- | ------- | ------- | ------ | ----------- |
@@ -172,3 +175,15 @@ baseline和2对比：证明C2f_PConv_EMA(Backbone)
 | 2   | C2f_PConv_EMA(Backbone)+PANet(C2f)           | 0.672     | 0.682 | 0.715     | 0.**531** | 19.7     | 9     | 24.6     |
 
 网络设置：
+
+
+
+
+
+|         | P     | R     | mAP   | GFLOPs | MB    |
+| ------- | ----- | ----- | ----- | ------ | ----- |
+| Yolov5m |       |       |       |        |       |
+|         |       |       |       |        |       |
+|         |       |       |       |        |       |
+|         |       |       |       |        |       |
+| ours    | 0.824 | 0.657 | 0.694 | 0.725  | 0.529 |
