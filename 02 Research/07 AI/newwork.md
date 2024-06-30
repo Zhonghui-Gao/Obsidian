@@ -195,7 +195,24 @@ baseline和2对比：证明C2f_PConv_EMA(Backbone)
 
 
 
-将基于 YOLOv8 的改进模型与YOLOv5s、YOLOv5m、YOLOv7-tiny 等主流目标检测网络模型进行对比，试验结果如表4所示。
+将基于 YOLOv8 的改进模型与YOLOv5m、YOLOv5s、YOLOv7-tiny 等主流目标检测网络模型进行对比，试验结果如表4所示。
+由表4可知，改进后的模型权重，计算量均小于其他模型，精确率和mAP与其他模型相比较保持差不多。在权重大小中，相较于其他模型比较分别减少了71.6%,17%,2.4%,47.7%,计算量相较于其他模型分别减少了86.5%，17.1%，3.3%，47.7%。改进后的模型相较于主流的网络来说，轻量化更好，准确率更高，为教室部署轻量化网络提供了有效的模型。
+
+
+
+由表 5 可知，YOLOv8-PBi 的模型权重均小于其他
+模型，精确率、召回率、平均精度均大于其他模型，其
+中平均精度分别比 SSD、RCNN、YOLOv5s、YOLOv5m、
+YOLOv7-tiny、YOLOv8s 分别高出 21.3、47.8、4.4、1.9、
+6.2、1.8 个百分点，同时模型权重相较于 SSD、RCNN、
+YOLOv5s、YOLOv5m、YOLOv7-tiny、YOLOv8s，分别
+减 小了 86.64%、 88.80%、 15.97%、 71.33%、 1.63%、
+46.22%。Two-stage 网络模型 Fast-RCNN 的权重和计算
+量较大，且识别精度较低。One-Stage 网络模型 SSD、
+YOLOv5s、YOLOv5m、YOLOv7-tiny、YOLOv8s 的权
+重和计算量小于 Fast-RCNN，同时检测精度更高。改进
+后的 YOLOv8-PBi 相较于其他主流网络，对于板栗果实
+目标的检测效果更好。
 
 
 为了评估为改进YOLOv8而提出的各种模块的有效性，我们将改进后的YOLOv8算法与其不同组成模块，在主干网络和头部网络分别进行组合比较，即YOLOv8+C2f_PConv_EMA(Backbone)+BiFPN(C2f_PConv_EMA)，YOLOv8+C2f_PConv_EMA(Backbone)+PANet(C2f)，YOLOv8+C2f_PConv_EMA(Backbone)+BiFPN(C2f)，
