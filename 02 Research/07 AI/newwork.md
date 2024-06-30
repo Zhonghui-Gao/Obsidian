@@ -195,6 +195,9 @@ baseline和2对比：证明C2f_PConv_EMA(Backbone)
 
 
 
+将基于 YOLOv8 的改进模型与YOLOv5s、YOLOv5m、YOLOv7-tiny 等主流目标检测网络模型进行对比，试验结果如表4所示。
+
+
 为了评估为改进YOLOv8而提出的各种模块的有效性，我们将改进后的YOLOv8算法与其不同组成模块，在主干网络和头部网络分别进行组合比较，即YOLOv8+C2f_PConv_EMA(Backbone)+BiFPN(C2f_PConv_EMA)，YOLOv8+C2f_PConv_EMA(Backbone)+PANet(C2f)，YOLOv8+C2f_PConv_EMA(Backbone)+BiFPN(C2f)，
 YOLOv8+C2f_PConv_EMA(Backbone)+PANet(C2f_PConv_EMA)，YOLOv8+C2f(Backbone)+BiFPN(C2f_PConv_EMA)
 （在这里分别用v1，v2，v3，v4，v5表示），以及原始的YOLOv8s算法下进行比较。
