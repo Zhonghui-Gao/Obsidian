@@ -120,6 +120,7 @@ yolov7-tiny 12.3MB
 Ours = C2f_PConv_EMA + BiFPN (ALL)
 减少一倍的运算量和模型大小 保持精度不变
 Fps
+比较结果如表格3所示，其中采用BiFPN情况下优于传统的YOLOv8的PAnet能做到更轻量，特征融合能力更强，在主干网络中采用C2f_PConv_EMA模块在融合部分优于C2f，同时在头部网络中采用BiFPN情况下再结合C2f_PConv_EMA模块，效果是最佳的。
 
 | nums | models                                       | P         | R         | mAP0.5    | mAP0.5-0.95 | MB       | Para(M) | Flops(G) |
 | ---- | -------------------------------------------- | --------- | --------- | --------- | ----------- | -------- | ------- | -------- |
@@ -197,6 +198,16 @@ baseline和2对比：证明C2f_PConv_EMA(Backbone)
 为了评估为改进YOLOv8而提出的各种模块的有效性，我们将改进后的YOLOv8算法与其不同组成模块，在主干网络和头部网络分别进行组合比较，即YOLOv8+C2f_PConv_EMA(Backbone)+BiFPN(C2f_PConv_EMA)，YOLOv8+C2f_PConv_EMA(Backbone)+PANet(C2f)，YOLOv8+C2f_PConv_EMA(Backbone)+BiFPN(C2f)，
 YOLOv8+C2f_PConv_EMA(Backbone)+PANet(C2f_PConv_EMA)，YOLOv8+C2f(Backbone)+BiFPN(C2f_PConv_EMA)
 （在这里分别用v1，v2，v3，v4，v5表示），以及原始的YOLOv8s算法下进行比较。
+在主干网络中采用C2f\_PConv_EMA和在头部网络采用BiFPN同时采用C2f\_PConv_EMA，用V1表示；
+在主干网络中采用C2f\_PConv_EMA和在头部网络采用PANet不采用C2f\_PConv_EMA，用V2表示；
+在主干网络中采用C2f\_PConv_EMA和在头部网络采用BiFPN不采用C2f\_PConv_EMA，用V3表示；
+在主干网络中采用C2f\_PConv_EMA和在头部网络采用PANet同时采用C2f\_PConv_EMA，用V4表示；
+在主干网络中不采用C2f\_PConv_EMA和在头部网络采用BiFPN同时采用C2f\_PConv_EMA，用V5表示；
+
+
+
+YOLOv8+C2f\_PConv\_EMA(Backbone)+BiFPN(C2f\_PConv\_EMA),
+YOLOv8+C2f\_PConv\_EMA(Backbone)+PANet(C2f),YOLOv8+C2f\_PConv\_EMA(Backbone)+BiFPN(C2f),YOLOv8+C2f\_PConv\_EMA(Backbone)+PANet(C2f\_PConv\_EMA), and YOLOv8+C2f(Backbone)+BiFPN(C2f\_PConv\_EMA) (denoted as v1, v2, v3, v4, and v5, respectively).
 
 
 即YOLOv8 + MobileViTv3 + Wise-IoU、YOLOv8 + MobileViTv3、YOLOv8 + Wise-IoU以及原始YOLOv8算法进行了比较。表3和表4分别显示了VisDrone2019和DOTA验证集上的消融实验结果。表3显示，改进后的YOLOv8算法在VisDrone2019验证集上的各项指标上均取得了最佳性能，mAP为34.2%，查准率为45.1%，查全率为33.7%。这表明改进的YOLOv8算法可以使用视觉变压器MobileViTv3有效提取更丰富、更强大的特征表示，并使用Wise-IoU损失函数优化边界框回归，从而提高小目标检测精度。同样，表4显示，改进后的YOLOv8算法在DOTA验证集上的所有指标上也优于所有其他三个组成模块，mAP为71.3%，查准率为87.1%，查全率为67.1%。这表明改进的YOLOv8算法能够有效适应遥感图像中小目标的多样性和变异性，具有较高的方向性不变性和多尺度适应性。
