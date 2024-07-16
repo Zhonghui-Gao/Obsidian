@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Research/07 AI/yolov5.md",
+                "file": "03 Expertise/02 armbian/操作/rk3568 网络搭建.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Research/07 AI/yolov5.md",
+                "file": "03 Expertise/02 armbian/操作/rk3568 网络搭建.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Research/07 AI/yolov5.md",
+                "file": "03 Expertise/02 armbian/操作/rk3568 网络搭建.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Research/07 AI/yolov5.md"
+                "file": "03 Expertise/02 armbian/操作/rk3568 网络搭建.md"
               }
             }
           },
@@ -196,10 +196,19 @@
   },
   "active": "99a53c583686fdbc",
   "lastOpenFiles": [
+    "03 Expertise/02 armbian/任务/01 系统启动.md",
+    "03 Expertise/02 armbian/任务/02 uboot与内核之间的关系.md",
+    "03 Expertise/02 armbian/任务/03 自定义uboot及内核的流程.md",
+    "03 Expertise/02 armbian/任务/04 uefi和grub启动器的工作原理.md",
+    "03 Expertise/02 armbian/任务/05 交叉编译文件系统及docker.md",
+    "03 Expertise/02 armbian/任务/06 内核修改.md",
+    "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md",
+    "03 Expertise/02 armbian/操作/rk3568 网络搭建.md",
+    "03 Expertise/02 armbian/操作/编译问题.md",
+    "02 Research/07 AI/yolov5.md",
     "02 Research/07 AI/yolov8.md",
     "02 Research/07 AI/paper/中文.md",
     "02 Research/07 AI/paper/CCF.md",
-    "02 Research/07 AI/yolov5.md",
     "03 Expertise/03 linux/linux 美化.md",
     "03 Expertise/Learning Plan.md",
     "03 Expertise/05 ESP8266/README.md",
@@ -207,18 +216,12 @@
     "03 Expertise/04 RMGateway/Readme.md",
     "03 Expertise/04 RMGateway/bacnum.h.md",
     "03 Expertise/04 RMGateway/任务.md",
-    "03 Expertise/02 armbian/操作/rk3568 网络搭建.md",
     "03 Expertise/02 armbian/操作/kernel 6.4.16.md",
     "03 Expertise/02 armbian/操作/烧录+linux环境.md",
-    "03 Expertise/02 armbian/操作/编译问题.md",
     "02 Research/01 paper/通信协议.md",
     "02 Research/01 paper/RISC-V && RUST.md",
     "02 Research/01 paper/idea.md",
     "02 Research/01 paper/物联网安全.md",
-    "01 Homepage/Weekly notes.md",
-    "02 Research/07 AI/yolov8 修改/超参数设置.md",
-    "02 Research/07 AI/yolov8 修改/PConv_Detect.md",
-    "02 Research/07 AI/newwork.md",
     "04 Image/esp32/Pasted image 20240621122243.png",
     "04 Image/esp32/Pasted image 20240621103933.png",
     "04 Image/yolo/Pasted image 20240617202041.png",
@@ -231,9 +234,6 @@
     "04 Image/继电器.png",
     "04 Image/esp32",
     "04 Image/yolo",
-    "04 Image/未命名.md",
-    "01 Homepage/Homepage.md",
-    "02 Research/07 AI/yolov8 修改/Shape-IOU.md",
     "02 Research/07 AI/paper",
     "02 Research/07 AI/yolov8 修改",
     "02 Research/07 AI",
