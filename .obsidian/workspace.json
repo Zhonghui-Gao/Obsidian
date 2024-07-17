@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Expertise/02 armbian/操作/rk3568 网络搭建.md",
+                "file": "03 Expertise/03 linux/linux 美化.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Expertise/02 armbian/操作/rk3568 网络搭建.md",
+                "file": "03 Expertise/03 linux/linux 美化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Expertise/02 armbian/操作/rk3568 网络搭建.md",
+                "file": "03 Expertise/03 linux/linux 美化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Expertise/02 armbian/操作/rk3568 网络搭建.md"
+                "file": "03 Expertise/03 linux/linux 美化.md"
               }
             }
           },
@@ -196,6 +196,7 @@
   },
   "active": "99a53c583686fdbc",
   "lastOpenFiles": [
+    "03 Expertise/02 armbian/操作/rk3568 网络搭建.md",
     "03 Expertise/02 armbian/任务/01 系统启动.md",
     "03 Expertise/02 armbian/任务/02 uboot与内核之间的关系.md",
     "03 Expertise/02 armbian/任务/03 自定义uboot及内核的流程.md",
@@ -203,7 +204,6 @@
     "03 Expertise/02 armbian/任务/05 交叉编译文件系统及docker.md",
     "03 Expertise/02 armbian/任务/06 内核修改.md",
     "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md",
-    "03 Expertise/02 armbian/操作/rk3568 网络搭建.md",
     "03 Expertise/02 armbian/操作/编译问题.md",
     "02 Research/07 AI/yolov5.md",
     "02 Research/07 AI/yolov8.md",
