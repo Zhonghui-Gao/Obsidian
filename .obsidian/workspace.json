@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Expertise/03 linux/linux 美化.md",
+                "file": "02 Research/07 AI/newwork.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Expertise/03 linux/linux 美化.md",
+                "file": "02 Research/07 AI/newwork.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Expertise/03 linux/linux 美化.md",
+                "file": "02 Research/07 AI/newwork.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Expertise/03 linux/linux 美化.md"
+                "file": "02 Research/07 AI/newwork.md"
               }
             }
           },
@@ -196,6 +196,8 @@
   },
   "active": "99a53c583686fdbc",
   "lastOpenFiles": [
+    "02 Research/07 AI/yolov8.md",
+    "03 Expertise/03 linux/linux 美化.md",
     "03 Expertise/02 armbian/操作/rk3568 网络搭建.md",
     "03 Expertise/02 armbian/任务/01 系统启动.md",
     "03 Expertise/02 armbian/任务/02 uboot与内核之间的关系.md",
@@ -206,10 +208,8 @@
     "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md",
     "03 Expertise/02 armbian/操作/编译问题.md",
     "02 Research/07 AI/yolov5.md",
-    "02 Research/07 AI/yolov8.md",
     "02 Research/07 AI/paper/中文.md",
     "02 Research/07 AI/paper/CCF.md",
-    "03 Expertise/03 linux/linux 美化.md",
     "03 Expertise/Learning Plan.md",
     "03 Expertise/05 ESP8266/README.md",
     "03 Expertise/05 ESP8266/环境配置.md",
