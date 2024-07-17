@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Research/07 AI/newwork.md",
+                "file": "02 Research/07 AI/yolov8.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Research/07 AI/newwork.md",
+                "file": "02 Research/07 AI/yolov8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Research/07 AI/newwork.md",
+                "file": "02 Research/07 AI/yolov8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Research/07 AI/newwork.md"
+                "file": "02 Research/07 AI/yolov8.md"
               }
             }
           },
@@ -196,6 +196,7 @@
   },
   "active": "99a53c583686fdbc",
   "lastOpenFiles": [
+    "02 Research/07 AI/newwork.md",
     "02 Research/07 AI/yolov8.md",
     "03 Expertise/03 linux/linux 美化.md",
     "03 Expertise/02 armbian/操作/rk3568 网络搭建.md",
@@ -221,7 +222,6 @@
     "02 Research/01 paper/通信协议.md",
     "02 Research/01 paper/RISC-V && RUST.md",
     "02 Research/01 paper/idea.md",
-    "02 Research/01 paper/物联网安全.md",
     "04 Image/esp32/Pasted image 20240621122243.png",
     "04 Image/esp32/Pasted image 20240621103933.png",
     "04 Image/yolo/Pasted image 20240617202041.png",
