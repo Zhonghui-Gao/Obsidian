@@ -25,11 +25,9 @@
             "id": "99a53c583686fdbc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "02 Research/07 AI/yolov8.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2024-07-20 11.23.01.excalidraw.md"
               }
             }
           }
@@ -108,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Research/07 AI/yolov8.md",
+                "file": "Excalidraw/Drawing 2024-07-20 11.23.01.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Research/07 AI/yolov8.md",
+                "file": "Excalidraw/Drawing 2024-07-20 11.23.01.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Research/07 AI/yolov8.md"
+                "file": "Excalidraw/Drawing 2024-07-20 11.23.01.excalidraw.md"
               }
             }
           },
@@ -196,8 +194,10 @@
   },
   "active": "99a53c583686fdbc",
   "lastOpenFiles": [
-    "02 Research/07 AI/newwork.md",
     "02 Research/07 AI/yolov8.md",
+    "Excalidraw/Drawing 2024-07-20 11.23.01.excalidraw.md",
+    "未命名.md",
+    "02 Research/07 AI/newwork.md",
     "03 Expertise/03 linux/linux 美化.md",
     "03 Expertise/02 armbian/操作/rk3568 网络搭建.md",
     "03 Expertise/02 armbian/任务/01 系统启动.md",
@@ -220,8 +220,6 @@
     "03 Expertise/02 armbian/操作/kernel 6.4.16.md",
     "03 Expertise/02 armbian/操作/烧录+linux环境.md",
     "02 Research/01 paper/通信协议.md",
-    "02 Research/01 paper/RISC-V && RUST.md",
-    "02 Research/01 paper/idea.md",
     "04 Image/esp32/Pasted image 20240621122243.png",
     "04 Image/esp32/Pasted image 20240621103933.png",
     "04 Image/yolo/Pasted image 20240617202041.png",
