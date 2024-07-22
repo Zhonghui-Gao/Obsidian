@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "44f589e5ab30b889",
+            "id": "99a53c583686fdbc",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -20,19 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "99a53c583686fdbc",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-07-20 11.23.01.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-20 11.23.01.excalidraw.md",
+                "file": "01 Homepage/Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-20 11.23.01.excalidraw.md",
+                "file": "01 Homepage/Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-20 11.23.01.excalidraw.md"
+                "file": "01 Homepage/Homepage.md"
               }
             }
           },
@@ -194,8 +183,10 @@
   },
   "active": "99a53c583686fdbc",
   "lastOpenFiles": [
-    "02 Research/07 AI/yolov8.md",
+    "01 Homepage/Linux.md",
+    "01 Homepage/Homepage.md",
     "Excalidraw/Drawing 2024-07-20 11.23.01.excalidraw.md",
+    "02 Research/07 AI/yolov8.md",
     "未命名.md",
     "02 Research/07 AI/newwork.md",
     "03 Expertise/03 linux/linux 美化.md",
@@ -218,8 +209,6 @@
     "03 Expertise/04 RMGateway/bacnum.h.md",
     "03 Expertise/04 RMGateway/任务.md",
     "03 Expertise/02 armbian/操作/kernel 6.4.16.md",
-    "03 Expertise/02 armbian/操作/烧录+linux环境.md",
-    "02 Research/01 paper/通信协议.md",
     "04 Image/esp32/Pasted image 20240621122243.png",
     "04 Image/esp32/Pasted image 20240621103933.png",
     "04 Image/yolo/Pasted image 20240617202041.png",
