@@ -27,7 +27,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/软件功能图.md"
+                "file": "Excalidraw/Drawing 2024-07-20 11.23.01.excalidraw.md"
               }
             }
           }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/软件功能图.md",
+                "file": "Excalidraw/Drawing 2024-07-20 11.23.01.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/软件功能图.md",
+                "file": "Excalidraw/Drawing 2024-07-20 11.23.01.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/软件功能图.md"
+                "file": "Excalidraw/Drawing 2024-07-20 11.23.01.excalidraw.md"
               }
             }
           },
@@ -194,24 +194,24 @@
   },
   "active": "f533d2d7114d495d",
   "lastOpenFiles": [
-    "Excalidraw/软件功能图.svg",
-    "Excalidraw/esp32介绍.md",
-    "Excalidraw/esp32 module.md",
-    "Excalidraw/esp32接线电路图.md",
-    "Excalidraw/esp32接线电路图.png",
-    "Excalidraw/软件功能图.md",
-    "Excalidraw/esp32接线电路图.svg",
-    "Excalidraw/Pasted image 20240524110313.png",
-    "Excalidraw/Drawing 2024-07-20 11.23.01.excalidraw.md",
+    "Excalidraw/Drawing 2024-07-20 11.23.01.excalidraw.svg",
+    "Excalidraw/esp32.svg",
+    "Excalidraw/Drawing 2024-01-25 18.26.36.excalidraw.md",
     "Excalidraw/Drawing 2024-02-27 13.45.38.excalidraw.png",
     "Excalidraw/Drawing 2024-02-27 13.45.38.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-25 18.26.36.excalidraw.md",
-    "04 Image/yolo/1719450174370.jpg",
-    "04 Image/yolo/1718415831809.png",
-    "04 Image/RS232.jpg",
-    "04 Image/RMG2.jpg",
-    "04 Image/qtmqtt.png",
-    "04 Image/esp32/Pasted image 20240628090500.png",
+    "Excalidraw/Drawing 2024-07-20 11.23.01.excalidraw.md",
+    "Excalidraw/软件功能图.svg",
+    "Excalidraw/esp32 module.md",
+    "Excalidraw/esp32接线电路图.md",
+    "Excalidraw/esp32介绍.md",
+    "Excalidraw/Pasted image 20240527083636.png",
+    "Excalidraw/Pasted image 20240526151250.png",
+    "Excalidraw/Pasted image 20240526090053.png",
+    "Excalidraw/Pasted image 20240526084510.png",
+    "Excalidraw/Pasted image 20240524110313.png",
+    "Excalidraw/esp32接线电路图.svg",
+    "Excalidraw/esp32接线电路图.png",
+    "Excalidraw/软件功能图.md",
     "03 Expertise/Learning Plan.md",
     "03 Expertise/05 ESP8266/README.md",
     "03 Expertise/05 ESP8266/环境配置.md",
