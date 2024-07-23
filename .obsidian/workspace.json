@@ -25,9 +25,11 @@
             "id": "f533d2d7114d495d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-20 11.23.01.excalidraw.md"
+                "file": "03 Expertise/05 ESP8266/环境配置.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -106,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-20 11.23.01.excalidraw.md",
+                "file": "03 Expertise/05 ESP8266/环境配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-20 11.23.01.excalidraw.md",
+                "file": "03 Expertise/05 ESP8266/环境配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-20 11.23.01.excalidraw.md"
+                "file": "03 Expertise/05 ESP8266/环境配置.md"
               }
             }
           },
@@ -194,12 +196,12 @@
   },
   "active": "f533d2d7114d495d",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-07-20 11.23.01.excalidraw.md",
     "Excalidraw/Drawing 2024-07-20 11.23.01.excalidraw.svg",
     "Excalidraw/esp32.svg",
     "Excalidraw/Drawing 2024-01-25 18.26.36.excalidraw.md",
     "Excalidraw/Drawing 2024-02-27 13.45.38.excalidraw.png",
     "Excalidraw/Drawing 2024-02-27 13.45.38.excalidraw.md",
-    "Excalidraw/Drawing 2024-07-20 11.23.01.excalidraw.md",
     "Excalidraw/软件功能图.svg",
     "Excalidraw/esp32 module.md",
     "Excalidraw/esp32接线电路图.md",
@@ -210,7 +212,6 @@
     "Excalidraw/Pasted image 20240526084510.png",
     "Excalidraw/Pasted image 20240524110313.png",
     "Excalidraw/esp32接线电路图.svg",
-    "Excalidraw/esp32接线电路图.png",
     "Excalidraw/软件功能图.md",
     "03 Expertise/Learning Plan.md",
     "03 Expertise/05 ESP8266/README.md",
