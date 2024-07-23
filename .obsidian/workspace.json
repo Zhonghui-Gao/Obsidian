@@ -25,9 +25,9 @@
             "id": "f533d2d7114d495d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/esp32接线电路图.svg"
+                "file": "Excalidraw/软件功能图.md"
               }
             }
           }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/esp32接线电路图.svg",
+                "file": "Excalidraw/软件功能图.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/esp32接线电路图.svg",
+                "file": "Excalidraw/软件功能图.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/esp32接线电路图.svg"
+                "file": "Excalidraw/软件功能图.md"
               }
             }
           },
@@ -194,11 +194,13 @@
   },
   "active": "f533d2d7114d495d",
   "lastOpenFiles": [
-    "Excalidraw/esp32接线电路图.md",
-    "Excalidraw/esp32接线电路图.svg",
-    "Excalidraw/esp32接线电路图.png",
-    "Excalidraw/esp32 module.md",
+    "Excalidraw/软件功能图.svg",
     "Excalidraw/esp32介绍.md",
+    "Excalidraw/esp32 module.md",
+    "Excalidraw/esp32接线电路图.md",
+    "Excalidraw/esp32接线电路图.png",
+    "Excalidraw/软件功能图.md",
+    "Excalidraw/esp32接线电路图.svg",
     "Excalidraw/Pasted image 20240524110313.png",
     "Excalidraw/Drawing 2024-07-20 11.23.01.excalidraw.md",
     "Excalidraw/Drawing 2024-02-27 13.45.38.excalidraw.png",
@@ -228,7 +230,6 @@
     "03 Expertise/02 armbian/任务/05 交叉编译文件系统及docker.md",
     "03 Expertise/02 armbian/任务/06 内核修改.md",
     "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md",
-    "03 Expertise/02 armbian/操作/编译问题.md",
     "04 Image/esp32",
     "04 Image/yolo",
     "02 Research/07 AI/paper",
