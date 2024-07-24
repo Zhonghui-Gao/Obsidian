@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Expertise/05 ESP8266/环境配置.md",
+                "file": "02 Research/07 AI/yolov8.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Expertise/05 ESP8266/环境配置.md",
+                "file": "02 Research/07 AI/yolov8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Expertise/05 ESP8266/环境配置.md",
+                "file": "02 Research/07 AI/yolov8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Expertise/05 ESP8266/环境配置.md"
+                "file": "02 Research/07 AI/yolov8.md"
               }
             }
           },
@@ -196,6 +196,7 @@
   },
   "active": "f533d2d7114d495d",
   "lastOpenFiles": [
+    "03 Expertise/05 ESP8266/环境配置.md",
     "Excalidraw/Drawing 2024-07-20 11.23.01.excalidraw.md",
     "Excalidraw/Drawing 2024-07-20 11.23.01.excalidraw.svg",
     "Excalidraw/esp32.svg",
@@ -215,7 +216,6 @@
     "Excalidraw/软件功能图.md",
     "03 Expertise/Learning Plan.md",
     "03 Expertise/05 ESP8266/README.md",
-    "03 Expertise/05 ESP8266/环境配置.md",
     "03 Expertise/02 armbian/上手/uboot + kernel 启动动画.md",
     "01 Homepage/Homepage.md",
     "01 Homepage/Linux.md",
