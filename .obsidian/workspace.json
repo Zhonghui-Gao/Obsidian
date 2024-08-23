@@ -8,17 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4a4781ac6aca5f05",
+            "id": "8bec3003e81a52ca",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01 Homepage/Homepage.md",
+                "mode": "preview",
+                "source": false
+              },
               "pinned": true
             }
           },
           {
-            "id": "35d203b78fbb8028",
+            "id": "9c60603fa72fad8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -190,7 +194,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "35d203b78fbb8028",
+  "active": "9c60603fa72fad8d",
   "lastOpenFiles": [
     "01 Homepage/Homepage.md",
     "03 Expertise/06 QT/C++ & QT.md",
