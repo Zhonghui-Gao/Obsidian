@@ -6,9 +6,9 @@ banner_lock: "true"
 cssclasses: 
 obsidianUIMode: preview
 banner: "![[wallhaven-we1lrq.jpg]]"
-banner_icon: 🤗
+banner_icon: 😅
 ---
-
+😅
 ***
 
 # 🐾Navbar
