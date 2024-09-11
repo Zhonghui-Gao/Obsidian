@@ -93,7 +93,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.1.7",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.3.0",
     "libraryItems": [
       {
         "id": "ZLqfXVJ80-c_MtppJkV87",
@@ -307,6 +307,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "in",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -344,6 +345,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "out",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -381,6 +383,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "非门not",
+            "autoResize": true,
             "lineHeight": 1.25
           }
         ],
@@ -568,6 +571,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "out",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -605,6 +609,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "in",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -642,6 +647,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "缓冲器buf",
+            "autoResize": true,
             "lineHeight": 1.25
           }
         ],
@@ -1009,6 +1015,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "i1",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -1046,6 +1053,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "i2",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -1083,6 +1091,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "out",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -1120,6 +1129,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "或非门(nor)",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -1566,6 +1576,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "i1",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -1603,6 +1614,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "i2",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -1640,6 +1652,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "out",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -1677,6 +1690,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "或非门(nor)",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -2074,6 +2088,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "i1",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -2111,6 +2126,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "i2",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -2148,6 +2164,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "out",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -2185,6 +2202,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "或门(or)",
+            "autoResize": true,
             "lineHeight": 1.25
           }
         ],
@@ -2548,6 +2566,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "i1",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -2585,6 +2604,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "i2",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -2622,6 +2642,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "out",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -2659,6 +2680,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "与门(and)",
+            "autoResize": true,
             "lineHeight": 1.25
           }
         ],
@@ -2748,6 +2770,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "全加器\n(4位)\nfulladd4",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -2780,12 +2803,14 @@
             "startBinding": {
               "elementId": "s3wS4LAe",
               "focus": 0.36,
-              "gap": 10.660003662109375
+              "gap": 10.660003662109375,
+              "fixedPoint": null
             },
             "endBinding": {
               "elementId": "Hr3ypHoRwL3Fz7Vv6qqCk",
               "focus": 0.7419354838709677,
-              "gap": 1
+              "gap": 1,
+              "fixedPoint": null
             },
             "lastCommittedPoint": null,
             "startArrowhead": null,
@@ -2831,12 +2856,14 @@
             "startBinding": {
               "elementId": "TdFFHUX6",
               "focus": 0.11999999999999998,
-              "gap": 14.840011596679688
+              "gap": 14.840011596679688,
+              "fixedPoint": null
             },
             "endBinding": {
               "elementId": "Hr3ypHoRwL3Fz7Vv6qqCk",
               "focus": -0.03942652329749104,
-              "gap": 2
+              "gap": 2,
+              "fixedPoint": null
             },
             "lastCommittedPoint": null,
             "startArrowhead": null,
@@ -2882,7 +2909,8 @@
             "startBinding": {
               "elementId": "YfVgv86y",
               "focus": -0.52,
-              "gap": 4.72003173828125
+              "gap": 4.72003173828125,
+              "fixedPoint": null
             },
             "endBinding": null,
             "lastCommittedPoint": null,
@@ -2929,12 +2957,14 @@
             "startBinding": {
               "elementId": "Hr3ypHoRwL3Fz7Vv6qqCk",
               "focus": -0.3118279569892473,
-              "gap": 1
+              "gap": 1,
+              "fixedPoint": null
             },
             "endBinding": {
               "elementId": "CabiPqf2",
               "focus": -0.11999999999999998,
-              "gap": 15
+              "gap": 15,
+              "fixedPoint": null
             },
             "lastCommittedPoint": null,
             "startArrowhead": null,
@@ -2980,12 +3010,14 @@
             "startBinding": {
               "elementId": "Hr3ypHoRwL3Fz7Vv6qqCk",
               "focus": 0.3978494623655914,
-              "gap": 1
+              "gap": 1,
+              "fixedPoint": null
             },
             "endBinding": {
               "elementId": "yfZIqG0T",
               "focus": 0.12,
-              "gap": 11
+              "gap": 11,
+              "fixedPoint": null
             },
             "lastCommittedPoint": null,
             "startArrowhead": null,
@@ -3041,6 +3073,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "a",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -3083,6 +3116,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "b",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -3125,6 +3159,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "c_in\n",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -3167,6 +3202,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "sum",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -3209,6 +3245,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "c_out",
+            "autoResize": true,
             "lineHeight": 1.25
           }
         ],
@@ -4033,6 +4070,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "n1",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -4070,6 +4108,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "n1",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -4107,6 +4146,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Q",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -4144,6 +4184,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Qbar",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -4209,6 +4250,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Sbar",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -4289,6 +4331,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "(set)",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -4326,6 +4369,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Rbar",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -4406,6 +4450,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "(reset)",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -4443,6 +4488,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "SR锁存器",
+            "autoResize": true,
             "lineHeight": 1.25
           }
         ],
@@ -4806,6 +4852,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "b",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -4843,6 +4890,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "c",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -4880,6 +4928,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "a",
+            "autoResize": true,
             "lineHeight": 1.25
           }
         ],
@@ -5118,6 +5167,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "+",
+            "autoResize": true,
             "lineHeight": 1.25
           }
         ],
@@ -6501,6 +6551,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "+",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -6542,6 +6593,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "-",
+            "autoResize": true,
             "lineHeight": 1.25
           }
         ],
@@ -8276,6 +8328,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "+",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -8317,6 +8370,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "-",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -8782,6 +8836,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "-",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -8856,6 +8911,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "+",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -9472,6 +9528,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "V1           V2 ",
+            "autoResize": true,
             "lineHeight": 1.125
           }
         ],
@@ -9601,6 +9658,7 @@
             "verticalAlign": "middle",
             "containerId": "dpUQn7_eKg7gknNb9Lxpd",
             "originalText": "ABC\n\n\n\nDQ0",
+            "autoResize": true,
             "lineHeight": 1.125
           }
         ],
@@ -9734,6 +9792,7 @@
             "verticalAlign": "middle",
             "containerId": "gF9Yoi9mOkTV_QVel790S",
             "originalText": "DQ0\n\n\n\nABC",
+            "autoResize": true,
             "lineHeight": 1.125
           }
         ],
@@ -11240,6 +11299,7 @@
             "verticalAlign": "middle",
             "containerId": "bu3BaSPXZ43Aac3PoqGre",
             "originalText": "CB",
+            "autoResize": true,
             "lineHeight": 1.125
           }
         ],
@@ -12829,6 +12889,7 @@
             "verticalAlign": "middle",
             "containerId": "nk-wNA6IlQI4ejGMqrukk",
             "originalText": "Relay",
+            "autoResize": true,
             "lineHeight": 1.15
           },
           {
