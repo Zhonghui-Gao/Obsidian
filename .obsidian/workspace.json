@@ -8,23 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9e74067341b1d9ea",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "empty",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
             "id": "ae6f3d3021728936",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01 Homepage/Homepage.md",
+                "mode": "preview",
+                "source": false
+              },
               "pinned": true
+            }
+          },
+          {
+            "id": "93755b45f42bc292",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Research/07 AI/paper/中文.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -102,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Homepage/Homepage.md",
+                "file": "02 Research/07 AI/paper/中文.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Homepage/Homepage.md",
+                "file": "02 Research/07 AI/paper/中文.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Homepage/Homepage.md"
+                "file": "02 Research/07 AI/paper/中文.md"
               }
             }
           },
@@ -188,8 +194,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ae6f3d3021728936",
+  "active": "93755b45f42bc292",
   "lastOpenFiles": [
+    "02 Research/07 AI/yolov8.md",
+    "01 Homepage/Homepage.md",
     "Excalidraw/esp32接线电路图.svg",
     "Excalidraw/esp32接线电路图.png",
     "Excalidraw/esp32接线电路图.md",
@@ -205,14 +213,12 @@
     "Excalidraw/Pasted image 20240524110313.png",
     "Excalidraw/Pasted image 20240526090053.png",
     "Excalidraw/yolov8net.png",
-    "Excalidraw/esp32.svg",
     "Excalidraw/esp32介绍.md",
     "Excalidraw/Drawing 2024-09-11 18.49.19.excalidraw.md",
     "Excalidraw/Drawing 2024-09-11 18.49.24.excalidraw.md",
     "Excalidraw/esp32 module.md",
     "Excalidraw/软件功能图.md",
     "03 Expertise/plan.md",
-    "01 Homepage/Homepage.md",
     "02 Research/07 AI/paper/CCF.md",
     "02 Research/07 AI/paper/中文.md",
     "02 Research/07 AI/yolov5.md",
@@ -221,7 +227,6 @@
     "03 Expertise/未命名.md",
     "03 Expertise/06 QT",
     "未命名.md",
-    "02 Research/07 AI/yolov8.md",
     "03 Expertise/05 ESP8266/环境配置.md",
     "03 Expertise/05 ESP8266/README.md",
     "03 Expertise/02 armbian/上手/uboot + kernel 启动动画.md",
