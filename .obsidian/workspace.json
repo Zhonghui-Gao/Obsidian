@@ -12,12 +12,8 @@
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Homepage/Homepage.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "pinned": true
             }
           },
@@ -196,6 +192,9 @@
   },
   "active": "da93d8e2cfaf87f8",
   "lastOpenFiles": [
+    "Pasted image 20240918112452.png",
+    "Pasted image 20240918111722.png",
+    "Pasted image 20240918111707.png",
     "04 Image/Pasted Image 20240911185858_313.png",
     "02 Research/07 AI/投稿.md",
     "04 Image/Pasted image 20240903185331.png",
@@ -214,8 +213,6 @@
     "Excalidraw/Drawing 2024-02-27 13.45.38.excalidraw.png",
     "Excalidraw/Drawing 2024-02-27 13.45.38.excalidraw.md",
     "04 Image/Pasted image 20240902112516.png",
-    "Excalidraw/软件功能图.svg",
-    "Excalidraw/Pasted image 20240524110313.png",
     "Excalidraw/esp32介绍.md",
     "Excalidraw/Drawing 2024-09-11 18.49.19.excalidraw.md",
     "Excalidraw/Drawing 2024-09-11 18.49.24.excalidraw.md",
