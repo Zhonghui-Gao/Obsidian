@@ -8,22 +8,26 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ae6f3d3021728936",
+            "id": "81e398ae504c42fe",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01 Homepage/Homepage.md",
+                "mode": "preview",
+                "source": false
+              },
               "pinned": true
             }
           },
           {
-            "id": "93755b45f42bc292",
+            "id": "da93d8e2cfaf87f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Research/07 AI/paper/中文.md",
+                "file": "02 Research/07 AI/投稿.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Research/07 AI/paper/中文.md",
+                "file": "02 Research/07 AI/投稿.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Research/07 AI/paper/中文.md",
+                "file": "02 Research/07 AI/投稿.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Research/07 AI/paper/中文.md"
+                "file": "02 Research/07 AI/投稿.md"
               }
             }
           },
@@ -190,12 +194,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "93755b45f42bc292",
+  "active": "da93d8e2cfaf87f8",
   "lastOpenFiles": [
-    "02 Research/07 AI/paper/CCF.md",
-    "02 Research/07 AI/paper/中文.md",
-    "02 Research/07 AI/yolov8.md",
+    "04 Image/Pasted Image 20240911185858_313.png",
+    "02 Research/07 AI/投稿.md",
+    "04 Image/Pasted image 20240903185331.png",
+    "04 Image/Pasted image 20240902114215.png",
+    "04 Image/Pasted image 20240902112438.png",
     "01 Homepage/Homepage.md",
+    "02 Research/07 AI/paper/中文.md",
+    "02 Research/07 AI/paper/CCF.md",
+    "02 Research/07 AI/yolov8.md",
     "Excalidraw/esp32接线电路图.svg",
     "Excalidraw/esp32接线电路图.png",
     "Excalidraw/esp32接线电路图.md",
@@ -204,13 +213,9 @@
     "Excalidraw/Drawing 2024-01-25 18.26.36.excalidraw.md",
     "Excalidraw/Drawing 2024-02-27 13.45.38.excalidraw.png",
     "Excalidraw/Drawing 2024-02-27 13.45.38.excalidraw.md",
-    "Pasted image 20240902112516.png",
-    "Pasted image 20240902112438.png",
-    "Pasted Image 20240911185858_313.png",
+    "04 Image/Pasted image 20240902112516.png",
     "Excalidraw/软件功能图.svg",
     "Excalidraw/Pasted image 20240524110313.png",
-    "Excalidraw/Pasted image 20240526090053.png",
-    "Excalidraw/yolov8net.png",
     "Excalidraw/esp32介绍.md",
     "Excalidraw/Drawing 2024-09-11 18.49.19.excalidraw.md",
     "Excalidraw/Drawing 2024-09-11 18.49.24.excalidraw.md",
@@ -227,7 +232,6 @@
     "03 Expertise/05 ESP8266/README.md",
     "03 Expertise/02 armbian/上手/uboot + kernel 启动动画.md",
     "01 Homepage/Linux.md",
-    "02 Research/07 AI/newwork.md",
     "04 Image/esp32",
     "04 Image/yolo",
     "02 Research/07 AI/paper",
