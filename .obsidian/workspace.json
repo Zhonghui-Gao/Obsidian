@@ -8,24 +8,26 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dd7af1e5f6f13f92",
+            "id": "ef58cb752b0cc8f5",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01 Homepage/Homepage.md",
+                "mode": "preview",
+                "source": false
+              },
               "pinned": true
             }
           },
           {
-            "id": "68e0e16ed7609fdc",
+            "id": "31731406550c3554",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "03 Expertise/plan.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2024-09-29 14.53.57.excalidraw.md"
               }
             }
           }
@@ -104,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Expertise/plan.md",
+                "file": "Excalidraw/Drawing 2024-09-29 14.53.57.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Expertise/plan.md",
+                "file": "Excalidraw/Drawing 2024-09-29 14.53.57.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Expertise/plan.md"
+                "file": "Excalidraw/Drawing 2024-09-29 14.53.57.excalidraw.md"
               }
             }
           },
@@ -191,9 +193,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "68e0e16ed7609fdc",
+  "active": "31731406550c3554",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-09-29 14.50.55.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-29 14.53.57.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-11 18.42.30.excalidraw.md",
     "01 Homepage/Homepage.md",
+    "Pasted image 20240918112452.png",
+    "Pasted image 20240918111707.png",
+    "Pasted image 20240918111722.png",
+    "03 Expertise/plan.md",
     "02 Research/07 AI/paper/CCF.md",
     "02 Research/07 AI/paper/中文.md",
     "02 Research/07 AI/yolov8.md",
@@ -206,10 +215,8 @@
     "03 Expertise/06 QT/C++ & QT.md",
     "05 Template/数学公式参考补充ing.md",
     "05 Template/Markdown语法.md",
-    "03 Expertise/plan.md",
     "03 Expertise/Learning Plan.md",
     "02 Research/07 AI/newwork.md",
-    "Excalidraw/Drawing 2024-09-11 18.42.30.excalidraw.md",
     "Excalidraw/Drawing 2024-07-20 11.23.01.excalidraw.md",
     "Excalidraw/Drawing 2024-02-27 13.45.38.excalidraw.md",
     "Excalidraw/Drawing 2024-01-25 18.26.36.excalidraw.md",
@@ -221,14 +228,9 @@
     "Excalidraw/Pasted image 20240526084510.png",
     "Excalidraw/Pasted image 20240524110313.png",
     "Excalidraw/esp32.svg",
-    "Excalidraw/软件功能图.md",
     "Excalidraw/Pasted image 20240526151250.png",
     "Excalidraw/Pasted image 20240526090053.png",
     "04 Image/Pasted Image 20240911185858_313.png",
-    "04 Image/yolo/Pasted image 20240618222943.png",
-    "04 Image/yolo/Pasted image 20240619093508.png",
-    "04 Image/yolo/Pasted image 20240619140509.png",
-    "Excalidraw/Drawing 2024-09-11 18.49.19.excalidraw.md",
     "03 Expertise/06 QT",
     "04 Image/esp32",
     "04 Image/yolo",
