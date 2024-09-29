@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-29 14.53.57.excalidraw.md",
+                "file": "01 Homepage/Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-29 14.53.57.excalidraw.md",
+                "file": "01 Homepage/Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-29 14.53.57.excalidraw.md"
+                "file": "01 Homepage/Homepage.md"
               }
             }
           },
@@ -193,10 +192,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "31731406550c3554",
+  "active": "ef58cb752b0cc8f5",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-09-29 14.50.55.excalidraw.md",
     "Excalidraw/Drawing 2024-09-29 14.53.57.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-29 14.50.55.excalidraw.md",
     "Excalidraw/Drawing 2024-09-11 18.42.30.excalidraw.md",
     "01 Homepage/Homepage.md",
     "Pasted image 20240918112452.png",
