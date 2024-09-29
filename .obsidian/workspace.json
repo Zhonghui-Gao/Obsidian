@@ -30,8 +30,19 @@
                 "file": "Excalidraw/paper.md"
               }
             }
+          },
+          {
+            "id": "978b764410e4ac25",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/paper.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Homepage/Homepage.md",
+                "file": "Excalidraw/paper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Homepage/Homepage.md",
+                "file": "Excalidraw/paper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Homepage/Homepage.md"
+                "file": "Excalidraw/paper.md"
               }
             }
           },
@@ -192,10 +203,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ef58cb752b0cc8f5",
+  "active": "978b764410e4ac25",
   "lastOpenFiles": [
-    "Excalidraw/paper.md",
     "01 Homepage/Homepage.md",
+    "Excalidraw/paper.md",
     "Excalidraw/Drawing 2024-09-29 14.50.55.excalidraw.md",
     "Excalidraw/Drawing 2024-09-11 18.42.30.excalidraw.md",
     "Pasted image 20240918112452.png",
