@@ -22,12 +22,14 @@
             }
           },
           {
-            "id": "d50513029d729c19",
+            "id": "79ebd0dd1e5b8f67",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-13 14.56.38.excalidraw.md"
+                "file": "02 Research/07 AI/paper/开题调研报告.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -106,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-13 14.56.38.excalidraw.md",
+                "file": "02 Research/07 AI/paper/开题调研报告.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-13 14.56.38.excalidraw.md",
+                "file": "02 Research/07 AI/paper/开题调研报告.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-13 14.56.38.excalidraw.md"
+                "file": "02 Research/07 AI/paper/开题调研报告.md"
               }
             }
           },
@@ -193,10 +195,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d50513029d729c19",
+  "active": "79ebd0dd1e5b8f67",
   "lastOpenFiles": [
+    "Pasted image 20241013153426.png",
+    "Pasted image 20241013153230.png",
+    "Excalidraw/Taxonomy of Smart Classroom Literature.md",
     "02 Research/07 AI/paper/开题调研报告.md",
-    "Excalidraw/Drawing 2024-10-13 14.56.38.excalidraw.md",
+    "Pasted image 20241013151617.png",
     "01 Homepage/Homepage.md",
     "03 Expertise/05 ESP8266/README.md",
     "03 Expertise/06 QT/C++ & QT.md",
@@ -223,14 +228,11 @@
     "05 Template/Markdown语法.md",
     "02 Research/07 AI/newwork.md",
     "Excalidraw/Drawing 2024-07-20 11.23.01.excalidraw.md",
-    "Excalidraw/Drawing 2024-02-27 13.45.38.excalidraw.md",
     "Excalidraw/esp32接线电路图.png",
     "Excalidraw/Pasted image 20240526084510.png",
     "Excalidraw/Pasted image 20240524110313.png",
     "Excalidraw/esp32.svg",
     "Excalidraw/Pasted image 20240526151250.png",
-    "Excalidraw/Pasted image 20240526090053.png",
-    "04 Image/Pasted Image 20240911185858_313.png",
     "03 Expertise/06 QT",
     "04 Image/esp32",
     "04 Image/yolo",
