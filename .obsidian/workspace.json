@@ -8,37 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ef58cb752b0cc8f5",
+            "id": "978b764410e4ac25",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01 Homepage/Homepage.md",
+                "mode": "preview",
+                "source": false
+              },
               "pinned": true
             }
           },
           {
-            "id": "31731406550c3554",
+            "id": "d50513029d729c19",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/paper.md"
-              }
-            }
-          },
-          {
-            "id": "978b764410e4ac25",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/paper.md"
+                "file": "Excalidraw/Drawing 2024-10-13 14.56.38.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/paper.md",
+                "file": "Excalidraw/Drawing 2024-10-13 14.56.38.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/paper.md",
+                "file": "Excalidraw/Drawing 2024-10-13 14.56.38.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/paper.md"
+                "file": "Excalidraw/Drawing 2024-10-13 14.56.38.excalidraw.md"
               }
             }
           },
@@ -199,38 +193,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "978b764410e4ac25",
+  "active": "d50513029d729c19",
   "lastOpenFiles": [
+    "02 Research/07 AI/paper/开题调研报告.md",
+    "Excalidraw/Drawing 2024-10-13 14.56.38.excalidraw.md",
     "01 Homepage/Homepage.md",
+    "03 Expertise/05 ESP8266/README.md",
+    "03 Expertise/06 QT/C++ & QT.md",
+    "03 Expertise/Learning Plan.md",
+    "03 Expertise/plan.md",
+    "02 Research/07 AI/yolov8.md",
+    "02 Research/07 AI/yolov5.md",
+    "02 Research/07 AI/yolov8 修改/WIoU.md",
+    "02 Research/07 AI/yolov8 修改/超参数设置.md",
+    "02 Research/07 AI/paper/CCF.md",
+    "02 Research/07 AI/paper/中文.md",
     "Excalidraw/paper.md",
     "Excalidraw/Drawing 2024-09-29 14.50.55.excalidraw.md",
     "Excalidraw/Drawing 2024-09-11 18.42.30.excalidraw.md",
     "Pasted image 20240918112452.png",
     "Pasted image 20240918111707.png",
     "Pasted image 20240918111722.png",
-    "03 Expertise/plan.md",
-    "02 Research/07 AI/paper/CCF.md",
-    "02 Research/07 AI/paper/中文.md",
-    "02 Research/07 AI/yolov8.md",
     "02 Research/07 AI/投稿.md",
-    "02 Research/07 AI/yolov5.md",
     "03 Expertise/04 RMGateway/Readme.md",
     "03 Expertise/04 RMGateway/bacnum.h.md",
     "03 Expertise/04 RMGateway/任务.md",
     "03 Expertise/05 ESP8266/环境配置.md",
-    "03 Expertise/06 QT/C++ & QT.md",
     "05 Template/数学公式参考补充ing.md",
     "05 Template/Markdown语法.md",
-    "03 Expertise/Learning Plan.md",
     "02 Research/07 AI/newwork.md",
     "Excalidraw/Drawing 2024-07-20 11.23.01.excalidraw.md",
     "Excalidraw/Drawing 2024-02-27 13.45.38.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-25 18.26.36.excalidraw.md",
-    "05 Template/实验记录模板.md",
-    "Excalidraw/esp32介绍.md",
     "Excalidraw/esp32接线电路图.png",
-    "Excalidraw/esp32接线电路图.md",
-    "Excalidraw/esp32 module.md",
     "Excalidraw/Pasted image 20240526084510.png",
     "Excalidraw/Pasted image 20240524110313.png",
     "Excalidraw/esp32.svg",
