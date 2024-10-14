@@ -10,15 +10,13 @@
           {
             "id": "978b764410e4ac25",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "01 Homepage/Homepage.md",
                 "mode": "preview",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           },
           {
@@ -197,8 +195,9 @@
   },
   "active": "79ebd0dd1e5b8f67",
   "lastOpenFiles": [
-    "02 Research/07 AI/paper/中文.md",
+    "03 Expertise/03 linux/linux 美化.md",
     "02 Research/07 AI/paper/开题调研报告.md",
+    "02 Research/07 AI/paper/中文.md",
     "Excalidraw/Taxonomy of Smart Classroom Literature.md",
     "Pasted image 20241013153230.png",
     "Pasted image 20241013153426.png",
