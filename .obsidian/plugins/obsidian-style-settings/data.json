@@ -46,8 +46,8 @@
   "blue-topaz-theme@@dark-background-file": true,
   "blue-topaz-theme@@text-folder-file-icon@@dark": "#1A0957",
   "blue-topaz-theme@@folder-icons": true,
-  "blue-topaz-theme@@remove-first-folder-icon": false,
-  "blue-topaz-theme@@remove-arrow": true,
+  "blue-topaz-theme@@remove-first-folder-icon": true,
+  "blue-topaz-theme@@remove-arrow": false,
   "blue-topaz-theme@@bt-toggle-colorful-folder": true,
   "Blue-Topaz-Codebox-Highlight@@whole-code-wrap": false,
   "Blue-Topaz-Codebox-Highlight@@nowrap-edit-codebox": true,
@@ -57,5 +57,8 @@
   "blue-topaz-theme@@toggle-left-aligned-content": false,
   "blue-topaz-theme@@reduce-bottom-padding": false,
   "blue-topaz-theme@@setting-etc-pane-style": "setting-style-traditional",
-  "blue-topaz-theme@@loading-page-style-option": "default-loading-page"
+  "blue-topaz-theme@@loading-page-style-option": "default-loading-page",
+  "blue-topaz-theme@@bt-connected-indent-hover": true,
+  "blue-topaz-theme@@bt-colorful-connected-indent-hover": true,
+  "blue-topaz-theme@@folder-note-dot": false
 }
