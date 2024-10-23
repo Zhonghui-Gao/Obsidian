@@ -29,10 +29,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-11 18.42.30.excalidraw.md"
+                "file": "Excalidraw/teacher.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2024-09-11 18.42.30.excalidraw"
+              "title": "teacher"
             }
           }
         ],
@@ -217,8 +217,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7d1b3d585bc5e51e",
+  "active": "c7416abfbba7ebc7",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-09-11 18.42.30.excalidraw.md",
+    "Excalidraw/teacher.md",
     "02 Research/07 AI/paper/开题调研报告.md",
     "].md",
     "02 Research/07 AI/paper/CCF.md",
@@ -246,7 +248,6 @@
     "02 Research/07 AI/yolov8 修改/超参数设置.md",
     "Excalidraw/paper.md",
     "Excalidraw/Drawing 2024-09-29 14.50.55.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-11 18.42.30.excalidraw.md",
     "02 Research/07 AI/投稿.md",
     "03 Expertise/04 RMGateway/Readme.md",
     "03 Expertise/04 RMGateway/bacnum.h.md",
@@ -254,7 +255,6 @@
     "03 Expertise/05 ESP8266/环境配置.md",
     "05 Template/数学公式参考补充ing.md",
     "05 Template/Markdown语法.md",
-    "02 Research/07 AI/newwork.md",
     "03 Expertise/06 QT",
     "04 Image/esp32",
     "04 Image/yolo",
