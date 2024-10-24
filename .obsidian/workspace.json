@@ -27,11 +27,11 @@
             "id": "7d1b3d585bc5e51e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "Excalidraw/teacher.md"
+                "file": "Excalidraw/teacher.svg"
               },
-              "icon": "excalidraw-icon",
+              "icon": "lucide-image",
               "title": "teacher"
             }
           }
@@ -217,10 +217,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c7416abfbba7ebc7",
+  "active": "7d1b3d585bc5e51e",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-09-11 18.42.30.excalidraw.md",
     "Excalidraw/teacher.md",
+    "Excalidraw/teacher.svg",
+    "Excalidraw/Drawing 2024-09-11 18.42.30.excalidraw.md",
     "02 Research/07 AI/paper/开题调研报告.md",
     "].md",
     "02 Research/07 AI/paper/CCF.md",
@@ -240,7 +241,6 @@
     "04 Image/yolo/Pasted image 20241013161429.png",
     "04 Image/yolo/Pasted image 20241013161235.png",
     "04 Image/yolo/Pasted image 20241013160549.png",
-    "04 Image/yolo/Pasted image 20241013155317.png",
     "03 Expertise/05 ESP8266/README.md",
     "02 Research/07 AI/yolov8.md",
     "02 Research/07 AI/yolov5.md",
@@ -254,7 +254,6 @@
     "03 Expertise/04 RMGateway/任务.md",
     "03 Expertise/05 ESP8266/环境配置.md",
     "05 Template/数学公式参考补充ing.md",
-    "05 Template/Markdown语法.md",
     "03 Expertise/06 QT",
     "04 Image/esp32",
     "04 Image/yolo",
