@@ -27,12 +27,14 @@
             "id": "7d1b3d585bc5e51e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/teacher.md"
+                "file": "03 Expertise/06 QT/C++ & QT.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "teacher"
+              "icon": "lucide-file",
+              "title": "C++ & QT"
             }
           }
         ],
@@ -219,8 +221,8 @@
   },
   "active": "7d1b3d585bc5e51e",
   "lastOpenFiles": [
-    "Excalidraw/teacher.svg",
     "Excalidraw/teacher.md",
+    "Excalidraw/teacher.svg",
     "Excalidraw/Drawing 2024-09-11 18.42.30.excalidraw.md",
     "02 Research/07 AI/paper/开题调研报告.md",
     "].md",

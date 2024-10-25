@@ -1,13 +1,15 @@
 **Lambda表达式：**
 
 RTOS 
-stm32  
+stm32
+lvgl
 linux 
 arm
 毕设：部署树莓派
 QT
-zynq
+zynq(搁置)
 fpga
+
 
 都各自看着项目敲一遍！！！！
 还有一年冲！
