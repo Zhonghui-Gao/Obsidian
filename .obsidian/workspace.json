@@ -27,11 +27,11 @@
             "id": "7d1b3d585bc5e51e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/teacher.svg"
+                "file": "Excalidraw/teacher.md"
               },
-              "icon": "lucide-image",
+              "icon": "excalidraw-icon",
               "title": "teacher"
             }
           }
@@ -219,8 +219,8 @@
   },
   "active": "7d1b3d585bc5e51e",
   "lastOpenFiles": [
-    "Excalidraw/teacher.md",
     "Excalidraw/teacher.svg",
+    "Excalidraw/teacher.md",
     "Excalidraw/Drawing 2024-09-11 18.42.30.excalidraw.md",
     "02 Research/07 AI/paper/开题调研报告.md",
     "].md",
