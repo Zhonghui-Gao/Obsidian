@@ -27,12 +27,14 @@
             "id": "7d1b3d585bc5e51e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/student.md"
+                "file": "02 Research/07 AI/paper/CCF.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "student"
+              "icon": "lucide-file",
+              "title": "CCF"
             }
           }
         ],
@@ -219,18 +221,18 @@
   },
   "active": "7d1b3d585bc5e51e",
   "lastOpenFiles": [
+    "02 Research/07 AI/paper/中文.md",
+    "02 Research/07 AI/paper/开题调研报告.md",
+    "02 Research/07 AI/paper/CCF.md",
+    "Excalidraw/student.md",
     "Excalidraw/student.svg",
     "Excalidraw/teacher.md",
-    "Excalidraw/student.md",
     "Excalidraw/teacher.svg",
     "Excalidraw/paper.md",
     "Excalidraw/esp32.svg",
     "03 Expertise/06 QT/C++ & QT.md",
     "Excalidraw/Drawing 2024-09-11 18.42.30.excalidraw.md",
-    "02 Research/07 AI/paper/开题调研报告.md",
     "].md",
-    "02 Research/07 AI/paper/CCF.md",
-    "02 Research/07 AI/paper/中文.md",
     "01 Homepage/Homepage.md",
     "03 Expertise/03 linux/linux 美化.md",
     "03 Expertise/Learning Plan.md",
@@ -243,7 +245,6 @@
     "Excalidraw/Taxonomy of Smart Classroom Literature.md",
     "04 Image/yolo/Pasted image 20241013153426.png",
     "04 Image/yolo/Pasted image 20241013161429.png",
-    "04 Image/yolo/Pasted image 20241013161235.png",
     "03 Expertise/05 ESP8266/README.md",
     "02 Research/07 AI/yolov8.md",
     "02 Research/07 AI/yolov5.md",
