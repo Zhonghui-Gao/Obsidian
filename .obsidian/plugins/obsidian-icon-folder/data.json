@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiStmicroelectronics",
       "SiQt",
       "SiEspressif",
       "RiAlarmWarningLine",
-      "RiGameLine",
-      "SiLinux"
+      "RiGameLine"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -46,5 +46,6 @@
   "03 Expertise/03 linux": "SiLinux",
   "03 Expertise/04 RMGateway": "RiAlarmWarningLine",
   "03 Expertise/05 ESP8266": "SiEspressif",
-  "03 Expertise/06 QT": "SiQt"
+  "03 Expertise/06 QT": "SiQt",
+  "03 Expertise/07 STM32": "SiStmicroelectronics"
 }

@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Research/07 AI/paper/CCF.md",
+                "file": "03 Expertise/07 STM32/基础.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CCF"
+              "title": "基础"
             }
           }
         ],
@@ -221,16 +221,23 @@
   },
   "active": "7d1b3d585bc5e51e",
   "lastOpenFiles": [
+    "03 Expertise/06 QT/C++ & QT.md",
+    "Pasted image 20241028110718.png",
+    "03 Expertise/07 STM32/基础.md",
+    "04 Image/qtmqtt.png",
+    "04 Image/继电器.png",
+    "05 Template/Markdown语法.md",
+    "05 Template/paper-template.md",
+    "03 Expertise/07 STM32",
+    "02 Research/07 AI/paper/CCF.md",
     "02 Research/07 AI/paper/中文.md",
     "02 Research/07 AI/paper/开题调研报告.md",
-    "02 Research/07 AI/paper/CCF.md",
     "Excalidraw/student.md",
     "Excalidraw/student.svg",
     "Excalidraw/teacher.md",
     "Excalidraw/teacher.svg",
     "Excalidraw/paper.md",
     "Excalidraw/esp32.svg",
-    "03 Expertise/06 QT/C++ & QT.md",
     "Excalidraw/Drawing 2024-09-11 18.42.30.excalidraw.md",
     "].md",
     "01 Homepage/Homepage.md",
@@ -241,10 +248,7 @@
     "04 Image/yolo/Pasted image 20240902114130.png",
     "04 Image/yolo/Pasted image 20240902112516.png",
     "04 Image/yolo/Pasted image 20240902112438.png",
-    "04 Image/yolo/Pasted image 20241013153230.png",
     "Excalidraw/Taxonomy of Smart Classroom Literature.md",
-    "04 Image/yolo/Pasted image 20241013153426.png",
-    "04 Image/yolo/Pasted image 20241013161429.png",
     "03 Expertise/05 ESP8266/README.md",
     "02 Research/07 AI/yolov8.md",
     "02 Research/07 AI/yolov5.md",
@@ -253,9 +257,6 @@
     "Excalidraw/Drawing 2024-09-29 14.50.55.excalidraw.md",
     "02 Research/07 AI/投稿.md",
     "03 Expertise/04 RMGateway/Readme.md",
-    "03 Expertise/04 RMGateway/bacnum.h.md",
-    "03 Expertise/04 RMGateway/任务.md",
-    "03 Expertise/05 ESP8266/环境配置.md",
     "03 Expertise/06 QT",
     "04 Image/esp32",
     "04 Image/yolo",
@@ -265,7 +266,6 @@
     "03 Expertise/05 ESP8266",
     "02 Research/03 Leetcode Algorithm/fdsfds",
     "pdf/linux/Linux设备驱动程序3.pdf",
-    "pdf/linux/Linux内核设计与实现3.pdf",
     "01个人主页/未命名.canvas",
     "专业知识/未命名.canvas"
   ]
