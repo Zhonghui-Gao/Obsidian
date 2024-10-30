@@ -27,12 +27,12 @@
             "id": "7d1b3d585bc5e51e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-30 11.14.36.excalidraw.md"
+                "file": "Excalidraw/route.png"
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-10-30 11.14.36.excalidraw"
+              "icon": "lucide-image",
+              "title": "route"
             }
           }
         ],
@@ -219,11 +219,13 @@
   },
   "active": "7d1b3d585bc5e51e",
   "lastOpenFiles": [
+    "Excalidraw/route.md",
+    "Excalidraw/route.png",
+    "Excalidraw/route.svg",
+    "Pasted image 20241028110718.png",
     "02 Research/07 AI/paper/中文.md",
-    "Excalidraw/Drawing 2024-10-30 11.14.36.excalidraw.md",
     "03 Expertise/07 STM32/基础.md",
     "03 Expertise/06 QT/C++ & QT.md",
-    "Pasted image 20241028110718.png",
     "04 Image/qtmqtt.png",
     "04 Image/继电器.png",
     "05 Template/Markdown语法.md",
@@ -245,8 +247,6 @@
     "03 Expertise/plan.md",
     "04 Image/yolo/Pasted image 20240902114657.png",
     "04 Image/yolo/Pasted image 20240902114130.png",
-    "04 Image/yolo/Pasted image 20240902112516.png",
-    "04 Image/yolo/Pasted image 20240902112438.png",
     "Excalidraw/Taxonomy of Smart Classroom Literature.md",
     "03 Expertise/05 ESP8266/README.md",
     "02 Research/07 AI/yolov8.md",
@@ -255,7 +255,6 @@
     "02 Research/07 AI/yolov8 修改/超参数设置.md",
     "Excalidraw/Drawing 2024-09-29 14.50.55.excalidraw.md",
     "02 Research/07 AI/投稿.md",
-    "03 Expertise/04 RMGateway/Readme.md",
     "03 Expertise/06 QT",
     "04 Image/esp32",
     "04 Image/yolo",
