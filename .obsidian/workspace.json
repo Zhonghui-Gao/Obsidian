@@ -24,15 +24,15 @@
             }
           },
           {
-            "id": "7d1b3d585bc5e51e",
+            "id": "e42e3b410e4b2b35",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "Excalidraw/route.png"
+                "file": "Excalidraw/标注.png"
               },
               "icon": "lucide-image",
-              "title": "route"
+              "title": "标注"
             }
           }
         ],
@@ -217,15 +217,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7d1b3d585bc5e51e",
+  "active": "e42e3b410e4b2b35",
   "lastOpenFiles": [
-    "Excalidraw/route.md",
+    "Excalidraw/Drawing 2024-09-11 18.42.30.excalidraw.md",
+    "Excalidraw/标注.png",
+    "Excalidraw/标注.md",
+    "Excalidraw/Drawing 2024-02-27 13.45.38.excalidraw.md",
+    "Excalidraw/Drawing 2024-07-20 11.23.01.excalidraw.md",
+    "03 Expertise/07 STM32/基础.md",
+    "03 Expertise/06 QT/C++ & QT.md",
+    "01 Homepage/Homepage.md",
     "Excalidraw/route.png",
+    "Excalidraw/route.md",
     "Excalidraw/route.svg",
     "Pasted image 20241028110718.png",
     "02 Research/07 AI/paper/中文.md",
-    "03 Expertise/07 STM32/基础.md",
-    "03 Expertise/06 QT/C++ & QT.md",
     "04 Image/qtmqtt.png",
     "04 Image/继电器.png",
     "05 Template/Markdown语法.md",
@@ -239,22 +245,16 @@
     "Excalidraw/teacher.svg",
     "Excalidraw/paper.md",
     "Excalidraw/esp32.svg",
-    "Excalidraw/Drawing 2024-09-11 18.42.30.excalidraw.md",
     "].md",
-    "01 Homepage/Homepage.md",
     "03 Expertise/03 linux/linux 美化.md",
     "03 Expertise/Learning Plan.md",
     "03 Expertise/plan.md",
     "04 Image/yolo/Pasted image 20240902114657.png",
-    "04 Image/yolo/Pasted image 20240902114130.png",
     "Excalidraw/Taxonomy of Smart Classroom Literature.md",
     "03 Expertise/05 ESP8266/README.md",
     "02 Research/07 AI/yolov8.md",
     "02 Research/07 AI/yolov5.md",
     "02 Research/07 AI/yolov8 修改/WIoU.md",
-    "02 Research/07 AI/yolov8 修改/超参数设置.md",
-    "Excalidraw/Drawing 2024-09-29 14.50.55.excalidraw.md",
-    "02 Research/07 AI/投稿.md",
     "03 Expertise/06 QT",
     "04 Image/esp32",
     "04 Image/yolo",
