@@ -27,12 +27,14 @@
             "id": "e42e3b410e4b2b35",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/标注.png"
+                "file": "02 Research/07 AI/paper/中文.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "标注"
+              "icon": "lucide-file",
+              "title": "中文"
             }
           }
         ],
@@ -219,8 +221,8 @@
   },
   "active": "e42e3b410e4b2b35",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-09-11 18.42.30.excalidraw.md",
     "Excalidraw/标注.png",
+    "Excalidraw/Drawing 2024-09-11 18.42.30.excalidraw.md",
     "Excalidraw/标注.md",
     "Excalidraw/Drawing 2024-02-27 13.45.38.excalidraw.md",
     "Excalidraw/Drawing 2024-07-20 11.23.01.excalidraw.md",
