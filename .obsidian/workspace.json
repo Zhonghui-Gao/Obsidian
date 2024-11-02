@@ -27,12 +27,12 @@
             "id": "e42e3b410e4b2b35",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "Excalidraw/Drawing 2024-11-02 17.10.48.excalidraw.md"
+                "file": "Excalidraw/研究分析.svg"
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-11-02 17.10.48.excalidraw"
+              "icon": "lucide-image",
+              "title": "研究分析"
             }
           }
         ],
@@ -219,8 +219,9 @@
   },
   "active": "e42e3b410e4b2b35",
   "lastOpenFiles": [
+    "Excalidraw/研究分析.md",
+    "Excalidraw/研究分析.svg",
     "Excalidraw/Drawing 2024-09-11 18.42.30.excalidraw.md",
-    "Excalidraw/Drawing 2024-11-02 17.10.48.excalidraw.md",
     "Excalidraw/Taxonomy of Smart Classroom Literature.md",
     "Excalidraw/Pasted image 20240527083636.png",
     "Excalidraw/Pasted image 20240526151250.png",
@@ -240,7 +241,6 @@
     "Excalidraw/esp32介绍.md",
     "Excalidraw/student.md",
     "Excalidraw/teacher.md",
-    "Excalidraw/teacher.svg",
     "03 Expertise/07 STM32/基础.md",
     "02 Research/07 AI/paper/中文.md",
     "03 Expertise/plan.md",
