@@ -24,15 +24,15 @@
             }
           },
           {
-            "id": "e42e3b410e4b2b35",
+            "id": "704ddf686487f1d8",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/研究分析.md"
+                "file": "Excalidraw/算法.md"
               },
               "icon": "excalidraw-icon",
-              "title": "研究分析"
+              "title": "算法"
             }
           }
         ],
@@ -217,24 +217,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e42e3b410e4b2b35",
+  "active": "704ddf686487f1d8",
   "lastOpenFiles": [
+    "Excalidraw/算法.svg",
+    "01 Homepage/Homepage.md",
+    "Excalidraw/算法.md",
     "Excalidraw/研究分析.svg",
     "Excalidraw/研究分析.md",
     "Excalidraw/工作计划安排.md",
     "Excalidraw/工作计划安排.svg",
+    "Excalidraw/技术路线.md",
+    "Excalidraw/技术路线.svg",
     "Excalidraw/Drawing 2024-07-20 11.23.01.excalidraw.md",
     "Excalidraw/Drawing 2024-09-11 18.42.30.excalidraw.md",
     "Excalidraw/esp32接线电路图.md",
     "Excalidraw/esp32接线电路图.svg",
     "Excalidraw/Pasted image 20240526084510.png",
     "Excalidraw/Pasted image 20240524110313.png",
-    "Excalidraw/算法.md",
-    "Excalidraw/技术路线.md",
-    "Excalidraw/技术路线.svg",
     "Excalidraw/软件功能图.md",
     "Excalidraw/软件功能图.svg",
-    "Excalidraw/算法.svg",
     "Excalidraw/route.md",
     "Excalidraw/route.svg",
     "Excalidraw/route.png",
@@ -246,7 +247,6 @@
     "Excalidraw/esp32 module.md",
     "Excalidraw/teacher.md",
     "Excalidraw/Drawing 2024-02-27 13.45.38.excalidraw.md",
-    "01 Homepage/Homepage.md",
     "03 Expertise/07 STM32/基础.md",
     "02 Research/07 AI/paper/中文.md",
     "03 Expertise/plan.md",
