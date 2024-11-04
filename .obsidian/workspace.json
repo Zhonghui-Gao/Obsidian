@@ -29,10 +29,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/分类.md"
+                "file": "Excalidraw/研究分析2.md"
               },
               "icon": "excalidraw-icon",
-              "title": "分类"
+              "title": "研究分析2"
             }
           }
         ],
@@ -219,9 +219,15 @@
   },
   "active": "704ddf686487f1d8",
   "lastOpenFiles": [
+    "Excalidraw/研究分析2.svg",
+    "Excalidraw/研究分析.svg",
+    "Excalidraw/研究分析2.md",
+    "Excalidraw/研究分析.md",
+    "Excalidraw/算法.svg",
+    "Excalidraw/工作计划安排.md",
+    "Excalidraw/分类.md",
     "Excalidraw/分类.svg",
     "Excalidraw/标注.png",
-    "Excalidraw/分类.md",
     "Excalidraw/teacher.md",
     "Excalidraw/teacher.svg",
     "Excalidraw/teacher2.md",
@@ -236,13 +242,9 @@
     "Excalidraw/route.png",
     "Excalidraw/route.md",
     "Excalidraw/yolov8net.png",
-    "Excalidraw/算法.svg",
     "Excalidraw/软件功能图.md",
-    "Excalidraw/技术路线.svg",
     "Excalidraw/技术路线.md",
     "01 Homepage/Homepage.md",
-    "Excalidraw/研究分析.md",
-    "Excalidraw/工作计划安排.md",
     "Excalidraw/esp32接线电路图.md",
     "Excalidraw/Taxonomy of Smart Classroom Literature.md",
     "Excalidraw/paper.md",
@@ -253,7 +255,6 @@
     "02 Research/07 AI/paper/中文.md",
     "03 Expertise/plan.md",
     "02 Research/07 AI/paper/CCF.md",
-    "Excalidraw/标注.md",
     "03 Expertise/07 STM32",
     "03 Expertise/06 QT",
     "04 Image/esp32",
