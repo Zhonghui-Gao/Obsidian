@@ -27,12 +27,12 @@
             "id": "704ddf686487f1d8",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/student.svg"
+                "file": "Excalidraw/分类.md"
               },
-              "icon": "lucide-image",
-              "title": "student"
+              "icon": "excalidraw-icon",
+              "title": "分类"
             }
           }
         ],
@@ -219,31 +219,30 @@
   },
   "active": "704ddf686487f1d8",
   "lastOpenFiles": [
-    "Excalidraw/route.svg",
-    "Excalidraw/student.svg",
     "Excalidraw/分类.svg",
+    "Excalidraw/标注.png",
     "Excalidraw/分类.md",
+    "Excalidraw/teacher.md",
+    "Excalidraw/teacher.svg",
+    "Excalidraw/teacher2.md",
+    "Excalidraw/student.md",
+    "Excalidraw/算法.md",
+    "Excalidraw/软件功能图.svg",
+    "Excalidraw/student.svg",
+    "Excalidraw/route.svg",
     "Excalidraw/Drawing 2024-07-20 11.23.01.excalidraw.md",
     "Excalidraw/Drawing 2024-02-27 13.45.38.excalidraw.md",
     "Excalidraw/Drawing 2024-09-11 18.42.30.excalidraw.md",
-    "Excalidraw/student.md",
     "Excalidraw/route.png",
     "Excalidraw/route.md",
-    "Excalidraw/teacher2.md",
     "Excalidraw/yolov8net.png",
-    "Excalidraw/算法.md",
     "Excalidraw/算法.svg",
     "Excalidraw/软件功能图.md",
-    "Excalidraw/软件功能图.svg",
     "Excalidraw/技术路线.svg",
     "Excalidraw/技术路线.md",
-    "Excalidraw/teacher.md",
-    "Excalidraw/teacher.svg",
     "01 Homepage/Homepage.md",
-    "Excalidraw/研究分析.svg",
     "Excalidraw/研究分析.md",
     "Excalidraw/工作计划安排.md",
-    "Excalidraw/工作计划安排.svg",
     "Excalidraw/esp32接线电路图.md",
     "Excalidraw/Taxonomy of Smart Classroom Literature.md",
     "Excalidraw/paper.md",
