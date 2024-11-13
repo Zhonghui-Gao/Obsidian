@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Expertise/03 linux/linux 美化.md",
+                "file": "02 Research/07 AI/newwork.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "linux 美化"
+              "title": "newwork"
             }
           }
         ],
@@ -166,10 +166,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Expertise/03 linux/linux 美化.md"
+                "file": "02 Research/07 AI/newwork.md"
               },
               "icon": "lucide-list",
-              "title": "linux 美化 的大纲"
+              "title": "newwork 的大纲"
             }
           },
           {
@@ -221,14 +221,21 @@
   },
   "active": "bdc2713ea429f8af",
   "lastOpenFiles": [
+    "02 Research/07 AI/paper/开题调研报告.md",
+    "02 Research/07 AI/paper/CCF.md",
+    "02 Research/07 AI/yolov8 修改/WIoU.md",
+    "02 Research/07 AI/yolov8 修改/Shape-IOU.md",
+    "02 Research/07 AI/yolov8 修改/PConv_Detect.md",
+    "02 Research/07 AI/yolov8 修改/超参数设置.md",
+    "02 Research/07 AI/paper/中文.md",
+    "02 Research/07 AI/yolov8.md",
+    "03 Expertise/03 linux/linux 美化.md",
     "README.md",
     "04 Image/Pasted image 20241028110718.png",
     "03 Expertise/06 QT/C++ & QT.md",
     "01 Homepage/Homepage.md",
     "02 Research/07 AI/newwork.md",
     "02 Research/07 AI/yolov5.md",
-    "02 Research/07 AI/yolov8.md",
-    "02 Research/07 AI/paper/中文.md",
     "Excalidraw/工作计划安排.md",
     "Excalidraw/研究分析2.svg",
     "Excalidraw/研究分析2.md",
@@ -250,13 +257,6 @@
     "Excalidraw/Drawing 2024-02-27 13.45.38.excalidraw.md",
     "Excalidraw/Drawing 2024-09-11 18.42.30.excalidraw.md",
     "Excalidraw/route.md",
-    "Excalidraw/软件功能图.md",
-    "Excalidraw/技术路线.md",
-    "Excalidraw/esp32接线电路图.md",
-    "Excalidraw/Taxonomy of Smart Classroom Literature.md",
-    "Excalidraw/paper.md",
-    "Excalidraw/esp32介绍.md",
-    "Excalidraw/Drawing 2024-01-25 18.26.36.excalidraw.md",
     "03 Expertise/07 STM32",
     "03 Expertise/06 QT",
     "04 Image/esp32",
