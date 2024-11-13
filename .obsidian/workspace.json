@@ -219,11 +219,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bdc2713ea429f8af",
+  "active": "c7416abfbba7ebc7",
   "lastOpenFiles": [
+    "02 Research/07 AI/yolov8 修改/WIoU.md",
+    "02 Research/07 AI/yolov5.md",
+    "02 Research/07 AI/newwork.md",
+    "01 Homepage/Homepage.md",
     "02 Research/07 AI/paper/开题调研报告.md",
     "02 Research/07 AI/paper/CCF.md",
-    "02 Research/07 AI/yolov8 修改/WIoU.md",
     "02 Research/07 AI/yolov8 修改/Shape-IOU.md",
     "02 Research/07 AI/yolov8 修改/PConv_Detect.md",
     "02 Research/07 AI/yolov8 修改/超参数设置.md",
@@ -233,9 +236,6 @@
     "README.md",
     "04 Image/Pasted image 20241028110718.png",
     "03 Expertise/06 QT/C++ & QT.md",
-    "01 Homepage/Homepage.md",
-    "02 Research/07 AI/newwork.md",
-    "02 Research/07 AI/yolov5.md",
     "Excalidraw/工作计划安排.md",
     "Excalidraw/研究分析2.svg",
     "Excalidraw/研究分析2.md",
