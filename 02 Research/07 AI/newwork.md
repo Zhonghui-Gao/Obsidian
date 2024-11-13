@@ -193,12 +193,15 @@ baseline和2对比：证明C2f_PConv_EMA(Backbone)
 | yolov8s              | 0.679     | 0.688 | 0.722     | 28.4   | 22.5     | 11.1    |
 | ours                 | **0.694** | 0.677 | **0.725** | 18.1   | **12.0** | 5.8     |
 | yolov10s             |           |       |           | 21.6   |          | 7.2     |
-| yolov11s             |           |       |           | 21.5   |          | 9.4     |
+| yolov11s             | 0.709     | 0.697 | 0.753     | 21.5   | 19.2     | 9.4     |
 | yolov7s+BRA+W1/W2/W3 |           |       |           |        |          |         |
 | yolov10m             |           |       |           |        |          |         |
 | yolov10              |           |       |           |        |          |         |
 | yolov11m             |           |       |           |        |          |         |
 
+
+yolov11s
+![[Pasted image 20241114002337.png]]
 
 
 将基于 YOLOv8 的改进模型与YOLOv5m、YOLOv5s、YOLOv7-tiny 等主流目标检测网络模型进行对比，试验结果如表4所示。
