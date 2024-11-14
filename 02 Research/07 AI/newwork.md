@@ -196,8 +196,8 @@ baseline和2对比：证明C2f_PConv_EMA(Backbone)
 | yolov11s             | 0.709     | 0.697 | **0.753** | 21.5   | 19.2     | 9.4     |
 | yolov7s+BRA+W1/W2/W3 |           |       |           |        |          |         |
 | yolov10m             |           |       |           | 59.1   |          | 16.4    |
-| yolov10              |           |       |           |        |          |         |
-|                      |           |       |           |        |          |         |
+| yolov8+mobileNetv3   |           |       |           |        |          |         |
+| yolov8+ghostNetv3    |           |       |           |        |          |         |
 
 
 yolov10s![[Pasted image 20241114211608.png]]
