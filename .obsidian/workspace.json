@@ -6,7 +6,6 @@
       {
         "id": "4509724f8bf84da7",
         "type": "tabs",
-        "dimension": 39.97928534438115,
         "children": [
           {
             "id": "e7a7b303c61786dc",
@@ -40,25 +39,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "53d4640fd9e3fb4b",
-        "type": "tabs",
-        "dimension": 60.020714655618846,
-        "children": [
-          {
-            "id": "cec628b084e11b98",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-11-17 20.30.01.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-11-17 20.30.01.excalidraw"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -186,10 +166,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-11-17 20.30.01.excalidraw.md"
+                "file": "02 Research/07 AI/newwork.md"
               },
               "icon": "lucide-list",
-              "title": "Drawing 2024-11-17 20.30.01.excalidraw 的大纲"
+              "title": "newwork 的大纲"
             }
           },
           {
@@ -239,10 +219,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cec628b084e11b98",
+  "active": "bdc2713ea429f8af",
   "lastOpenFiles": [
-    "02 Research/07 AI/newwork.md",
     "Excalidraw/Drawing 2024-11-17 20.30.01.excalidraw.md",
+    "02 Research/07 AI/newwork.md",
     "Excalidraw/Drawing 2024-11-17 18.19.56.excalidraw.md",
     "Excalidraw/Drawing 2024-11-15 22.28.03.excalidraw.md",
     "02 Research/07 AI/yolov8.md",
