@@ -22,8 +22,23 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
+          },
+          {
+            "id": "1ff0188cd64a5d24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Research/07 AI/newwork.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "newwork"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -151,10 +166,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Homepage/Homepage.md"
+                "file": "02 Research/07 AI/newwork.md"
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "newwork 的大纲"
             }
           },
           {
@@ -204,7 +219,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "1ff0188cd64a5d24",
   "lastOpenFiles": [
     "01 Homepage/Homepage.md",
     "02 Research/07 AI/newwork.md",
