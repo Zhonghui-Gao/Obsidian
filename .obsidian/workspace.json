@@ -24,15 +24,17 @@
             }
           },
           {
-            "id": "cde7faf6e4c98a1e",
+            "id": "f24aebb9ab20b532",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-01-05 18.35.26.excalidraw.md"
+                "file": "02 Research/07 AI/paper/CCF.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-01-05 18.35.26.excalidraw"
+              "icon": "lucide-file",
+              "title": "CCF"
             }
           }
         ],
@@ -217,21 +219,26 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "cde7faf6e4c98a1e",
+  "active": "f24aebb9ab20b532",
   "lastOpenFiles": [
+    "02 Research/07 AI/paper/毕业论文.md",
+    "02 Research/07 AI/paper/开题调研报告.md",
+    "02 Research/07 AI/paper/中文.md",
+    "03 Expertise/03 linux/linux 美化.md",
+    "02 Research/07 AI/yolov8 修改/WIoU.md",
+    "02 Research/07 AI/yolov8 修改/Shape-IOU.md",
+    "02 Research/07 AI/yolov8 修改/PConv_Detect.md",
+    "02 Research/07 AI/yolov8 修改/超参数设置.md",
+    "02 Research/07 AI/yolov8.md",
     "01 Homepage/Homepage.md",
     "Excalidraw/Drawing 2025-01-05 18.35.26.excalidraw.md",
     "02 Research/07 AI/newwork.md",
-    "02 Research/07 AI/yolov8.md",
-    "02 Research/07 AI/paper/中文.md",
-    "02 Research/07 AI/paper/开题调研报告.md",
     "Excalidraw/Drawing 2024-12-15 18.41.49.excalidraw.md",
     "屏幕截图 2024-05-08 163502.png",
     "屏幕截图 2024-05-08 165556.png",
     "Pasted Image 20241215184450_419.png",
     "Excalidraw/Drawing 2024-02-27 13.45.38.excalidraw.md",
     "Excalidraw/Drawing 2024-01-25 18.26.36.excalidraw.md",
-    "02 Research/07 AI/paper/毕业论文.md",
     "Excalidraw/分类.svg",
     "Excalidraw/Taxonomy of Smart Classroom Literature.md",
     "Excalidraw/esp32接线电路图.svg",
@@ -241,15 +248,10 @@
     "Excalidraw/Drawing 2024-11-17 20.30.01.excalidraw.md",
     "Excalidraw/Drawing 2024-11-17 18.19.56.excalidraw.md",
     "Excalidraw/Drawing 2024-11-15 22.28.03.excalidraw.md",
-    "02 Research/07 AI/yolov8 修改/WIoU.md",
-    "02 Research/07 AI/yolov8 修改/PConv_Detect.md",
-    "02 Research/07 AI/yolov8 修改/超参数设置.md",
     "04 Image/Pasted image 20241114211512.png",
     "04 Image/Pasted image 20241114002337.png",
-    "02 Research/07 AI/yolov8 修改/Shape-IOU.md",
     "02 Research/07 AI/yolov5.md",
     "02 Research/07 AI/paper/CCF.md",
-    "03 Expertise/03 linux/linux 美化.md",
     "README.md",
     "04 Image/Pasted image 20241028110718.png",
     "03 Expertise/06 QT/C++ & QT.md",
