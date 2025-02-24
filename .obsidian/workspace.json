@@ -27,14 +27,12 @@
             "id": "f24aebb9ab20b532",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "03 Expertise/06 QT/C++ & QT.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/算法.md"
               },
-              "icon": "lucide-file",
-              "title": "C++ & QT"
+              "icon": "excalidraw-icon",
+              "title": "算法"
             }
           }
         ],
@@ -222,6 +220,12 @@
   "active": "f24aebb9ab20b532",
   "lastOpenFiles": [
     "03 Expertise/07 STM32/基础.md",
+    "04 Image/yolo/1718415831809.png",
+    "04 Image/RMG1.jpg",
+    "04 Image/Pasted image 20241114211608.png",
+    "04 Image/Pasted image 20241114002337.png",
+    "04 Image/Pasted image 20241028110718.png",
+    "03 Expertise/06 QT/C++ & QT.md",
     "03 Expertise/Learning Plan.md",
     "02 Research/07 AI/paper/CCF.md",
     "Pasted Image 20241215184450_419.png",
@@ -246,17 +250,10 @@
     "Excalidraw/Taxonomy of Smart Classroom Literature.md",
     "Excalidraw/esp32接线电路图.svg",
     "Excalidraw/Drawing 2024-11-28 16.24.37.excalidraw.md",
-    "Excalidraw/esp32接线电路图.png",
-    "04 Image/Pasted image 20241114211608.png",
     "Excalidraw/Drawing 2024-11-17 20.30.01.excalidraw.md",
     "Excalidraw/Drawing 2024-11-17 18.19.56.excalidraw.md",
     "Excalidraw/Drawing 2024-11-15 22.28.03.excalidraw.md",
-    "04 Image/Pasted image 20241114211512.png",
-    "04 Image/Pasted image 20241114002337.png",
     "02 Research/07 AI/yolov5.md",
-    "README.md",
-    "04 Image/Pasted image 20241028110718.png",
-    "03 Expertise/06 QT/C++ & QT.md",
     "03 Expertise/07 STM32",
     "03 Expertise/06 QT",
     "04 Image/esp32",
