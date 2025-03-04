@@ -22,21 +22,8 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
-          },
-          {
-            "id": "f24aebb9ab20b532",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/算法.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "算法"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -55,7 +42,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -217,8 +205,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "f24aebb9ab20b532",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "01 Homepage/Homepage.md",
+    "Excalidraw/算法.md",
     "03 Expertise/07 STM32/基础.md",
     "04 Image/yolo/1718415831809.png",
     "04 Image/RMG1.jpg",
@@ -238,7 +228,6 @@
     "02 Research/07 AI/yolov8 修改/PConv_Detect.md",
     "02 Research/07 AI/yolov8 修改/超参数设置.md",
     "02 Research/07 AI/yolov8.md",
-    "01 Homepage/Homepage.md",
     "Excalidraw/Drawing 2025-01-05 18.35.26.excalidraw.md",
     "02 Research/07 AI/newwork.md",
     "Excalidraw/Drawing 2024-12-15 18.41.49.excalidraw.md",
