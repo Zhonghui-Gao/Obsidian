@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Research/07 AI/paper/毕业论文.md",
+                "file": "02 Research/07 AI/paper/开题调研报告.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "毕业论文"
+              "title": "开题调研报告"
             }
           }
         ],
@@ -222,10 +222,10 @@
   },
   "active": "0e060668fa1effad",
   "lastOpenFiles": [
+    "02 Research/07 AI/paper/毕业论文.md",
     "02 Research/07 AI/paper/开题调研报告.md",
     "02 Research/07 AI/paper/中文.md",
     "02 Research/07 AI/paper/CCF.md",
-    "02 Research/07 AI/paper/毕业论文.md",
     "02 Research/07 AI/newwork.md",
     "01 Homepage/Homepage.md",
     "Excalidraw/算法.md",
