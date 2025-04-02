@@ -10,14 +10,35 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01 Homepage/Homepage.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Homepage"
+            }
+          },
+          {
+            "id": "cfedba2cf7e4bb5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Research/07 AI/paper/毕业论文.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "毕业论文"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,15 +220,16 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "cfedba2cf7e4bb5c",
   "lastOpenFiles": [
+    "e89127b0e2639083d5bc7df40e04f93.png",
+    "01 Homepage/Homepage.md",
     "02 Research/07 AI/paper/毕业论文.md",
     "Pasted image 20250314100921.png",
     "02 Research/07 AI/paper/开题调研报告.md",
     "02 Research/07 AI/paper/中文.md",
     "02 Research/07 AI/paper/CCF.md",
     "02 Research/07 AI/newwork.md",
-    "01 Homepage/Homepage.md",
     "Excalidraw/算法.md",
     "03 Expertise/07 STM32/基础.md",
     "04 Image/yolo/1718415831809.png",
