@@ -22,21 +22,8 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
-          },
-          {
-            "id": "09ad445b282de154",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-04-16 20.28.39.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-04-16 20.28.39.excalidraw"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,10 +205,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "09ad445b282de154",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "02 Research/07 AI/paper/毕业论文.md",
     "Excalidraw/Drawing 2025-04-16 20.28.39.excalidraw.md",
+    "02 Research/07 AI/paper/毕业论文.md",
     "01 Homepage/Homepage.md",
     "Pasted image 20250413161253.png",
     "Pasted image 20250412180409.png",
