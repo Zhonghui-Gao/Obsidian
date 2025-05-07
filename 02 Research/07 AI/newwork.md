@@ -214,7 +214,7 @@ yolov8-EMA-head
 cf_PConv-backbone
 ![[Pasted image 20250507224901.png]]
 C2f_PConv-head
-
+![[Pasted image 20250508000734.png]]
 
 数据集 
 VOC2007
