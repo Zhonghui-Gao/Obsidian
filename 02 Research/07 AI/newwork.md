@@ -212,7 +212,7 @@ yolov8-EMA-backbone
 yolov8-EMA-head
 ![[Pasted image 20250507200551.png]]
 cf_PConv-backbone
-
+![[Pasted image 20250507224901.png]]
 C2f_PConv-head
 
 
