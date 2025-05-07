@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Research/07 AI/newwork.md",
+                "file": "02 Research/07 AI/yolov8.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "newwork"
+              "title": "yolov8"
             }
           }
         ],
@@ -222,6 +222,7 @@
   },
   "active": "d8bc36ef393aa9ca",
   "lastOpenFiles": [
+    "02 Research/07 AI/newwork.md",
     "02 Research/07 AI/yolov5.md",
     "02 Research/07 AI/yolov8.md",
     "01 Homepage/Homepage.md",
@@ -237,7 +238,6 @@
     "02 Research/07 AI/paper/开题调研报告.md",
     "02 Research/07 AI/paper/中文.md",
     "02 Research/07 AI/paper/CCF.md",
-    "02 Research/07 AI/newwork.md",
     "Excalidraw/算法.md",
     "03 Expertise/07 STM32/基础.md",
     "04 Image/yolo/1718415831809.png",
