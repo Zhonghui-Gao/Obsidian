@@ -238,11 +238,7 @@ train5
 mynet
 ![[Pasted image 20250508081647.png]]
 
-
-![[Pasted image 20250508095957.png]]
-
-yolov8s 
-
+![[Pasted image 20250508191010.png]]
 
 
 batch 1
