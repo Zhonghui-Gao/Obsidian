@@ -199,6 +199,7 @@ baseline和2对比：证明C2f_PConv_EMA(Backbone)
 | yolov8+mobileNetv3   |           |       |           |        |          |         |
 | yolov8+ghostNetv3    |           |       |           |        |          |         |
 |                      |           |       |           |        |          |         |
+|                      |           |       |           |        |          |         |
 
 
 yolov10s![[Pasted image 20241114211608.png]]
@@ -218,6 +219,12 @@ C2f_PConv-head
 
 数据集 
 VOC2007
+mynet
+![[Pasted image 20250508081647.png]]
+
+
+
+
 
 STB-08
 
