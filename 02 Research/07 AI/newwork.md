@@ -210,6 +210,9 @@ yolov11s
 yolov8-EMA-backbone
 ![[Pasted image 20250507180948.png]]
 
+
+
+
 yolov8-EMA-head
 ![[Pasted image 20250507200551.png]]
 cf_PConv-backbone
@@ -221,6 +224,8 @@ C2f_PConv-head
 VOC2007
 mynet
 ![[Pasted image 20250508081647.png]]
+
+![[Pasted image 20250508095957.png]]
 
 yolov8s
 
@@ -269,3 +274,20 @@ YOLOv8+C2f\_PConv\_EMA(Backbone)+PANet(C2f),YOLOv8+C2f\_PConv\_EMA(Backbone)+BiF
 
 
 即YOLOv8 + MobileViTv3 + Wise-IoU、YOLOv8 + MobileViTv3、YOLOv8 + Wise-IoU以及原始YOLOv8算法进行了比较。表3和表4分别显示了VisDrone2019和DOTA验证集上的消融实验结果。表3显示，改进后的YOLOv8算法在VisDrone2019验证集上的各项指标上均取得了最佳性能，mAP为34.2%，查准率为45.1%，查全率为33.7%。这表明改进的YOLOv8算法可以使用视觉变压器MobileViTv3有效提取更丰富、更强大的特征表示，并使用Wise-IoU损失函数优化边界框回归，从而提高小目标检测精度。同样，表4显示，改进后的YOLOv8算法在DOTA验证集上的所有指标上也优于所有其他三个组成模块，mAP为71.3%，查准率为87.1%，查全率为67.1%。这表明改进的YOLOv8算法能够有效适应遥感图像中小目标的多样性和变异性，具有较高的方向性不变性和多尺度适应性。
+
+baseline 
+![[Pasted image 20250508094548.png]]
+
+V1 
+![[Pasted image 20250508094530.png]]
+
+V2
+![[1746668818369.png]]
+V3
+![[1746668890595.png]]
+V4
+![[1746669089835.png]]
+V5
+![[Pasted image 20250508095257.png]]
+
+
