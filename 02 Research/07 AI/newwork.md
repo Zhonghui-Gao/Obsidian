@@ -253,7 +253,7 @@ mynet
 ![[Pasted image 20250508151051.png]]
 
 yolov8s
-
+![[Pasted image 20250508204512.png]]
 
 
 将基于 YOLOv8 的改进模型与YOLOv5m、YOLOv5s、YOLOv7-tiny,YOLOv10,YOLOv11等主流目标检测网络模型进行对比，试验结果如表4所示。
