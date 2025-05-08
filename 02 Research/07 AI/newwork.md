@@ -226,14 +226,19 @@ cf_PConv-backbone
 C2f_PConv-head
 ![[Pasted image 20250508000734.png]]
 
-
+![[Pasted image 20250508161452.png]]
 
 数据集 
 VOC2007
 mynet
 ![[Pasted image 20250508081647.png]]
 
+
 ![[Pasted image 20250508095957.png]]
+
+yolov8s 
+
+
 
 batch 1
 ![[Pasted image 20250508103255.png]]
@@ -245,6 +250,7 @@ STB-08
 mynet
 
 ![[Pasted image 20250508151051.png]]
+
 yolov8s
 
 
