@@ -295,3 +295,18 @@ V5
 
 
 batchsize 1
+baseline
+![[Pasted image 20250508103453.png]]
+
+V1
+![[Pasted image 20250508103647.png]]
+V2
+![[Pasted image 20250508104042.png]]
+V3
+![[Pasted image 20250508104141.png]]
+
+V4
+![[Pasted image 20250508104346.png]]
+
+V5
+![[Pasted image 20250508104537.png]]
