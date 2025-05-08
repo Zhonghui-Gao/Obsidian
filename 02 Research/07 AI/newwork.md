@@ -310,3 +310,22 @@ V4
 
 V5
 ![[Pasted image 20250508104537.png]]
+
+
+batchsize 32
+baseline 60
+![[Pasted image 20250508122236.png]]
+
+
+V1 62
+![[Pasted image 20250508120616.png]]
+V2
+![[Pasted image 20250508121104.png]]
+V3
+
+![[Pasted image 20250508121215.png]]
+
+V4
+![[Pasted image 20250508122431.png]]
+V5
+![[Pasted image 20250508122335.png]]
