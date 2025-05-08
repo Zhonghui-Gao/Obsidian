@@ -209,16 +209,24 @@ yolov11s
 
 yolov8-EMA-backbone
 ![[Pasted image 20250507180948.png]]
-
-
+batchsize 32
+![[Pasted image 20250508151855.png]]
 
 
 yolov8-EMA-head
 ![[Pasted image 20250507200551.png]]
+
+![[Pasted image 20250508152112.png]]
+
 cf_PConv-backbone
 ![[Pasted image 20250507224901.png]]
+
+![[Pasted image 20250508152710.png]]
+
 C2f_PConv-head
 ![[Pasted image 20250508000734.png]]
+
+
 
 数据集 
 VOC2007
@@ -236,6 +244,7 @@ yolov8s
 STB-08
 mynet
 
+![[Pasted image 20250508151051.png]]
 yolov8s
 
 
