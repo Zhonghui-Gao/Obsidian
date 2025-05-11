@@ -22,8 +22,23 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
+          },
+          {
+            "id": "c7849af91cb8d707",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Research/07 AI/newwork.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "newwork"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,8 +220,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "c7416abfbba7ebc7",
+  "active": "c7849af91cb8d707",
   "lastOpenFiles": [
+    "04 Image/paper/1746668818369.png",
     "04 Image/paper/Pasted image 20250508183239.png",
     "04 Image/paper/Pasted image 20250508161452.png",
     "04 Image/paper/Pasted image 20250508152710.png",
@@ -217,7 +233,6 @@
     "04 Image/paper/Pasted image 20250508122335.png",
     "04 Image/paper/Pasted image 20250508122236.png",
     "04 Image/paper/Pasted image 20250508122205.png",
-    "04 Image/paper/Pasted image 20250508121610.png",
     "02 Research/07 AI/newwork.md",
     "04 Image/paper",
     "02 Research/07 AI/yolov5.md",
