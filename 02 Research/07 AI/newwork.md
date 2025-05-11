@@ -234,7 +234,7 @@ train5
 ![[Pasted image 20250508183239.png]]
 
 
-
+  
 mynet
 ![[Pasted image 20250508081647.png]]
 
