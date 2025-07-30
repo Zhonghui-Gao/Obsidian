@@ -15,5 +15,6 @@
   "useTab": true,
   "autoPairMarkdown": true,
   "showLineNumber": false,
-  "strictLineBreaks": false
+  "strictLineBreaks": false,
+  "promptDelete": false
 }
