@@ -10,35 +10,14 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Homepage/Homepage.md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true,
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Homepage"
-            }
-          },
-          {
-            "id": "66d1195d65c7d5d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 Research/07 AI/yolov8.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "yolov8"
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,8 +200,51 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "66d1195d65c7d5d1",
+  "floating": {
+    "id": "561890686d86ddac",
+    "type": "floating",
+    "children": [
+      {
+        "id": "f71a37049331142c",
+        "type": "window",
+        "children": [
+          {
+            "id": "7706b84b738f9d26",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5783215bc7182014",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/Drawing 2025-11-03 21.25.24.excalidraw.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "Drawing 2025-11-03 21.25.24.excalidraw"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 728,
+        "y": 240,
+        "width": 1031,
+        "height": 808,
+        "maximize": false,
+        "zoom": -0.5
+      }
+    ]
+  },
+  "active": "22d57a2eca042445",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-11-03 21.25.24.excalidraw.md",
+    "03 Expertise/06 QT/ISS.md",
+    "01 Homepage/Homepage.md",
+    "02 Research/07 AI/yolov8.md",
+    "Excalidraw/cropped_cropped_yolov8net.md",
+    "Excalidraw/cropped_yolov8net.md",
     "02 Research/07 AI/yolov5.md",
     "02 Research/07 AI/paper/CCF.md",
     "02 Research/07 AI/paper/中文.md",
@@ -249,16 +271,10 @@
     "Excalidraw/Drawing 2024-11-15 22.28.03.excalidraw.md",
     "Excalidraw/Drawing 2024-02-27 13.45.38.excalidraw.md",
     "Excalidraw/Drawing 2024-01-25 18.26.36.excalidraw.md",
-    "01 Homepage/Homepage.md",
     "03 Expertise/教资.md",
     "03 Expertise/plan.md",
     "03 Expertise/Learning Plan.md",
     "03 Expertise/02 armbian/操作/linux阅读源码.md",
-    "03 Expertise/02 armbian/操作/kernel 6.4.16.md",
-    "02 Research/07 AI/paper/毕业论文.md",
-    "02 Research/07 AI/paper/开题调研报告.md",
-    "02 Research/07 AI/yolov8 修改/超参数设置.md",
-    "03 Expertise/03 linux/linux 美化.md",
     "04 Image/paper",
     "03 Expertise/07 STM32",
     "03 Expertise/06 QT",

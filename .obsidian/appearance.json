@@ -3,9 +3,9 @@
   "cssTheme": "Blue Topaz",
   "theme": "obsidian",
   "baseFontSize": 19,
-  "interfaceFontFamily": "苹方-简,华康手札体W5P,JetBrains Mono",
-  "textFontFamily": "苹方-简,华康手札体W5P,JetBrains Mono,JetBrainsMonoNerdFontCompl NF",
-  "monospaceFontFamily": "JetBrains Mono",
+  "interfaceFontFamily": "Maple Mono NF Medium,苹方-简,华康手札体W5P,JetBrains Mono",
+  "textFontFamily": "Maple Mono NF Medium,苹方-简,华康手札体W5P,JetBrains Mono,JetBrainsMonoNerdFontCompl NF",
+  "monospaceFontFamily": "Maple Mono NF Medium,JetBrains Mono",
   "baseFontSizeAction": true,
   "nativeMenus": false
 }

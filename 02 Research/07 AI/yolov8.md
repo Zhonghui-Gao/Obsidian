@@ -1,4 +1,4 @@
-![[yolov8net.png]]
+![[cropped_cropped_yolov8net]]
 
 
 MHSA [yolov8添加注意力机制-MHSA_mhsa代码-CSDN博客](https://blog.csdn.net/ROCKY__________/article/details/131804291)
