@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "03 Expertise/面试.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "面试"
             }
           }
         ]
@@ -237,10 +241,17 @@
       }
     ]
   },
-  "active": "22d57a2eca042445",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-11-03 21.25.24.excalidraw.md",
+    "04 Image/Pasted Image 20251029151609_676.png",
+    "03 Expertise/面试.md",
+    "04 Image/Pasted image 20251226105725.png",
+    "03 Expertise/plan.md",
+    "03 Expertise/Learning Plan.md",
+    "03 Expertise/教资.md",
+    "04 Image/编译/网络分布.png",
     "03 Expertise/06 QT/ISS.md",
+    "Excalidraw/Drawing 2025-11-03 21.25.24.excalidraw.md",
     "01 Homepage/Homepage.md",
     "02 Research/07 AI/yolov8.md",
     "Excalidraw/cropped_cropped_yolov8net.md",
@@ -257,12 +268,10 @@
     "Excalidraw/机场架构图.svg",
     "Excalidraw/算法.md",
     "Excalidraw/算法.svg",
-    "Pasted Image 20251029154533_672.png",
-    "云 (1).svg",
-    "Pasted Image 20251029154124_583.png",
-    "Pasted Image 20251029152654_254.png",
-    "Pasted Image 20251029152212_203.png",
-    "Pasted Image 20251029152038_211.png",
+    "04 Image/Pasted Image 20251029154533_672.png",
+    "04 Image/云 (1).svg",
+    "04 Image/Pasted Image 20251029154124_583.png",
+    "04 Image/Pasted Image 20251029152654_254.png",
     "Excalidraw/Drawing 2025-06-05 21.59.21.excalidraw.md",
     "Excalidraw/Drawing 2025-01-05 18.35.26.excalidraw.md",
     "Excalidraw/Drawing 2024-12-15 18.41.49.excalidraw.md",
@@ -270,11 +279,6 @@
     "Excalidraw/Drawing 2024-11-17 20.30.01.excalidraw.md",
     "Excalidraw/Drawing 2024-11-15 22.28.03.excalidraw.md",
     "Excalidraw/Drawing 2024-02-27 13.45.38.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-25 18.26.36.excalidraw.md",
-    "03 Expertise/教资.md",
-    "03 Expertise/plan.md",
-    "03 Expertise/Learning Plan.md",
-    "03 Expertise/02 armbian/操作/linux阅读源码.md",
     "04 Image/paper",
     "03 Expertise/07 STM32",
     "03 Expertise/06 QT",
