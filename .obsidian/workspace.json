@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "面试"
             }
+          },
+          {
+            "id": "60915cb7c210d79c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Expertise/大论文.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "大论文"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -241,14 +256,15 @@
       }
     ]
   },
-  "active": "e7a7b303c61786dc",
+  "active": "c7416abfbba7ebc7",
   "lastOpenFiles": [
+    "03 Expertise/面试.md",
+    "03 Expertise/大论文.md",
     "Pasted image 20251226145853.png",
     "Pasted image 20251226115145.png",
     "Pasted image 20251226115108.png",
     "Pasted image 20251226114042.png",
     "04 Image/Pasted Image 20251029151609_676.png",
-    "03 Expertise/面试.md",
     "04 Image/Pasted image 20251226105725.png",
     "03 Expertise/plan.md",
     "03 Expertise/Learning Plan.md",
@@ -271,7 +287,6 @@
     "Excalidraw/机场架构图.md",
     "Excalidraw/机场架构图.svg",
     "Excalidraw/算法.md",
-    "Excalidraw/算法.svg",
     "Excalidraw/Drawing 2025-06-05 21.59.21.excalidraw.md",
     "Excalidraw/Drawing 2025-01-05 18.35.26.excalidraw.md",
     "Excalidraw/Drawing 2024-12-15 18.41.49.excalidraw.md",
