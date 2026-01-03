@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Expertise/plan.md",
+                "file": "03 Expertise/大论文.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "plan"
+              "title": "大论文"
             }
           }
         ]
@@ -222,10 +222,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 585,
-        "y": 209,
-        "width": 1037,
-        "height": 813,
+        "x": 584,
+        "y": 208,
+        "width": 1044,
+        "height": 820,
         "maximize": false,
         "zoom": -0.5
       }
@@ -233,14 +233,14 @@
   },
   "active": "5783215bc7182014",
   "lastOpenFiles": [
-    "03 Expertise/plan.md",
-    "04 Image/Pasted image 20251226114042.png",
-    "04 Image/Pasted image 20251226115145.png",
-    "04 Image/Pasted image 20251226115108.png",
     "03 Expertise/大论文.md",
     "03 Expertise/教资.md",
     "01 Homepage/Homepage.md",
     "Excalidraw/Drawing 2025-11-03 21.25.24.excalidraw.md",
+    "03 Expertise/plan.md",
+    "04 Image/Pasted image 20251226114042.png",
+    "04 Image/Pasted image 20251226115145.png",
+    "04 Image/Pasted image 20251226115108.png",
     "未命名.base",
     "未命名 2.base",
     "2025-12-29.md",
