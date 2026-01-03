@@ -4,41 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "cd96ec5ada0373f2",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "9db9b5a4228d7363",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Homepage/Homepage.md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Homepage"
-            }
-          },
-          {
-            "id": "37cfb837c267eaf2",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Expertise/大论文.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "大论文"
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -239,24 +218,25 @@
           }
         ],
         "direction": "vertical",
-        "x": 728,
-        "y": 240,
-        "width": 1031,
-        "height": 808,
+        "x": 585,
+        "y": 209,
+        "width": 1037,
+        "height": 813,
         "maximize": false,
         "zoom": -0.5
       }
     ]
   },
-  "active": "37cfb837c267eaf2",
+  "active": "2554995cb171a0a9",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-11-03 21.25.24.excalidraw.md",
+    "03 Expertise/大论文.md",
     "未命名.base",
     "01 Homepage/Homepage.md",
     "未命名 2.base",
     "2025-12-29.md",
     "03 Expertise/面试.md",
     "未命名 1.base",
-    "03 Expertise/大论文.md",
     "Pasted image 20251226145853.png",
     "Pasted image 20251226115145.png",
     "Pasted image 20251226115108.png",
@@ -268,7 +248,6 @@
     "03 Expertise/教资.md",
     "04 Image/编译/网络分布.png",
     "03 Expertise/06 QT/ISS.md",
-    "Excalidraw/Drawing 2025-11-03 21.25.24.excalidraw.md",
     "02 Research/07 AI/yolov8.md",
     "Excalidraw/cropped_cropped_yolov8net.md",
     "Excalidraw/cropped_yolov8net.md",
