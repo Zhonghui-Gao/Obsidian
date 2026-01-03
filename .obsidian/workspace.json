@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "03 Expertise/plan.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "plan"
             }
           }
         ]
@@ -227,25 +231,25 @@
       }
     ]
   },
-  "active": "2554995cb171a0a9",
+  "active": "5783215bc7182014",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-11-03 21.25.24.excalidraw.md",
+    "03 Expertise/plan.md",
+    "04 Image/Pasted image 20251226114042.png",
+    "04 Image/Pasted image 20251226115145.png",
+    "04 Image/Pasted image 20251226115108.png",
     "03 Expertise/大论文.md",
-    "未命名.base",
+    "03 Expertise/教资.md",
     "01 Homepage/Homepage.md",
+    "Excalidraw/Drawing 2025-11-03 21.25.24.excalidraw.md",
+    "未命名.base",
     "未命名 2.base",
     "2025-12-29.md",
     "03 Expertise/面试.md",
     "未命名 1.base",
-    "Pasted image 20251226145853.png",
-    "Pasted image 20251226115145.png",
-    "Pasted image 20251226115108.png",
-    "Pasted image 20251226114042.png",
+    "04 Image/Pasted image 20251226145853.png",
     "04 Image/Pasted Image 20251029151609_676.png",
     "04 Image/Pasted image 20251226105725.png",
-    "03 Expertise/plan.md",
     "03 Expertise/Learning Plan.md",
-    "03 Expertise/教资.md",
     "04 Image/编译/网络分布.png",
     "03 Expertise/06 QT/ISS.md",
     "02 Research/07 AI/yolov8.md",
