@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Research/07 AI/paper/大论文.md",
+                "file": "03 Expertise/02 armbian/任务/06 内核修改.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "大论文"
+              "title": "06 内核修改"
             }
           }
         ]
@@ -233,8 +233,14 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "02 Research/07 AI/paper/毕业论文.md",
+    "03 Expertise/02 armbian/任务/01 系统启动.md",
+    "03 Expertise/02 armbian/任务/02 uboot与内核之间的关系.md",
+    "03 Expertise/02 armbian/任务/04 uefi和grub启动器的工作原理.md",
+    "03 Expertise/02 armbian/任务/05 交叉编译文件系统及docker.md",
+    "03 Expertise/02 armbian/任务/03 自定义uboot及内核的流程.md",
+    "03 Expertise/02 armbian/任务/06 内核修改.md",
     "02 Research/07 AI/paper/大论文.md",
+    "02 Research/07 AI/paper/毕业论文.md",
     "02 Research/07 AI/paper/中文.md",
     "02 Research/07 AI/paper/开题调研报告.md",
     "02 Research/07 AI/paper/CCF.md",
@@ -263,15 +269,9 @@
     "02 Research/07 AI/yolov5.md",
     "02 Research/07 AI/yolov8 修改/WIoU.md",
     "02 Research/07 AI/yolov8 修改/Shape-IOU.md",
-    "Excalidraw/机场算法图.md",
     "Excalidraw/机场算法图.png",
     "Excalidraw/机场架构图.png",
-    "Excalidraw/机场架构图.md",
     "Excalidraw/机场架构图.svg",
-    "Excalidraw/算法.md",
-    "Excalidraw/Drawing 2025-06-05 21.59.21.excalidraw.md",
-    "Excalidraw/Drawing 2025-01-05 18.35.26.excalidraw.md",
-    "Excalidraw/Drawing 2024-12-15 18.41.49.excalidraw.md",
     "04 Image/paper",
     "03 Expertise/07 STM32",
     "03 Expertise/06 QT",
