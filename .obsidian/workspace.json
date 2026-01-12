@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Expertise/02 armbian/任务/06 内核修改.md",
+                "file": "02 Research/07 AI/paper/开题调研报告.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06 内核修改"
+              "title": "开题调研报告"
             }
           }
         ]
@@ -233,12 +233,16 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "02 Research/07 AI/paper/大论文.md",
+    "02 Research/07 AI/paper/开题调研报告.md",
+    "02 Research/07 AI/paper/中文.md",
+    "02 Research/07 AI/paper/毕业论文.md",
+    "03 Expertise/02 armbian/任务/06 内核修改.md",
     "03 Expertise/02 armbian/任务/05 交叉编译文件系统及docker.md",
     "03 Expertise/02 armbian/任务/01 系统启动.md",
     "03 Expertise/02 armbian/任务/02 uboot与内核之间的关系.md",
     "03 Expertise/02 armbian/任务/03 自定义uboot及内核的流程.md",
     "03 Expertise/02 armbian/任务/04 uefi和grub启动器的工作原理.md",
-    "03 Expertise/02 armbian/任务/06 内核修改.md",
     "03 Expertise/02 armbian/上手/rk3568/设备树/串口uart.md",
     "03 Expertise/02 armbian/上手/rk3568/设备树/网口WOL.md",
     "03 Expertise/02 armbian/上手/rk3568/设备树/EDP2VGA.md",
@@ -256,10 +260,6 @@
     "Excalidraw/Drawing 2025-11-03 21.25.24.excalidraw.md",
     "01 Homepage/Homepage.md",
     "Pasted image 20260109224716.png",
-    "02 Research/07 AI/paper/大论文.md",
-    "02 Research/07 AI/paper/毕业论文.md",
-    "02 Research/07 AI/paper/中文.md",
-    "02 Research/07 AI/paper/开题调研报告.md",
     "04 Image/Pasted image 20251226114042.png",
     "04 Image/Pasted image 20251226115145.png",
     "04 Image/Pasted image 20251226115108.png",
