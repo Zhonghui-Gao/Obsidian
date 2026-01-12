@@ -5,12 +5,12 @@
   "oz-image-plugin",
   "obsidian-banners",
   "multi-column-markdown",
-  "obsidian-excalidraw-plugin",
   "table-editor-obsidian",
   "various-complements",
   "obsidian-emoji-toolbar",
   "obsidian-git",
   "obsidian-zotero-desktop-connector",
   "obsidian-style-settings",
-  "homepage"
+  "homepage",
+  "obsidian-excalidraw-plugin"
 ]
