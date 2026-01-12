@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Research/07 AI/paper/开题调研报告.md",
+                "file": "02 Research/07 AI/paper/大论文.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "开题调研报告"
+              "title": "大论文"
             }
           }
         ]
@@ -233,11 +233,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "02 Research/07 AI/paper/CCF.md",
     "02 Research/07 AI/paper/中文.md",
-    "Excalidraw/Taxonomy of Smart Classroom Literature.md",
     "02 Research/07 AI/paper/开题调研报告.md",
     "02 Research/07 AI/paper/大论文.md",
     "02 Research/07 AI/paper/毕业论文.md",
+    "Excalidraw/Taxonomy of Smart Classroom Literature.md",
     "02 Research/06 ACM/A Component Vulnerability Matching Approach for IoT Firmware.md",
     "02 Research/04 Modern cryptography/RSA.md",
     "01 Homepage/Homepage.md",
@@ -268,7 +269,6 @@
     "Excalidraw/Drawing 2025-06-05 21.59.21.excalidraw.md",
     "Excalidraw/Drawing 2024-11-17 20.30.01.excalidraw.md",
     "Excalidraw/Drawing 2024-09-11 18.42.30.excalidraw.md",
-    "Excalidraw/Drawing 2024-07-20 11.23.01.excalidraw.md",
     "未命名.base",
     "未命名 2.base",
     "未命名 1.base",
