@@ -24,15 +24,17 @@
             }
           },
           {
-            "id": "e5747ca41506a6c8",
+            "id": "f6ef16e419b3aa1d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.5"
+                "file": "03 Expertise/面试.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.11.5"
+              "icon": "lucide-file",
+              "title": "面试"
             }
           }
         ],
@@ -209,14 +211,14 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "e5747ca41506a6c8",
+  "active": "f6ef16e419b3aa1d",
   "lastOpenFiles": [
-    "01 Homepage/Homepage.md",
     "02 Research/07 AI/paper/大论文.md",
     "02 Research/07 AI/paper/毕业论文.md",
     "02 Research/07 AI/paper/开题调研报告.md",
     "02 Research/07 AI/paper/中文.md",
     "02 Research/07 AI/paper/CCF.md",
+    "01 Homepage/Homepage.md",
     "02 Research/07 AI/yolov8 修改/Shape-IOU.md",
     "02 Research/07 AI/yolov8 修改/WIoU.md",
     "02 Research/07 AI/yolov5.md",
