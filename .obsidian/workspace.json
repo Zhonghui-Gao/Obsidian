@@ -10,18 +10,33 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Research/07 AI/paper/大论文.md",
-                "mode": "source",
+                "file": "01 Homepage/Homepage.md",
+                "mode": "preview",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "大论文"
+              "title": "Homepage"
+            }
+          },
+          {
+            "id": "e5747ca41506a6c8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.11.5"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,10 +209,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "e5747ca41506a6c8",
   "lastOpenFiles": [
-    "02 Research/07 AI/paper/毕业论文.md",
+    "01 Homepage/Homepage.md",
     "02 Research/07 AI/paper/大论文.md",
+    "02 Research/07 AI/paper/毕业论文.md",
     "02 Research/07 AI/paper/开题调研报告.md",
     "02 Research/07 AI/paper/中文.md",
     "02 Research/07 AI/paper/CCF.md",
@@ -218,7 +234,6 @@
     "03 Expertise/02 armbian/任务/04 uefi和grub启动器的工作原理.md",
     "03 Expertise/02 armbian/任务/05 交叉编译文件系统及docker.md",
     "03 Expertise/02 armbian/任务/06 内核修改.md",
-    "01 Homepage/Homepage.md",
     "03 Expertise/02 armbian/上手/rk3568/设备树/LED.md",
     "03 Expertise/面试.md",
     "Pasted image 20260113112953.png",
