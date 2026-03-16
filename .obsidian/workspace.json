@@ -27,12 +27,14 @@
             "id": "5ad0fc2be1d1539f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.4"
+                "file": "02 Research/07 AI/paper/大论文.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.12.4"
+              "icon": "lucide-file",
+              "title": "大论文"
             }
           }
         ],
