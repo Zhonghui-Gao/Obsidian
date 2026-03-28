@@ -10,14 +10,33 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01 Homepage/Homepage.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Homepage"
+            }
+          },
+          {
+            "id": "c8949de43ae7a888",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-03-28 13.26.20.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-03-28 13.26.20.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,27 +209,29 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "c8949de43ae7a888",
   "lastOpenFiles": [
+    "01 Homepage/Homepage.md",
+    "Excalidraw/Drawing 2026-03-28 13.26.20.excalidraw.md",
+    "未命名.md",
+    "04 Image/Pasted image 20260308023822.png",
+    "04 Image/Pasted image 20260308023515.png",
+    "04 Image/Pasted image 20260308013459.png",
+    "04 Image/Pasted image 20260308001437.png",
+    "04 Image/Pasted image 20260309141752.png",
+    "04 Image/Pasted image 20260309124650.png",
+    "04 Image/Pasted image 20260309035352.png",
+    "04 Image/Pasted image 20260309033903.png",
+    "04 Image/Pasted image 20260307191145.png",
+    "04 Image/Pasted image 20260307160546.png",
     "02 Research/07 AI/paper/大论文.md",
     "02 Research/07 AI/paper/毕业论文.md",
     "02 Research/07 AI/paper/开题调研报告.md",
     "02 Research/07 AI/paper/中文.md",
-    "01 Homepage/Homepage.md",
     "02 Research/07 AI/paper/CCF.md",
     "02 Research/07 AI/yolov8.md",
     "03 Expertise/02 armbian/任务/02 uboot与内核之间的关系.md",
     "03 Expertise/02 armbian/任务/01 系统启动.md",
-    "Pasted image 20260312192001.png",
-    "Pasted image 20260311014353.png",
-    "Pasted image 20260310135702.png",
-    "Pasted image 20260309214901.png",
-    "Pasted image 20260309141752.png",
-    "Pasted image 20260309124650.png",
-    "Pasted image 20260309035352.png",
-    "Pasted image 20260309033903.png",
-    "Pasted image 20260308211253.png",
-    "Pasted image 20260308172300.png",
     "02 Research/07 AI/yolov8 修改/超参数设置.md",
     "02 Research/07 AI/yolov8 修改/PConv_Detect.md",
     "02 Research/07 AI/yolov8 修改/Shape-IOU.md",
@@ -226,8 +247,6 @@
     "02 Research/01 paper/物联网安全.md",
     "03 Expertise/02 armbian/上手/Qt Gstreamer.md",
     "03 Expertise/02 armbian/上手/rk3568/设备树/EDP2VGA.md",
-    "02 Research/04 Modern cryptography/RSA.md",
-    "03 Expertise/02 armbian/上手/uboot + kernel 启动动画.md",
     "未命名.base",
     "未命名 2.base",
     "未命名 1.base",
