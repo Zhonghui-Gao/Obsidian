@@ -10,33 +10,14 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Homepage/Homepage.md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true,
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Homepage"
-            }
-          },
-          {
-            "id": "c8949de43ae7a888",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-03-28 13.26.20.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-03-28 13.26.20.excalidraw"
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,10 +190,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "c8949de43ae7a888",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "01 Homepage/Homepage.md",
     "Excalidraw/Drawing 2026-03-28 13.26.20.excalidraw.md",
+    "01 Homepage/Homepage.md",
     "未命名.md",
     "04 Image/Pasted image 20260308023822.png",
     "04 Image/Pasted image 20260308023515.png",
