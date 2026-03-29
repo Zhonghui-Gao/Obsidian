@@ -27,12 +27,14 @@
             "id": "59b4397b764525f7",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-03-29 16.29.23.excalidraw.md"
+                "file": "02 Research/07 AI/paper/毕业论文.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-03-29 16.29.23.excalidraw"
+              "icon": "lucide-file",
+              "title": "毕业论文"
             }
           }
         ],
@@ -211,9 +213,12 @@
   },
   "active": "59b4397b764525f7",
   "lastOpenFiles": [
-    "Pasted Image 20260329163007_920.png",
+    "02 Research/07 AI/paper/中文.md",
+    "02 Research/07 AI/paper/开题调研报告.md",
     "02 Research/07 AI/paper/大论文.md",
+    "02 Research/07 AI/paper/CCF.md",
     "Excalidraw/Drawing 2026-03-29 16.29.23.excalidraw.md",
+    "Pasted Image 20260329163007_920.png",
     "02 Research/07 AI/paper/毕业论文.md",
     "01 Homepage/Homepage.md",
     "Excalidraw/Drawing 2026-03-28 13.26.20.excalidraw.md",
@@ -227,10 +232,6 @@
     "04 Image/Pasted image 20260309035352.png",
     "04 Image/Pasted image 20260309033903.png",
     "04 Image/Pasted image 20260307191145.png",
-    "04 Image/Pasted image 20260307160546.png",
-    "02 Research/07 AI/paper/开题调研报告.md",
-    "02 Research/07 AI/paper/中文.md",
-    "02 Research/07 AI/paper/CCF.md",
     "02 Research/07 AI/yolov8.md",
     "03 Expertise/02 armbian/任务/02 uboot与内核之间的关系.md",
     "03 Expertise/02 armbian/任务/01 系统启动.md",
