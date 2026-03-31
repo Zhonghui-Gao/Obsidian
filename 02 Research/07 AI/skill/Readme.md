@@ -47,3 +47,7 @@ npx skills add https://github.com/anthropics/skills --skill pptx
 ![[Pasted image 20260331211010.png]]
 
 失败的：
+```shell
+afeter 60s 添加失败Failde to clone respositor之类的话术
+```
+
