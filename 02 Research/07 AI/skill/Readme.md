@@ -36,6 +36,9 @@ https://github.com/farion1231/cc-switch/releases/tag/v3.12.3
 ### skills
 官网：https://skills.sh/
 这里有很多skill的rank榜
+
+skills 是一个命令行工具，用来统一管理各种「AI 编程代理（code agents）」的可复用技能（Agent Skills），比如 Claude Code、Cursor、OpenCode、GitHub Copilot、QWen Code 等在内的35种AI编程代理。
+
 我们需要PPTX的就下载即可
 ![[Pasted image 20260331210830.png]]
 ```shell
@@ -49,5 +52,66 @@ npx skills add https://github.com/anthropics/skills --skill pptx
 失败的：
 ```shell
 afeter 60s 添加失败Failde to clone respositor之类的话术
+◓  Cloning repository..│
+■  Failed to clone repository
+│
+│  Clone timed out after 60s. This often happens with private repos that require authentication.
+│
+│    Ensure you have access and your SSH keys or credentials are configured:
+│
+│    - For SSH: ssh-add -l (to check loaded keys)
+│
+│    - For HTTPS: gh auth status (if using GitHub CLI)
+│
+│  Tip: use the --yes (-y) and --global (-g) flags to install without prompts.
+│
+└  Installation failed
 ```
+
+手动安装 全局变量 也可以设置当前工程(目录下)使用局部变量
+```shell
+npx skills add D:\PPT\skills\skills --skill pptx --yes --global
+```
+
+参考：https://blog.csdn.net/qq_41914181/article/details/159528959
+
+成功加载：
+
+![[Pasted image 20260402140919.png]]
+
+
+## 使用方法
+## PackeyAPI
+https://docs.packyapi.com/ 其实就是大模型的“供应商"
+
+使用文档：
+https://docs.packyapi.com/docs/register/ 
+
+切换模型：
+https://juejin.cn/post/7611769471619645478
+
+填入注册好的API即可 选择模型
+![[Pasted image 20260402140827.png]]
+打开Cluade code 成功
+
+
+![[Pasted image 20260402141654.png]]
+
+
+## PPT制作 
+
+打开Cluade code 这是我的提示词
+
+![[Pasted image 20260402140937.png]]
+目录下创建了pic/ .pdf .md
+pic目录，里面存放一些图片的素材，
+
+![[Pasted image 20260402141144.png]]
+
+编写规则xxx.md 
+这部分按照对PPT的预期想法进行编写
+
+
+结果：
+![[Pasted image 20260402141440.png]]
 
