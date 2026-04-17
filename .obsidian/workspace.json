@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Expertise/07 STM32/基础.md",
+                "file": "02 Research/07 AI/paper/大论文.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "基础"
+              "title": "大论文"
             }
           }
         ],
@@ -213,6 +213,16 @@
   },
   "active": "ae4263ef1e8cd0ab",
   "lastOpenFiles": [
+    "02 Research/07 AI/paper/开题调研报告.md",
+    "02 Research/07 AI/paper/大论文.md",
+    "02 Research/07 AI/paper/CCF.md",
+    "02 Research/07 AI/paper/中文.md",
+    "02 Research/07 AI/paper/毕业论文.md",
+    "02 Research/07 AI/skill/论文格式要求.md",
+    "02 Research/07 AI/skill/Readme.md",
+    "02 Research/07 AI/yolov8.md",
+    "02 Research/07 AI/yolov5.md",
+    "03 Expertise/07 STM32/基础.md",
     "03 Expertise/06 QT/ISS.md",
     "03 Expertise/06 QT/C++ & QT.md",
     "03 Expertise/05 ESP8266/README.md",
@@ -229,16 +239,6 @@
     "03 Expertise/02 armbian/操作/kernel 6.4.16.md",
     "03 Expertise/02 armbian/操作/烧录+linux环境.md",
     "03 Expertise/02 armbian/操作/编译问题.md",
-    "03 Expertise/02 armbian/任务/01 系统启动.md",
-    "02 Research/07 AI/newwork.md",
-    "02 Research/07 AI/yolov8.md",
-    "02 Research/07 AI/yolov5.md",
-    "02 Research/07 AI/skill/文档要求.md",
-    "02 Research/07 AI/skill/Readme.md",
-    "03 Expertise/02 armbian/上手/linux-armbian/linux-armbian.md",
-    "03 Expertise/02 armbian/上手/rk3568/设备树/串口uart.md",
-    "03 Expertise/02 armbian/上手/rk3568/设备树/EDP2VGA.md",
-    "03 Expertise/02 armbian/上手/rk3568/设备树/LED.md",
     "未命名 1.base",
     "未命名.base",
     "Pasted image 20260402141654.png",
