@@ -211,8 +211,47 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "3582d58ebb17bef4",
+  "floating": {
+    "id": "311661cea4119908",
+    "type": "floating",
+    "children": [
+      {
+        "id": "27cb77e08d07b831",
+        "type": "window",
+        "children": [
+          {
+            "id": "4181251eadd71475",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6db5c9674cdf6af0",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/Drawing 2026-05-20 09.51.41.excalidraw.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "Drawing 2026-05-20 09.51.41.excalidraw"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 512,
+        "y": 152,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "6db5c9674cdf6af0",
   "lastOpenFiles": [
+    "02 Research/07 AI/skill/Readme.md",
+    "Excalidraw/Drawing 2026-05-20 09.51.41.excalidraw.md",
     "02 Research/07 AI/skill/eng.md",
     "02 Research/07 AI/skill/文档要求.md",
     "02 Research/07 AI/skill/论文格式要求.md",
@@ -220,7 +259,6 @@
     "02 Research/07 AI/skill/汇报.md",
     "02 Research/07 AI/paper/CCF.md",
     "01 Homepage/Homepage.md",
-    "02 Research/07 AI/skill/Readme.md",
     "02 Research/07 AI/paper/中文.md",
     "02 Research/07 AI/paper/毕业论文.md",
     "未命名 2.base",
@@ -239,7 +277,6 @@
     "03 Expertise/03 linux/linux 美化.md",
     "03 Expertise/02 armbian/上手/小学期国产芯片hm3568.md",
     "03 Expertise/02 armbian/上手/uboot + kernel 启动动画.md",
-    "03 Expertise/02 armbian/上手/Qt Gstreamer.md",
     "未命名 1.base",
     "未命名.base",
     "Pasted image 20260402141654.png",
