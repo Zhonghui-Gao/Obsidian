@@ -23,7 +23,7 @@ status: 🌲done
 
 进入解压后的目录，运行`make menuconfig` 进入配置菜单，根据需要选择目标系统的架构、交叉编译工具链、内核版本、根文件系统等选项。
 
-![[menuconfig.jpg]]
+![[menuconfig.jpg|580]]
 
 ![[arm.jpg]]
 
