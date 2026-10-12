@@ -22,23 +22,8 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
-          },
-          {
-            "id": "f34ad8440b24eb2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Expertise/02 armbian/任务/06 内核修改.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "06 内核修改"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,10 +198,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "f34ad8440b24eb2b",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "03 Expertise/02 armbian/任务/05 交叉编译文件系统及docker.md",
     "03 Expertise/02 armbian/任务/06 内核修改.md",
+    "03 Expertise/02 armbian/任务/05 交叉编译文件系统及docker.md",
     "03 Expertise/02 armbian/任务/01 系统启动.md",
     "03 Expertise/02 armbian/操作/buildroot.md",
     "03 Expertise/02 armbian/操作/烧录+linux环境.md",
